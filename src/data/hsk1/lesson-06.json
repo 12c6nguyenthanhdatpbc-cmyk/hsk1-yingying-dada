@@ -1,0 +1,1065 @@
+{
+  "id": "hsk1-06",
+  "courseId": "hsk1",
+  "order": 6,
+  "group": "Bài 06–10",
+  "zhTitle": "你的手机号是多少？",
+  "pinyinTitle": "Nǐ de shǒujīhào shì duōshao?",
+  "viTitle": "Số điện thoại di động của bạn là bao nhiêu?",
+  "image": "images/hsk1-lesson06.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 6 Giáo trình New HSK 1 (HSK 3.0): Đọc số điện thoại (1 đọc là yāo), động từ năng nguyện 想, câu liên động (1) (mục đích & phương thức) và 怎么.",
+  "vocabulary": [
+    {
+      "id": "v30-06-01",
+      "hanzi": "手机",
+      "pinyin": "shǒujī",
+      "pos": "Danh từ",
+      "meaning": "Điện thoại di động",
+      "exampleZh": "你的手机号是多少？",
+      "examplePinyin": "Nǐ de shǒujīhào shì duōshao?",
+      "exampleVi": "Số điện thoại di động của bạn là bao nhiêu?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ.",
+      "collocations": [
+        "手机 (Điện thoại di động)"
+      ],
+      "extraExample": "你的手机号是多少？ — Số điện thoại di động của bạn là bao nhiêu?"
+    },
+    {
+      "id": "v30-06-02",
+      "hanzi": "电话",
+      "pinyin": "diànhuà",
+      "pos": "Danh từ",
+      "meaning": "Điện thoại",
+      "exampleZh": "你的电话号呢？",
+      "examplePinyin": "Nǐ de diànhuàhào ne?",
+      "exampleVi": "Còn số điện thoại của bạn?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ.",
+      "collocations": [
+        "电话 (Điện thoại)"
+      ],
+      "extraExample": "你的电话号呢？ — Còn số điện thoại của bạn?"
+    },
+    {
+      "id": "v30-06-03",
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "pos": "Danh từ",
+      "meaning": "Ngày mai",
+      "exampleZh": "明天你去哪儿？",
+      "examplePinyin": "Míngtiān nǐ qù nǎr?",
+      "exampleVi": "Ngày mai bạn đi đâu?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ.",
+      "collocations": [
+        "明天 (Ngày mai)"
+      ],
+      "extraExample": "明天你去哪儿？ — Ngày mai bạn đi đâu?"
+    },
+    {
+      "id": "v30-06-04",
+      "hanzi": "去",
+      "pinyin": "qù",
+      "pos": "Động từ",
+      "meaning": "Đi",
+      "exampleZh": "我想去超市买东西。",
+      "examplePinyin": "Wǒ xiǎng qù chāoshì mǎi dōngxi.",
+      "exampleVi": "Mình muốn đi siêu thị mua đồ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Động từ.",
+      "collocations": [
+        "去 (Đi)"
+      ],
+      "extraExample": "我想去超市买东西。 — Mình muốn đi siêu thị mua đồ."
+    },
+    {
+      "id": "v30-06-05",
+      "hanzi": "哪儿",
+      "pinyin": "nǎr",
+      "pos": "Đại từ",
+      "meaning": "Đâu, chỗ nào",
+      "exampleZh": "星期天我们去哪儿吃晚饭？",
+      "examplePinyin": "Xīngqītiān wǒmen qù nǎr chī wǎnfàn?",
+      "exampleVi": "Chủ nhật nhà mình đi đâu ăn tối nhỉ?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Đại từ.",
+      "collocations": [
+        "哪儿 (Đâu, chỗ nào)"
+      ],
+      "extraExample": "星期天我们去哪儿吃晚饭？ — Chủ nhật nhà mình đi đâu ăn tối nhỉ?"
+    },
+    {
+      "id": "v30-06-06",
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "pos": "Động từ năng nguyện",
+      "meaning": "Muốn",
+      "exampleZh": "我想买些牛奶。",
+      "examplePinyin": "Wǒ xiǎng mǎi xiē niúnǎi.",
+      "exampleVi": "Mình muốn mua ít sữa.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Động từ năng nguyện.",
+      "collocations": [
+        "想 (Muốn)"
+      ],
+      "extraExample": "我想买些牛奶。 — Mình muốn mua ít sữa."
+    },
+    {
+      "id": "v30-06-07",
+      "hanzi": "超市",
+      "pinyin": "chāoshì",
+      "pos": "Danh từ",
+      "meaning": "Siêu thị",
+      "exampleZh": "我想去超市买东西。",
+      "examplePinyin": "Wǒ xiǎng qù chāoshì mǎi dōngxi.",
+      "exampleVi": "Mình muốn đi siêu thị mua đồ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ.",
+      "collocations": [
+        "超市 (Siêu thị)"
+      ],
+      "extraExample": "我想去超市买东西。 — Mình muốn đi siêu thị mua đồ."
+    },
+    {
+      "id": "v30-06-08",
+      "hanzi": "买",
+      "pinyin": "mǎi",
+      "pos": "Động từ",
+      "meaning": "Mua",
+      "exampleZh": "你去超市买什么？",
+      "examplePinyin": "Nǐ qù chāoshì mǎi shénme?",
+      "exampleVi": "Bạn đi siêu thị mua gì vậy?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Động từ.",
+      "collocations": [
+        "买 (Mua)"
+      ],
+      "extraExample": "你去超市买什么？ — Bạn đi siêu thị mua gì vậy?"
+    },
+    {
+      "id": "v30-06-09",
+      "hanzi": "东西",
+      "pinyin": "dōngxi",
+      "pos": "Danh từ",
+      "meaning": "Đồ, đồ đạc",
+      "exampleZh": "买东西",
+      "examplePinyin": "mǎi dōngxi",
+      "exampleVi": "Mua đồ",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ.",
+      "collocations": [
+        "东西 (Đồ, đồ đạc)"
+      ],
+      "extraExample": "买东西 — Mua đồ"
+    },
+    {
+      "id": "v30-06-10",
+      "hanzi": "牛奶",
+      "pinyin": "niúnǎi",
+      "pos": "Danh từ",
+      "meaning": "Sữa (bò)",
+      "exampleZh": "我想买些牛奶。",
+      "examplePinyin": "Wǒ xiǎng mǎi xiē niúnǎi.",
+      "exampleVi": "Mình muốn mua ít sữa.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ.",
+      "collocations": [
+        "牛奶 (Sữa (bò))"
+      ],
+      "extraExample": "我想买些牛奶。 — Mình muốn mua ít sữa."
+    },
+    {
+      "id": "v30-06-11",
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "pos": "Động từ",
+      "meaning": "Ăn",
+      "exampleZh": "我想吃包子。",
+      "examplePinyin": "Wǒ xiǎng chī bāozi.",
+      "exampleVi": "Con muốn ăn bánh bao.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Động từ.",
+      "collocations": [
+        "吃 (Ăn)"
+      ],
+      "extraExample": "我想吃包子。 — Con muốn ăn bánh bao."
+    },
+    {
+      "id": "v30-06-12",
+      "hanzi": "晚饭",
+      "pinyin": "wǎnfàn",
+      "pos": "Danh từ",
+      "meaning": "Bữa tối",
+      "exampleZh": "我们去西安饭店吃晚饭。",
+      "examplePinyin": "Wǒmen qù Xī'ān Fàndiàn chī wǎnfàn.",
+      "exampleVi": "Chúng ta đến nhà hàng Tây An ăn tối.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ.",
+      "collocations": [
+        "晚饭 (Bữa tối)"
+      ],
+      "extraExample": "我们去西安饭店吃晚饭。 — Chúng ta đến nhà hàng Tây An ăn tối."
+    },
+    {
+      "id": "v30-06-13",
+      "hanzi": "包子",
+      "pinyin": "bāozi",
+      "pos": "Danh từ",
+      "meaning": "Bánh bao (có nhân)",
+      "exampleZh": "那边的包子非常好吃。",
+      "examplePinyin": "Nàbiān de bāozi fēicháng hǎochī.",
+      "exampleVi": "Bánh bao ở đó rất ngon.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ.",
+      "collocations": [
+        "包子 (Bánh bao (có nhân))"
+      ],
+      "extraExample": "那边的包子非常好吃。 — Bánh bao ở đó rất ngon."
+    },
+    {
+      "id": "v30-06-14",
+      "hanzi": "非常",
+      "pinyin": "fēicháng",
+      "pos": "Phó từ",
+      "meaning": "Rất, vô cùng, cực kỳ",
+      "exampleZh": "非常好吃！",
+      "examplePinyin": "Fēicháng hǎochī!",
+      "exampleVi": "Cực kỳ ngon!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Phó từ.",
+      "collocations": [
+        "非常 (Rất, vô cùng, cực kỳ)"
+      ],
+      "extraExample": "非常好吃！ — Cực kỳ ngon!"
+    },
+    {
+      "id": "v30-06-15",
+      "hanzi": "好吃",
+      "pinyin": "hǎochī",
+      "pos": "Tính từ",
+      "meaning": "Ngon",
+      "exampleZh": "包子非常好吃。",
+      "examplePinyin": "Bāozi fēicháng hǎochī.",
+      "exampleVi": "Bánh bao rất ngon.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Tính từ.",
+      "collocations": [
+        "好吃 (Ngon)"
+      ],
+      "extraExample": "包子非常好吃。 — Bánh bao rất ngon."
+    },
+    {
+      "id": "v30-06-16",
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "pos": "Danh từ",
+      "meaning": "Cơm (cơm trắng)",
+      "exampleZh": "我想吃米饭，不想吃包子。",
+      "examplePinyin": "Wǒ xiǎng chī mǐfàn, bù xiǎng chī bāozi.",
+      "exampleVi": "Con muốn ăn cơm, không muốn ăn bánh bao.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ.",
+      "collocations": [
+        "米饭 (Cơm (cơm trắng))"
+      ],
+      "extraExample": "我想吃米饭，不想吃包子。 — Con muốn ăn cơm, không muốn ăn bánh bao."
+    },
+    {
+      "id": "v30-06-17",
+      "hanzi": "怎么",
+      "pinyin": "zěnme",
+      "pos": "Đại từ",
+      "meaning": "Thế nào, bằng cách nào",
+      "exampleZh": "我们怎么去？",
+      "examplePinyin": "Wǒmen zěnme qù?",
+      "exampleVi": "Chúng ta đi thế nào nhỉ?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Đại từ.",
+      "collocations": [
+        "怎么 (Thế nào, bằng cách nào)"
+      ],
+      "extraExample": "我们怎么去？ — Chúng ta đi thế nào nhỉ?"
+    },
+    {
+      "id": "v30-06-18",
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "pos": "Động từ",
+      "meaning": "Ngồi, đi (xe, tàu...)",
+      "exampleZh": "坐出租车去。",
+      "examplePinyin": "Zuò chūzūchē qù.",
+      "exampleVi": "Đi taxi nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Động từ.",
+      "collocations": [
+        "坐 (Ngồi, đi (xe, tàu...))"
+      ],
+      "extraExample": "坐出租车去。 — Đi taxi nhé."
+    },
+    {
+      "id": "v30-06-19",
+      "hanzi": "出租车",
+      "pinyin": "chūzūchē",
+      "pos": "Danh từ",
+      "meaning": "Xe taxi",
+      "exampleZh": "我们坐出租车去西安饭店。",
+      "examplePinyin": "Wǒmen zuò chūzūchē qù Xī'ān Fàndiàn.",
+      "exampleVi": "Chúng ta đi taxi đến nhà hàng Tây An.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ.",
+      "collocations": [
+        "出租车 (Xe taxi)"
+      ],
+      "extraExample": "我们坐出租车去西安饭店。 — Chúng ta đi taxi đến nhà hàng Tây An."
+    },
+    {
+      "id": "v30-06-20",
+      "hanzi": "号",
+      "pinyin": "hào",
+      "pos": "Danh từ",
+      "meaning": "Số (số điện thoại)",
+      "exampleZh": "你的手机号是多少？",
+      "examplePinyin": "Nǐ de shǒujīhào shì duōshao?",
+      "exampleVi": "Số điện thoại của bạn là bao nhiêu?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ.",
+      "collocations": [
+        "号 (Số (số điện thoại))"
+      ],
+      "extraExample": "你的手机号是多少？ — Số điện thoại của bạn là bao nhiêu?"
+    },
+    {
+      "id": "v30-06-21",
+      "hanzi": "些",
+      "pinyin": "xiē",
+      "pos": "Lượng từ",
+      "meaning": "Một ít, một vài",
+      "exampleZh": "我想买些牛奶。",
+      "examplePinyin": "Wǒ xiǎng mǎi xiē niúnǎi.",
+      "exampleVi": "Mình muốn mua ít sữa.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Lượng từ.",
+      "collocations": [
+        "些 (Một ít, một vài)"
+      ],
+      "extraExample": "我想买些牛奶。 — Mình muốn mua ít sữa."
+    },
+    {
+      "id": "v30-06-22",
+      "hanzi": "那边",
+      "pinyin": "nàbiān",
+      "pos": "Đại từ",
+      "meaning": "Bên kia, chỗ đó",
+      "exampleZh": "那边的包子非常好吃。",
+      "examplePinyin": "Nàbiān de bāozi fēicháng hǎochī.",
+      "exampleVi": "Bánh bao ở bên kia rất ngon.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Đại từ.",
+      "collocations": [
+        "那边 (Bên kia, chỗ đó)"
+      ],
+      "extraExample": "那边的包子非常好吃。 — Bánh bao ở bên kia rất ngon."
+    },
+    {
+      "id": "v30-06-23",
+      "hanzi": "西安饭店",
+      "pinyin": "Xī'ān Fàndiàn",
+      "pos": "Danh từ riêng",
+      "meaning": "Nhà hàng Tây An",
+      "exampleZh": "我还想去西安饭店。",
+      "examplePinyin": "Wǒ hái xiǎng qù Xī'ān Fàndiàn.",
+      "exampleVi": "Bố vẫn muốn đến nhà hàng Tây An.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 6. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "西安饭店 (Nhà hàng Tây An)"
+      ],
+      "extraExample": "我还想去西安饭店。 — Bố vẫn muốn đến nhà hàng Tây An."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-06-1",
+      "title": "Bài khóa 1: Xin số điện thoại",
+      "context": "Lý Văn hỏi xin số điện thoại của Bạch Gia Nguyệt trong sân trường.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Lý Văn",
+          "side": "left",
+          "zh": "家月，你的手机号是多少？",
+          "pinyin": "Jiāyuè, nǐ de shǒujīhào shì duōshao?",
+          "vi": "Gia Nguyệt, số điện thoại di động của bạn là bao nhiêu?"
+        },
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "right",
+          "zh": "我的手机号是 +33 601493190。",
+          "pinyin": "Wǒ de shǒujīhào shì sān sān liù líng yāo sì jiǔ sān yāo jiǔ líng.",
+          "vi": "Số của mình là +33 601493190."
+        }
+      ]
+    },
+    {
+      "id": "d30-06-2",
+      "title": "Bài khóa 2: Rủ nhau đi siêu thị",
+      "context": "Trần Thiên Trung hỏi kế hoạch ngày mai của Bạch Gia Nguyệt.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Trần Thiên Trung",
+          "side": "left",
+          "zh": "家月，明天你去哪儿？",
+          "pinyin": "Jiāyuè, míngtiān nǐ qù nǎr?",
+          "vi": "Gia Nguyệt, ngày mai bạn đi đâu?"
+        },
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "right",
+          "zh": "我想去超市买东西。我想买些牛奶。",
+          "pinyin": "Wǒ xiǎng qù chāoshì mǎi dōngxi. Wǒ xiǎng mǎi xiē niúnǎi.",
+          "vi": "Mình muốn đi siêu thị mua đồ. Mình muốn mua ít sữa."
+        }
+      ]
+    },
+    {
+      "id": "d30-06-3",
+      "title": "Bài khóa 3: Bàn kế hoạch ăn tối cuối tuần",
+      "context": "Gia đình Vương Nhất Tuyết – Lưu Minh bàn đi ăn tại nhà hàng Tây An.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "星期天我们去哪儿吃晚饭？",
+          "pinyin": "Xīngqītiān wǒmen qù nǎr chī wǎnfàn?",
+          "vi": "Chủ nhật nhà mình đi đâu ăn tối nhỉ?"
+        },
+        {
+          "speaker": "Lưu Minh",
+          "side": "right",
+          "zh": "我还想去西安饭店。",
+          "pinyin": "Wǒ hái xiǎng qù Xī'ān Fàndiàn.",
+          "vi": "Bố vẫn muốn đến nhà hàng Tây An."
+        },
+        {
+          "speaker": "Lưu Tiểu Tuyết",
+          "side": "left",
+          "zh": "那边的包子非常好吃，我想吃包子。",
+          "pinyin": "Nàbiān de bāozi fēicháng hǎochī, wǒ xiǎng chī bāozi.",
+          "vi": "Bánh bao ở đó rất ngon, con muốn ăn bánh bao."
+        },
+        {
+          "speaker": "Lưu Tiểu Minh",
+          "side": "right",
+          "zh": "妈妈，我想吃米饭，不想吃包子。",
+          "pinyin": "Māma, wǒ xiǎng chī mǐfàn, bù xiǎng chī bāozi.",
+          "vi": "Mẹ ơi, con muốn ăn cơm, không muốn ăn bánh bao."
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "好的。我们怎么去？",
+          "pinyin": "Hǎo de. Wǒmen zěnme qù?",
+          "vi": "Được thôi. Chúng ta đi thế nào nhỉ?"
+        },
+        {
+          "speaker": "Lưu Minh",
+          "side": "right",
+          "zh": "坐出租车去。",
+          "pinyin": "Zuò chūzūchē qù.",
+          "vi": "Đi taxi nhé."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-06-1",
+      "title": "1. Động từ năng nguyện 想 & Đọc số điện thoại",
+      "formula": "Chủ ngữ + 想 / 不想 + Động từ | Số 1 trong số điện thoại đọc là yāo",
+      "usage": "想 biểu thị mong muốn/dự định. Khi đọc số điện thoại, đọc từng chữ số một và số 1 đọc là yāo.",
+      "explanation": "Ví dụ: 我想去超市。/ 我哥哥不想休息。",
+      "examples": [
+        {
+          "zh": "我想去超市买东西。",
+          "pinyin": "Wǒ xiǎng qù chāoshì mǎi dōngxi.",
+          "vi": "Mình muốn đi siêu thị mua đồ."
+        }
+      ],
+      "commonMistake": "Đọc số 1 trong SĐT là yī dễ nhầm với 7 (qī) — chuẩn phải đọc yāo.",
+      "comparison": "想 (Bài 3: nhớ) ↔ 想 (Bài 6: muốn)."
+    },
+    {
+      "id": "g30-06-2",
+      "title": "2. Câu liên động (1) & Đại từ nghi vấn 怎么",
+      "formula": "Mục đích: 去 + Địa điểm + V | Phương thức: 坐出租车 + 去 + Địa điểm | Hỏi phương thức: 怎么 + V？",
+      "usage": "Một vị ngữ gồm 2 cụm động từ nối tiếp nhau.",
+      "explanation": "Ví dụ: 我们坐出租车去西安饭店。/ 我们怎么去？",
+      "examples": [
+        {
+          "zh": "我们坐出租车去西安饭店。",
+          "pinyin": "Wǒmen zuò chūzūchē qù Xī'ān Fàndiàn.",
+          "vi": "Chúng ta đi taxi đến nhà hàng Tây An."
+        },
+        {
+          "zh": "我们怎么去？",
+          "pinyin": "Wǒmen zěnme qù?",
+          "vi": "Chúng ta đi bằng cách nào?"
+        }
+      ],
+      "commonMistake": "Đặt 怎么 sau động từ: '我们去怎么？' (SAI).",
+      "comparison": "怎么 đứng ngay trước động từ."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "你的手机号是多少？",
+      "pinyin": "Nǐ de shǒujīhào shì duōshao?",
+      "vi": "Số điện thoại di động của bạn là bao nhiêu?"
+    },
+    {
+      "zh": "我想去超市买些牛奶。",
+      "pinyin": "Wǒ xiǎng qù chāoshì mǎi xiē niúnǎi.",
+      "vi": "Mình muốn đi siêu thị mua ít sữa."
+    },
+    {
+      "zh": "那边的包子非常好吃！",
+      "pinyin": "Nàbiān de bāozi fēicháng hǎochī!",
+      "vi": "Bánh bao ở đó cực kỳ ngon!"
+    },
+    {
+      "zh": "我们怎么去？— 坐出租车去。",
+      "pinyin": "Wǒmen zěnme qù? — Zuò chūzūchē qù.",
+      "vi": "Chúng ta đi thế nào? — Đi taxi."
+    },
+    {
+      "zh": "我们去西安饭店吃晚饭。",
+      "pinyin": "Wǒmen qù Xī'ān Fàndiàn chī wǎnfàn.",
+      "vi": "Chúng ta đến nhà hàng Tây An ăn tối."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-6-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "shǒujī",
+          "answer": "手机",
+          "meaning": "Điện thoại di động"
+        },
+        {
+          "pinyin": "diànhuà",
+          "answer": "电话",
+          "meaning": "Điện thoại"
+        },
+        {
+          "pinyin": "míngtiān",
+          "answer": "明天",
+          "meaning": "Ngày mai"
+        },
+        {
+          "pinyin": "qù",
+          "answer": "去",
+          "meaning": "Đi"
+        },
+        {
+          "pinyin": "nǎr",
+          "answer": "哪儿",
+          "meaning": "Đâu, chỗ nào"
+        },
+        {
+          "pinyin": "xiǎng",
+          "answer": "想",
+          "meaning": "Muốn"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 6.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 6"
+    },
+    {
+      "id": "q30-6-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Mua"
+        },
+        {
+          "key": "B",
+          "label": "Siêu thị"
+        },
+        {
+          "key": "C",
+          "label": "Đồ, đồ đạc"
+        },
+        {
+          "key": "D",
+          "label": "Bữa tối"
+        },
+        {
+          "key": "E",
+          "label": "Sữa (bò)"
+        },
+        {
+          "key": "F",
+          "label": "Ăn"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "超市",
+          "pinyin": "chāoshì",
+          "answerKey": "B"
+        },
+        {
+          "hanzi": "买",
+          "pinyin": "mǎi",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "东西",
+          "pinyin": "dōngxi",
+          "answerKey": "C"
+        },
+        {
+          "hanzi": "牛奶",
+          "pinyin": "niúnǎi",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "吃",
+          "pinyin": "chī",
+          "answerKey": "F"
+        },
+        {
+          "hanzi": "晚饭",
+          "pinyin": "wǎnfàn",
+          "answerKey": "D"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 6.",
+      "relatedKnowledge": "Từ mới Bài 6"
+    },
+    {
+      "id": "q30-6-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.41] 我们 ___ 出租车去西安饭店吃晚饭。(多少 / 买 / 米饭 / 坐 / 去)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "坐"
+      ],
+      "explanation": "Đi bằng taxi dùng động từ 「坐」.",
+      "relatedKnowledge": "Câu liên động phương thức",
+      "section": "writing"
+    },
+    {
+      "id": "q30-6-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.41] 老师：你的手机号是 ___ ？",
+      "placeholder": "Nhập 2 chữ Hán...",
+      "acceptedAnswers": [
+        "多少"
+      ],
+      "explanation": "Hỏi số điện thoại dùng 「多少」.",
+      "relatedKnowledge": "Bài khóa 1",
+      "section": "writing"
+    },
+    {
+      "id": "q30-6-03",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Sổ tay tr.38] 明天星期天，我休息，想去超市买牛奶。★ 说话人想买什么？",
+      "options": [
+        "菜",
+        "牛奶",
+        "饺子"
+      ],
+      "answer": "牛奶",
+      "explanation": "Câu nêu rõ 「想去超市买牛奶」.",
+      "relatedKnowledge": "Đọc hiểu HSK 3.0",
+      "section": "reading"
+    },
+    {
+      "id": "q30-6-04",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Khi đọc số điện thoại di động bằng tiếng Trung, chữ số 「1」 phải đọc là 「yāo」.",
+      "answer": true,
+      "explanation": "Đúng (mục Tiểu Ngữ giúp sức tr.36).",
+      "relatedKnowledge": "Cách đọc số điện thoại",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-6-05",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu liên động đúng (Tôi muốn đi siêu thị mua đồ):",
+      "tokens": [
+        "买东西",
+        "去超市",
+        "想",
+        "我"
+      ],
+      "answer": [
+        "我",
+        "想",
+        "去超市",
+        "买东西"
+      ],
+      "acceptedSequences": [
+        [
+          "我",
+          "想",
+          "去超市",
+          "买东西"
+        ]
+      ],
+      "explanation": "我想去超市买东西。",
+      "relatedKnowledge": "Câu liên động mục đích",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-6-06",
+      "type": "matching",
+      "points": 1,
+      "prompt": "[Sổ tay tr.37] Nối câu hỏi với câu trả lời tương ứng:",
+      "pairs": [
+        {
+          "left": "你吃什么？",
+          "right": "包子。"
+        },
+        {
+          "left": "我们怎么去？",
+          "right": "坐出租车。"
+        },
+        {
+          "left": "这是老师的新电脑。",
+          "right": "真好看！"
+        }
+      ],
+      "explanation": "Khớp Phần 2 Đọc hiểu Sổ tay Bài 6.",
+      "relatedKnowledge": "Nối câu HSK 3.0",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-6-07",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「超市」:",
+      "options": [
+        "chāoshì",
+        "zhāoshì",
+        "chǎoshì",
+        "chāoshī"
+      ],
+      "answer": "chāoshì",
+      "explanation": "超 thanh 1 (chāo) + 市 thanh 4 (shì).",
+      "relatedKnowledge": "Phát âm Bài 6",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-6-08",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho 「niúnǎi」:",
+      "options": [
+        "牛奶",
+        "米饭",
+        "包子",
+        "手机"
+      ],
+      "answer": "牛奶",
+      "explanation": "牛奶 (niúnǎi) = sữa bò.",
+      "relatedKnowledge": "Mặt chữ Bài 6",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-6-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết Lưu Tiểu Minh muốn ăn gì:",
+      "audioText": "妈妈，我想吃米饭，不想吃包子。",
+      "options": [
+        "Bánh bao",
+        "Cơm trắng (米饭)",
+        "Mì sợi"
+      ],
+      "answer": "Cơm trắng (米饭)",
+      "explanation": "Lưu Tiểu Minh nói 「我想吃米饭」.",
+      "relatedKnowledge": "Nghe hiểu Bài 6",
+      "section": "listening"
+    },
+    {
+      "id": "q30-6-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Chúng ta đi bằng cách nào?\"",
+      "sampleAnswer": "我们怎么去？",
+      "acceptedAnswers": [
+        "我们怎么去",
+        "我们怎么去？"
+      ],
+      "requiredKeywords": [
+        "我们",
+        "怎么",
+        "去"
+      ],
+      "explanation": "我们怎么去？",
+      "relatedKnowledge": "Đại từ nghi vấn 怎么",
+      "section": "writing"
+    },
+    {
+      "id": "q30-6-11",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Khi đọc số điện thoại 「138-0102」 trong tiếng Trung, chữ số 「1」 thường được đọc là gì để tránh nhầm với số 7?",
+      "options": [
+        "yī",
+        "yāo",
+        "liǎng",
+        "èr"
+      ],
+      "answer": "yāo",
+      "explanation": "Trong số điện thoại, số phòng, số hiệu, chữ số 1 thường đọc là 「yāo (幺)」 để phân biệt rõ với 「qī (7)」.",
+      "relatedKnowledge": "Quy tắc đọc số điện thoại Bài 6"
+    },
+    {
+      "id": "q30-6-12",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 3",
+      "prompt": "[Ôn Bài 3 + 6] Động từ 「想」 trong 「我们很想你」 (Bài 3) và 「我想去超市买东西」 (Bài 6) khác nhau về nghĩa thế nào?",
+      "options": [
+        "Bài 3 nghĩa là 'Nhớ', Bài 6 nghĩa là 'Muốn'",
+        "Bài 3 nghĩa là 'Muốn', Bài 6 nghĩa là 'Nghĩ'",
+        "Cả hai đều nghĩa là 'Nhớ nhung'",
+        "Cả hai đều nghĩa là 'Đi mua sắm'"
+      ],
+      "answer": "Bài 3 nghĩa là 'Nhớ', Bài 6 nghĩa là 'Muốn'",
+      "explanation": "「想 + danh từ chỉ người」 (Bài 3) = nhớ ai; 「想 + động từ」 (Bài 6) = muốn làm gì.",
+      "relatedKnowledge": "Phân biệt đa nghĩa động từ 想 (Bài 3 & 6)"
+    },
+    {
+      "id": "q30-6-13",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Để hỏi phương thức di chuyển ('Chúng ta đi nhà hàng Tây An bằng cách nào?'), ta chọn đại từ nghi vấn nào?",
+      "options": [
+        "我们哪儿去西安饭店？",
+        "我们怎么去西安饭店？",
+        "我们多少去西安饭店？",
+        "我们谁去西安饭店？"
+      ],
+      "answer": "我们怎么去西安饭店？",
+      "explanation": "「怎么 + Động từ」 dùng để hỏi cách thức/phương tiện: 「怎么去？」 → 「坐出租车去。」 (Đi bằng taxi).",
+      "relatedKnowledge": "Đại từ nghi vấn 怎么"
+    },
+    {
+      "id": "q30-6-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 5",
+      "prompt": "[Ôn Bài 5 + 6] Câu liên động nào sau đây diễn đạt đúng 'Chủ nhật tôi muốn đi siêu thị mua sữa'?",
+      "options": [
+        "星期天我想买牛奶去超市。",
+        "星期天我想去超市买牛奶。",
+        "我想去星期天超市买牛奶。",
+        "星期天我会超市去买牛奶。"
+      ],
+      "answer": "星期天我想去超市买牛奶。",
+      "explanation": "Câu liên động đặt hành động xảy ra trước (「去超市」) lên trước mục đích (「买牛奶」); thời gian 「星期天」 (Bài 5) đứng đầu câu.",
+      "relatedKnowledge": "Ôn Bài 5 (星期天) + Bài 6 (Câu liên động)"
+    },
+    {
+      "id": "q30-6-15",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "王一雪：星期天我们去哪儿吃晚饭？\n刘明：我还想去西安饭店。\n刘小雪：那边的包子非常好吃，我想吃包子。\n刘小明：妈妈，我想吃米饭，不想吃包子。",
+      "passagePinyin": "Wáng Yīxuě: Xīngqītiān wǒmen qù nǎr chī wǎnfàn? Liú Míng: Wǒ hái xiǎng qù Xī'ān Fàndiàn. Liú Xiǎoxuě: Nàbiān de bāozi fēicháng hǎochī, wǒ xiǎng chī bāozi. Liú Xiǎomíng: Māma, wǒ xiǎng chī mǐfàn, bù xiǎng chī bāozi.",
+      "prompt": "Hai bạn nhỏ Lưu Tiểu Tuyết và Lưu Tiểu Minh muốn ăn món gì?",
+      "options": [
+        "Cả hai đều muốn ăn bánh bao",
+        "Tiểu Tuyết muốn ăn bánh bao, Tiểu Minh muốn ăn cơm",
+        "Tiểu Tuyết muốn ăn cơm, Tiểu Minh muốn ăn bánh bao",
+        "Cả hai đều muốn ăn mì sợi"
+      ],
+      "answer": "Tiểu Tuyết muốn ăn bánh bao, Tiểu Minh muốn ăn cơm",
+      "explanation": "Tiểu Tuyết nói 「我想吃包子」, còn Tiểu Minh nói 「我想吃米饭，不想吃包子」.",
+      "relatedKnowledge": "Bài khóa 3 – Ăn tối cuối tuần"
+    },
+    {
+      "id": "q30-6-16",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Trong tiếng Trung, câu 「我想去超市买些牛奶。」 có thể lược 「一」 từ 「一些」 thành 「些」 sau động từ 「买」.",
+      "answer": true,
+      "explanation": "Đúng! Sau động từ (như 买些牛奶, 吃些菜), 「一些」 thường rút gọn thành 「些」 rất tự nhiên.",
+      "relatedKnowledge": "Cách dùng 些 / 一些 (Bài 5–6)"
+    },
+    {
+      "id": "q30-6-17",
+      "section": "writing",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 2 chữ Hán hỏi phương tiện: 明天我们___去超市？(Ngày mai chúng ta đi siêu thị bằng cách nào?)",
+      "placeholder": "Nhập 2 chữ Hán...",
+      "acceptedAnswers": [
+        "怎么"
+      ],
+      "explanation": "「怎么去？」 nghĩa là 'đi bằng cách nào?'.",
+      "relatedKnowledge": "Đại từ nghi vấn 怎么"
+    },
+    {
+      "id": "q30-6-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "reviewTag": "Ôn Bài 5",
+      "prompt": "[Ôn Bài 5 + 6] Sắp xếp thành câu kể về dự định ngày mai:",
+      "tokens": [
+        "坐出租车",
+        "去",
+        "明天",
+        "超市",
+        "我"
+      ],
+      "answer": [
+        "明天",
+        "我",
+        "坐出租车",
+        "去",
+        "超市"
+      ],
+      "acceptedSequences": [
+        [
+          "明天",
+          "我",
+          "坐出租车",
+          "去",
+          "超市"
+        ],
+        [
+          "我",
+          "明天",
+          "坐出租车",
+          "去",
+          "超市"
+        ]
+      ],
+      "explanation": "Phương tiện 「坐出租车」 đứng trước động từ đi đến địa điểm 「去超市」.",
+      "relatedKnowledge": "Câu liên động với phương tiện"
+    },
+    {
+      "id": "q30-6-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "明天我不去超市，我想去西安饭店吃晚饭，那边的包子非常好吃。",
+      "prompt": "Nghe câu trên và chọn kế hoạch ngày mai của người nói:",
+      "options": [
+        "Đi siêu thị mua sữa",
+        "Đi nhà hàng Tây An ăn tối vì bánh bao rất ngon",
+        "Ở nhà nấu cơm",
+        "Đi taxi đến trường"
+      ],
+      "answer": "Đi nhà hàng Tây An ăn tối vì bánh bao rất ngon",
+      "explanation": "Lời nghe: 「明天我不去超市，我想去西安饭店吃晚饭，那边的包子非常好吃。」.",
+      "relatedKnowledge": "Nghe hiểu Bài 6"
+    },
+    {
+      "id": "q30-6-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 5",
+      "audioText": "A：今天星期几？明天你休息吗？ B：今天星期六，明天星期天，我休息。我想去超市买东西。",
+      "prompt": "[Ôn Bài 5 + 6] Nghe hội thoại và chọn đáp án đúng:",
+      "options": [
+        "Hôm nay là Chủ nhật, B được nghỉ",
+        "Ngày mai là Chủ nhật, B được nghỉ và muốn đi siêu thị mua đồ",
+        "Ngày mai B phải đi làm",
+        "B muốn đi nhà hàng ăn bánh bao"
+      ],
+      "answer": "Ngày mai là Chủ nhật, B được nghỉ và muốn đi siêu thị mua đồ",
+      "explanation": "Kết hợp 「星期六 / 星期天 / 休息」 (Bài 5) và 「明天 / 去超市买东西」 (Bài 6).",
+      "relatedKnowledge": "Nghe tổng hợp Bài 5–6"
+    },
+    {
+      "id": "q30-6-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Số điện thoại di động của bạn là bao nhiêu?",
+          "sampleAnswer": "你的手机号是多少？",
+          "pinyin": "Nǐ de shǒujī hào shì duōshao?",
+          "acceptedAnswers": [
+            "你的手机号是多少",
+            "你手机号是多少"
+          ],
+          "requiredKeywords": [
+            "手机号",
+            "多少"
+          ]
+        },
+        {
+          "vi": "Ngày mai bạn đi đâu?",
+          "sampleAnswer": "明天你去哪儿？",
+          "pinyin": "Míngtiān nǐ qù nǎr?",
+          "acceptedAnswers": [
+            "明天你去哪儿",
+            "你明天去哪儿",
+            "明天你去哪里"
+          ],
+          "requiredKeywords": [
+            "明天",
+            "去"
+          ]
+        },
+        {
+          "vi": "Tôi muốn đi siêu thị mua ít sữa.",
+          "sampleAnswer": "我想去超市买些牛奶。",
+          "pinyin": "Wǒ xiǎng qù chāoshì mǎi xiē niúnǎi.",
+          "acceptedAnswers": [
+            "我想去超市买些牛奶",
+            "我想去超市买牛奶",
+            "我想去超市买一些牛奶"
+          ],
+          "requiredKeywords": [
+            "想",
+            "超市",
+            "买",
+            "牛奶"
+          ]
+        },
+        {
+          "vi": "Bánh bao ở bên đó cực kỳ ngon.",
+          "sampleAnswer": "那边的包子非常好吃。",
+          "pinyin": "Nàbiān de bāozi fēicháng hǎochī.",
+          "acceptedAnswers": [
+            "那边的包子非常好吃",
+            "那边包子非常好吃"
+          ],
+          "requiredKeywords": [
+            "那边",
+            "包子",
+            "好吃"
+          ]
+        },
+        {
+          "vi": "[Ôn Bài 5] Chủ nhật chúng ta đi nhà hàng ăn tối bằng cách nào?",
+          "sampleAnswer": "星期天我们怎么去饭店吃晚饭？",
+          "pinyin": "Xīngqītiān wǒmen zěnme qù fàndiàn chī wǎnfàn?",
+          "acceptedAnswers": [
+            "星期天我们怎么去饭店吃晚饭",
+            "星期日我们怎么去饭店吃晚饭"
+          ],
+          "requiredKeywords": [
+            "怎么",
+            "去",
+            "吃晚饭"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 6 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 6"
+    }
+  ]
+}

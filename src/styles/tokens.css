@@ -1,0 +1,32 @@
+:root {
+  --bg-page: #f3f7fb;
+  --bg-surface: #ffffff;
+  --bg-subtle: #eaf1f8;
+  --bg-accent-soft: #e0eefa;
+  --border-soft: #d6e2ee;
+  --border-strong: #b9cce0;
+  --text-primary: #0f2537;
+  --text-secondary: #475f75;
+  --text-muted: #6e8499;
+  --brand-primary: #1d5b9b;
+  --brand-primary-hover: #15467a;
+  --brand-jade: #0e7490;
+  --status-correct-bg: #e6f6ef;
+  --status-correct-text: #157347;
+  --status-wrong-bg: #fdecef;
+  --status-wrong-text: #be123c;
+  --status-review-bg: #fef3c7;
+  --status-review-text: #b45309;
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 22px;
+  --shadow-card: 0 4px 16px rgba(15, 37, 55, 0.06);
+  --font-ui: 'Be Vietnam Pro', system-ui, -apple-system, sans-serif;
+  --font-zh: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg-page); color: var(--text-primary); font-family: var(--font-ui); line-height: 1.6; }
+.zh-text { font-family: var(--font-zh); }
+button { font-family: inherit; cursor: pointer; transition: all 0.18s ease; }
+button:active { transform: scale(0.98); }

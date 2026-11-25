@@ -1,0 +1,30 @@
+[
+  {
+    "id": "hsk1",
+    "code": "HSK 1",
+    "title": "HSK 1 – Giáo trình New HSK 1 (HSK 3.0)",
+    "zhTitle": "新HSK教程 1 · 15课 · 300词",
+    "levelGroup": "Sơ cấp",
+    "description": "Bám sát trọn bộ 15 bài Giáo trình New HSK 1 & Sổ tay học và luyện tập HSK 3.0 (300 từ mới, 45 bài khóa hội thoại, 40 điểm ngôn ngữ & hệ thống bài tập 5 kỹ năng).",
+    "targetVocab": 300,
+    "status": "active",
+    "accentColor": "#1D5B9B",
+    "lessonIds": [
+      "hsk1-01",
+      "hsk1-02",
+      "hsk1-03",
+      "hsk1-04",
+      "hsk1-05",
+      "hsk1-06",
+      "hsk1-07",
+      "hsk1-08",
+      "hsk1-09",
+      "hsk1-10",
+      "hsk1-11",
+      "hsk1-12",
+      "hsk1-13",
+      "hsk1-14",
+      "hsk1-15"
+    ]
+  }
+]

@@ -1,0 +1,1041 @@
+{
+  "id": "hsk1-05",
+  "courseId": "hsk1",
+  "order": 5,
+  "group": "Bài 01–05",
+  "zhTitle": "今天我休息",
+  "pinyinTitle": "Jīntiān wǒ xiūxi",
+  "viTitle": "Hôm nay anh được nghỉ",
+  "image": "images/hsk1-lesson05.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 5 Giáo trình New HSK 1 (HSK 3.0): Cách nói ngày tháng thứ (年→月→日/号→星期), câu vị ngữ danh từ, động từ năng nguyện 会 và biến điệu 不 / 一.",
+  "vocabulary": [
+    {
+      "id": "v30-05-01",
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "pos": "Danh từ",
+      "meaning": "Hôm nay",
+      "exampleZh": "今天几号？",
+      "examplePinyin": "Jīntiān jǐ hào?",
+      "exampleVi": "Hôm nay ngày mấy?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Danh từ.",
+      "collocations": [
+        "今天 (Hôm nay)"
+      ],
+      "extraExample": "今天几号？ — Hôm nay ngày mấy?"
+    },
+    {
+      "id": "v30-05-02",
+      "hanzi": "号",
+      "pinyin": "hào",
+      "pos": "Lượng từ",
+      "meaning": "Ngày, mùng (khẩu ngữ)",
+      "exampleZh": "今天9月8号。",
+      "examplePinyin": "Jīntiān jiǔ yuè bā hào.",
+      "exampleVi": "Hôm nay là ngày 8 tháng 9.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Lượng từ.",
+      "collocations": [
+        "号 (Ngày, mùng (khẩu ngữ))"
+      ],
+      "extraExample": "今天9月8号。 — Hôm nay là ngày 8 tháng 9."
+    },
+    {
+      "id": "v30-05-03",
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "pos": "Danh từ",
+      "meaning": "Tháng",
+      "exampleZh": "9月8号",
+      "examplePinyin": "jiǔ yuè bā hào",
+      "exampleVi": "Ngày 8 tháng 9",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Danh từ.",
+      "collocations": [
+        "月 (Tháng)"
+      ],
+      "extraExample": "9月8号 — Ngày 8 tháng 9"
+    },
+    {
+      "id": "v30-05-04",
+      "hanzi": "日",
+      "pinyin": "rì",
+      "pos": "Lượng từ",
+      "meaning": "Ngày (văn viết)",
+      "exampleZh": "9月8日",
+      "examplePinyin": "jiǔ yuè bā rì",
+      "exampleVi": "Ngày 8 tháng 9",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Lượng từ.",
+      "collocations": [
+        "日 (Ngày (văn viết))"
+      ],
+      "extraExample": "9月8日 — Ngày 8 tháng 9"
+    },
+    {
+      "id": "v30-05-05",
+      "hanzi": "星期",
+      "pinyin": "xīngqī",
+      "pos": "Danh từ",
+      "meaning": "Thứ, tuần",
+      "exampleZh": "星期几？",
+      "examplePinyin": "Xīngqī jǐ?",
+      "exampleVi": "Thứ mấy vậy?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Danh từ.",
+      "collocations": [
+        "星期 (Thứ, tuần)"
+      ],
+      "extraExample": "星期几？ — Thứ mấy vậy?"
+    },
+    {
+      "id": "v30-05-06",
+      "hanzi": "星期日",
+      "pinyin": "Xīngqīrì",
+      "pos": "Danh từ",
+      "meaning": "Chủ nhật (cũng nói 星期天)",
+      "exampleZh": "星期日，今天我休息。",
+      "examplePinyin": "Xīngqīrì, jīntiān wǒ xiūxi.",
+      "exampleVi": "Chủ nhật. Hôm nay anh được nghỉ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Danh từ.",
+      "collocations": [
+        "星期日 (Chủ nhật (cũng nói 星期天))"
+      ],
+      "extraExample": "星期日，今天我休息。 — Chủ nhật. Hôm nay anh được nghỉ."
+    },
+    {
+      "id": "v30-05-07",
+      "hanzi": "休息",
+      "pinyin": "xiūxi",
+      "pos": "Động từ",
+      "meaning": "Nghỉ, nghỉ ngơi",
+      "exampleZh": "今天我休息。",
+      "examplePinyin": "Jīntiān wǒ xiūxi.",
+      "exampleVi": "Hôm nay anh được nghỉ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Động từ.",
+      "collocations": [
+        "休息 (Nghỉ, nghỉ ngơi)"
+      ],
+      "extraExample": "今天我休息。 — Hôm nay anh được nghỉ."
+    },
+    {
+      "id": "v30-05-08",
+      "hanzi": "会",
+      "pinyin": "huì",
+      "pos": "Động từ năng nguyện",
+      "meaning": "Biết, có thể (qua học tập)",
+      "exampleZh": "你会做饭吗？",
+      "examplePinyin": "Nǐ huì zuò fàn ma?",
+      "exampleVi": "Em có biết nấu ăn không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Động từ năng nguyện.",
+      "collocations": [
+        "会 (Biết, có thể (qua học tập))"
+      ],
+      "extraExample": "你会做饭吗？ — Em có biết nấu ăn không?"
+    },
+    {
+      "id": "v30-05-09",
+      "hanzi": "做饭",
+      "pinyin": "zuò fàn",
+      "pos": "Động từ",
+      "meaning": "Nấu ăn",
+      "exampleZh": "我会做饭。",
+      "examplePinyin": "Wǒ huì zuò fàn.",
+      "exampleVi": "Em biết nấu ăn.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Động từ.",
+      "collocations": [
+        "做饭 (Nấu ăn)"
+      ],
+      "extraExample": "我会做饭。 — Em biết nấu ăn."
+    },
+    {
+      "id": "v30-05-10",
+      "hanzi": "面条儿",
+      "pinyin": "miàntiáor",
+      "pos": "Danh từ",
+      "meaning": "Mì, mì sợi",
+      "exampleZh": "我会做面条儿。",
+      "examplePinyin": "Wǒ huì zuò miàntiáor.",
+      "exampleVi": "Em biết nấu mì.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Danh từ.",
+      "collocations": [
+        "面条儿 (Mì, mì sợi)"
+      ],
+      "extraExample": "我会做面条儿。 — Em biết nấu mì."
+    },
+    {
+      "id": "v30-05-11",
+      "hanzi": "饺子",
+      "pinyin": "jiǎozi",
+      "pos": "Danh từ",
+      "meaning": "Sủi cảo",
+      "exampleZh": "也会做饺子。",
+      "examplePinyin": "Yě huì zuò jiǎozi.",
+      "exampleVi": "Cũng biết làm sủi cảo.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Danh từ.",
+      "collocations": [
+        "饺子 (Sủi cảo)"
+      ],
+      "extraExample": "也会做饺子。 — Cũng biết làm sủi cảo."
+    },
+    {
+      "id": "v30-05-12",
+      "hanzi": "一些",
+      "pinyin": "yìxiē",
+      "pos": "Số lượng từ",
+      "meaning": "Một số, một vài",
+      "exampleZh": "也会做一些菜。",
+      "examplePinyin": "Yě huì zuò yìxiē cài.",
+      "exampleVi": "Cũng biết làm một số món ăn.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Số lượng từ.",
+      "collocations": [
+        "一些 (Một số, một vài)"
+      ],
+      "extraExample": "也会做一些菜。 — Cũng biết làm một số món ăn."
+    },
+    {
+      "id": "v30-05-13",
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "pos": "Danh từ",
+      "meaning": "Món ăn, rau",
+      "exampleZh": "你会做这两个菜吗？",
+      "examplePinyin": "Nǐ huì zuò zhè liǎng gè cài ma?",
+      "exampleVi": "Em biết làm hai món này không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Danh từ.",
+      "collocations": [
+        "菜 (Món ăn, rau)"
+      ],
+      "extraExample": "你会做这两个菜吗？ — Em biết làm hai món này không?"
+    },
+    {
+      "id": "v30-05-14",
+      "hanzi": "下班",
+      "pinyin": "xiàbān",
+      "pos": "Động từ",
+      "meaning": "Tan làm, tan ca",
+      "exampleZh": "同乐，下班吗？",
+      "examplePinyin": "Tónglè, xiàbān ma?",
+      "exampleVi": "Đồng Lạc, em tan làm chưa?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Động từ.",
+      "collocations": [
+        "下班 (Tan làm, tan ca)"
+      ],
+      "extraExample": "同乐，下班吗？ — Đồng Lạc, em tan làm chưa?"
+    },
+    {
+      "id": "v30-05-15",
+      "hanzi": "新",
+      "pinyin": "xīn",
+      "pos": "Tính từ",
+      "meaning": "Mới",
+      "exampleZh": "这是你的新电脑吗？",
+      "examplePinyin": "Zhè shì nǐ de xīn diànnǎo ma?",
+      "exampleVi": "Đây là máy tính mới của em à?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Tính từ.",
+      "collocations": [
+        "新 (Mới)"
+      ],
+      "extraExample": "这是你的新电脑吗？ — Đây là máy tính mới của em à?"
+    },
+    {
+      "id": "v30-05-16",
+      "hanzi": "电脑",
+      "pinyin": "diànnǎo",
+      "pos": "Danh từ",
+      "meaning": "Máy tính, máy vi tính",
+      "exampleZh": "是我的新电脑。",
+      "examplePinyin": "Shì wǒ de xīn diànnǎo.",
+      "exampleVi": "Là máy tính mới của em.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Danh từ.",
+      "collocations": [
+        "电脑 (Máy tính, máy vi tính)"
+      ],
+      "extraExample": "是我的新电脑。 — Là máy tính mới của em."
+    },
+    {
+      "id": "v30-05-17",
+      "hanzi": "真",
+      "pinyin": "zhēn",
+      "pos": "Phó từ",
+      "meaning": "Thật, thực sự",
+      "exampleZh": "真好看！",
+      "examplePinyin": "Zhēn hǎokàn!",
+      "exampleVi": "Đẹp thật đấy!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Phó từ.",
+      "collocations": [
+        "真 (Thật, thực sự)"
+      ],
+      "extraExample": "真好看！ — Đẹp thật đấy!"
+    },
+    {
+      "id": "v30-05-18",
+      "hanzi": "好看",
+      "pinyin": "hǎokàn",
+      "pos": "Tính từ",
+      "meaning": "Đẹp",
+      "exampleZh": "你的电脑真好看！",
+      "examplePinyin": "Nǐ de diànnǎo zhēn hǎokàn!",
+      "exampleVi": "Máy tính của em đẹp thật!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Tính từ.",
+      "collocations": [
+        "好看 (Đẹp)"
+      ],
+      "extraExample": "你的电脑真好看！ — Máy tính của em đẹp thật!"
+    },
+    {
+      "id": "v30-05-19",
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "pos": "Động từ",
+      "meaning": "Thích",
+      "exampleZh": "我也很喜欢它。",
+      "examplePinyin": "Wǒ yě hěn xǐhuan tā.",
+      "exampleVi": "Em cũng rất thích nó.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Động từ.",
+      "collocations": [
+        "喜欢 (Thích)"
+      ],
+      "extraExample": "我也很喜欢它。 — Em cũng rất thích nó."
+    },
+    {
+      "id": "v30-05-20",
+      "hanzi": "它",
+      "pinyin": "tā",
+      "pos": "Đại từ",
+      "meaning": "Nó (chỉ đồ vật, động vật)",
+      "exampleZh": "我也很喜欢它。",
+      "examplePinyin": "Wǒ yě hěn xǐhuan tā.",
+      "exampleVi": "Em cũng rất thích nó.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Đại từ.",
+      "collocations": [
+        "它 (Nó (chỉ đồ vật, động vật))"
+      ],
+      "extraExample": "我也很喜欢它。 — Em cũng rất thích nó."
+    },
+    {
+      "id": "v30-05-21",
+      "hanzi": "星期天",
+      "pinyin": "Xīngqītiān",
+      "pos": "Danh từ",
+      "meaning": "Chủ nhật (khẩu ngữ)",
+      "exampleZh": "星期天我也做饭。",
+      "examplePinyin": "Xīngqītiān wǒ yě zuò fàn.",
+      "exampleVi": "Chủ nhật em cũng nấu ăn.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Danh từ.",
+      "collocations": [
+        "星期天 (Chủ nhật (khẩu ngữ))"
+      ],
+      "extraExample": "星期天我也做饭。 — Chủ nhật em cũng nấu ăn."
+    },
+    {
+      "id": "v30-05-22",
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "pos": "Động từ",
+      "meaning": "Làm, nấu",
+      "exampleZh": "你会做什么？",
+      "examplePinyin": "Nǐ huì zuò shénme?",
+      "exampleVi": "Em biết nấu món gì?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 5. Từ loại: Động từ.",
+      "collocations": [
+        "做 (Làm, nấu)"
+      ],
+      "extraExample": "你会做什么？ — Em biết nấu món gì?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-05-1",
+      "title": "Bài khóa 1: Hỏi ngày tháng và ngày nghỉ",
+      "context": "Lưu Minh và Vương Nhất Tuyết trò chuyện ở nhà.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "今天几号？星期几？",
+          "pinyin": "Jīntiān jǐ hào? Xīngqī jǐ?",
+          "vi": "Hôm nay ngày mấy anh nhỉ? Thứ mấy vậy?"
+        },
+        {
+          "speaker": "Lưu Minh",
+          "side": "right",
+          "zh": "今天9月8号。星期日。今天我休息。",
+          "pinyin": "Jīntiān jiǔ yuè bā hào. Xīngqīrì. Jīntiān wǒ xiūxi.",
+          "vi": "Hôm nay ngày 8 tháng 9. Chủ nhật. Hôm nay anh được nghỉ."
+        }
+      ]
+    },
+    {
+      "id": "d30-05-2",
+      "title": "Bài khóa 2: Biết nấu món gì?",
+      "context": "Vương Nhất Tuyết và Dương Đồng Lạc trò chuyện giờ nghỉ ở công ty.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "你会做饭吗？你会做什么？",
+          "pinyin": "Nǐ huì zuò fàn ma? Nǐ huì zuò shénme?",
+          "vi": "Em có biết nấu ăn không? Em biết nấu món gì?"
+        },
+        {
+          "speaker": "Dương Đồng Lạc",
+          "side": "right",
+          "zh": "我会做面条儿、饺子，也会做一些菜。星期天我也做饭。",
+          "pinyin": "Wǒ huì zuò miàntiáor, jiǎozi, yě huì zuò yìxiē cài. Xīngqītiān wǒ yě zuò fàn.",
+          "vi": "Em biết nấu mì, sủi cảo và một số món ăn. Chủ nhật em cũng nấu ăn."
+        }
+      ]
+    },
+    {
+      "id": "d30-05-3",
+      "title": "Bài khóa 3: Máy tính mới",
+      "context": "Vương Nhất Tuyết và Dương Đồng Lạc trò chuyện lúc tan làm.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "同乐，下班吗？这是你的新电脑吗？",
+          "pinyin": "Tónglè, xiàbān ma? Zhè shì nǐ de xīn diànnǎo ma?",
+          "vi": "Đồng Lạc, em tan làm chưa? Đây là máy tính mới của em à?"
+        },
+        {
+          "speaker": "Dương Đồng Lạc",
+          "side": "right",
+          "zh": "下班。是的，是我的新电脑。",
+          "pinyin": "Xiàbān. Shì de, shì wǒ de xīn diànnǎo.",
+          "vi": "Tan làm rồi ạ. Vâng, là máy tính mới của em."
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "真好看！",
+          "pinyin": "Zhēn hǎokàn!",
+          "vi": "Đẹp thật đấy!"
+        },
+        {
+          "speaker": "Dương Đồng Lạc",
+          "side": "right",
+          "zh": "我也很喜欢它。",
+          "pinyin": "Wǒ yě hěn xǐhuan tā.",
+          "vi": "Em cũng rất thích nó."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-05-1",
+      "title": "1. Cách diễn đạt thời gian (1) & Câu vị ngữ danh từ",
+      "formula": "Năm (年) → Tháng (月) → Ngày (日/号) → Thứ (星期)",
+      "usage": "Trật tự từ lớn đến nhỏ; câu vị ngữ danh từ không cần động từ 是 (今天5月1号 / 我妹妹12岁).",
+      "explanation": "Ví dụ: 2024年10月22日，星期二.",
+      "examples": [
+        {
+          "zh": "今天9月8号。",
+          "pinyin": "Jīntiān jiǔ yuè bā hào.",
+          "vi": "Hôm nay ngày 8 tháng 9."
+        },
+        {
+          "zh": "今天星期日。",
+          "pinyin": "Jīntiān Xīngqīrì.",
+          "vi": "Hôm nay là Chủ nhật."
+        }
+      ],
+      "commonMistake": "Nói ngược '8号9月' (SAI).",
+      "comparison": "Chủ nhật nói 星期日 hoặc 星期天 (không nói 星期七)."
+    },
+    {
+      "id": "g30-05-2",
+      "title": "2. Động từ năng nguyện 会 & Biến điệu 不 / 一",
+      "formula": "Chủ ngữ + 会 / 不会 + Động từ",
+      "usage": "Biểu thị biết hoặc có khả năng làm việc gì qua học tập. Sổ tay tr.22–23: 不 + thanh 4 → bú (不是, 不会); 一 + thanh 1/2/3 → yì (一些, 一年), 一 + thanh 4 → yí (一个, 一岁).",
+      "explanation": "Ví dụ: 我会做面条儿。/ 我不会做菜。",
+      "examples": [
+        {
+          "zh": "我会做饭。",
+          "pinyin": "Wǒ huì zuò fàn.",
+          "vi": "Em biết nấu ăn."
+        },
+        {
+          "zh": "我不会做菜。",
+          "pinyin": "Wǒ bú huì zuò cài.",
+          "vi": "Em không biết nấu món ăn."
+        }
+      ],
+      "commonMistake": "Quên biến điệu 「不会」 thành bú huì.",
+      "comparison": "不 và 一 chỉ biến điệu khi ghép với âm tiết khác."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "今天几号？— 今天9月8号。",
+      "pinyin": "Jīntiān jǐ hào? — Jīntiān jiǔ yuè bā hào.",
+      "vi": "Hôm nay ngày mấy? — Hôm nay ngày 8 tháng 9."
+    },
+    {
+      "zh": "今天星期日，我休息。",
+      "pinyin": "Jīntiān Xīngqīrì, wǒ xiūxi.",
+      "vi": "Hôm nay Chủ nhật, mình được nghỉ."
+    },
+    {
+      "zh": "你会做饭吗？— 我会做面条儿和饺子。",
+      "pinyin": "Nǐ huì zuò fàn ma? — Wǒ huì zuò miàntiáor hé jiǎozi.",
+      "vi": "Bạn biết nấu ăn không? — Mình biết nấu mì và sủi cảo."
+    },
+    {
+      "zh": "这是你的新电脑吗？— 真好看！",
+      "pinyin": "Zhè shì nǐ de xīn diànnǎo ma? — Zhēn hǎokàn!",
+      "vi": "Đây là máy tính mới của bạn à? — Đẹp thật đấy!"
+    },
+    {
+      "zh": "我也很喜欢它。",
+      "pinyin": "Wǒ yě hěn xǐhuan tā.",
+      "vi": "Mình cũng rất thích nó."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-5-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "jīntiān",
+          "answer": "今天",
+          "meaning": "Hôm nay"
+        },
+        {
+          "pinyin": "hào",
+          "answer": "号",
+          "meaning": "Ngày, mùng (khẩu ngữ)"
+        },
+        {
+          "pinyin": "yuè",
+          "answer": "月",
+          "meaning": "Tháng"
+        },
+        {
+          "pinyin": "rì",
+          "answer": "日",
+          "meaning": "Ngày (văn viết)"
+        },
+        {
+          "pinyin": "xīngqī",
+          "answer": "星期",
+          "meaning": "Thứ, tuần"
+        },
+        {
+          "pinyin": "Xīngqīrì",
+          "answer": "星期日",
+          "meaning": "Chủ nhật (cũng nói 星期天)"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 5.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 5"
+    },
+    {
+      "id": "q30-5-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Mì, mì sợi"
+        },
+        {
+          "key": "B",
+          "label": "Một số, một vài"
+        },
+        {
+          "key": "C",
+          "label": "Biết, có thể (qua học tập)"
+        },
+        {
+          "key": "D",
+          "label": "Sủi cảo"
+        },
+        {
+          "key": "E",
+          "label": "Nghỉ, nghỉ ngơi"
+        },
+        {
+          "key": "F",
+          "label": "Nấu ăn"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "休息",
+          "pinyin": "xiūxi",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "会",
+          "pinyin": "huì",
+          "answerKey": "C"
+        },
+        {
+          "hanzi": "做饭",
+          "pinyin": "zuò fàn",
+          "answerKey": "F"
+        },
+        {
+          "hanzi": "面条儿",
+          "pinyin": "miàntiáor",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "饺子",
+          "pinyin": "jiǎozi",
+          "answerKey": "D"
+        },
+        {
+          "hanzi": "一些",
+          "pinyin": "yìxiē",
+          "answerKey": "B"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 5.",
+      "relatedKnowledge": "Từ mới Bài 5"
+    },
+    {
+      "id": "q30-5-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.33] 杨同乐有一个 ___ 电脑。(菜 / 喜欢 / 新 / 真)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "新"
+      ],
+      "explanation": "新电脑 = máy tính mới.",
+      "relatedKnowledge": "Bài khóa 3",
+      "section": "writing"
+    },
+    {
+      "id": "q30-5-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.33] 王一雪：你的电脑 ___ 好看！",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "真"
+      ],
+      "explanation": "真好看！ = Đẹp thật đấy!",
+      "relatedKnowledge": "Phó từ 真",
+      "section": "writing"
+    },
+    {
+      "id": "q30-5-03",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Sổ tay tr.30] 今天8号，你几号休息？★ 说话人想知道什么？",
+      "options": [
+        "今天几号",
+        "哪天休息",
+        "星期几上班"
+      ],
+      "answer": "哪天休息",
+      "explanation": "Người nói hỏi 「你几号休息？」 -> muốn biết ngày nào nghỉ.",
+      "relatedKnowledge": "Đọc hiểu HSK 3.0",
+      "section": "reading"
+    },
+    {
+      "id": "q30-5-04",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Theo quy tắc biến điệu của 「一」 (Sổ tay tr.23), 「一个」 đọc là:",
+      "options": [
+        "yī gè",
+        "yí gè",
+        "yì gè",
+        "yǐ gè"
+      ],
+      "answer": "yí gè",
+      "explanation": "一 trước thanh 4 (gè) biến điệu thành thanh 2 (yí).",
+      "relatedKnowledge": "Biến điệu của 一",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-5-05",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Trong tiếng Trung, câu vị ngữ danh từ chỉ ngày tháng/tuổi tác như 「今天5月1号。」 không cần dùng động từ 「是」.",
+      "answer": true,
+      "explanation": "Đúng (Lớp học của Tiểu Ngữ tr.29).",
+      "relatedKnowledge": "Câu vị ngữ danh từ",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-5-06",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu đúng (Tôi biết làm sủi cảo):",
+      "tokens": [
+        "饺子",
+        "做",
+        "会",
+        "我"
+      ],
+      "answer": [
+        "我",
+        "会",
+        "做",
+        "饺子"
+      ],
+      "acceptedSequences": [
+        [
+          "我",
+          "会",
+          "做",
+          "饺子"
+        ]
+      ],
+      "explanation": "我会做饺子。",
+      "relatedKnowledge": "Động từ năng nguyện 会",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-5-07",
+      "type": "matching",
+      "points": 1,
+      "prompt": "[Sổ tay tr.29] Nối câu hỏi với câu trả lời đúng:",
+      "pairs": [
+        {
+          "left": "你会做饭吗？",
+          "right": "我不会。"
+        },
+        {
+          "left": "今天几号？",
+          "right": "5月6号。"
+        },
+        {
+          "left": "你去超市买什么？",
+          "right": "面条儿。"
+        }
+      ],
+      "explanation": "Khớp Phần 2 Đọc hiểu Sổ tay Bài 5.",
+      "relatedKnowledge": "Nối câu HSK 3.0",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-5-08",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「饺子」:",
+      "options": [
+        "jiǎozi",
+        "jiāozi",
+        "qiǎozi",
+        "jiàozǐ"
+      ],
+      "answer": "jiǎozi",
+      "explanation": "饺 thanh 3 (jiǎo) + 子 thanh nhẹ (zi).",
+      "relatedKnowledge": "Phát âm Bài 5",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-5-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết Dương Đồng Lạc biết nấu món gì:",
+      "audioText": "我会做面条儿、饺子，也会做一些菜。",
+      "options": [
+        "Chỉ biết nấu mì",
+        "Biết nấu mì, sủi cảo và một số món ăn",
+        "Không biết nấu ăn"
+      ],
+      "answer": "Biết nấu mì, sủi cảo và một số món ăn",
+      "explanation": "Khớp Bài khóa 2 trang 30.",
+      "relatedKnowledge": "Nghe hiểu Bài 5",
+      "section": "listening"
+    },
+    {
+      "id": "q30-5-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Hôm nay tôi được nghỉ.\"",
+      "sampleAnswer": "今天我休息。",
+      "acceptedAnswers": [
+        "今天我休息",
+        "今天我休息。",
+        "我今天休息",
+        "我今天休息。"
+      ],
+      "requiredKeywords": [
+        "今天",
+        "我",
+        "休息"
+      ],
+      "explanation": "今天我休息。",
+      "relatedKnowledge": "Tiêu đề Bài 5",
+      "section": "writing"
+    },
+    {
+      "id": "q30-5-11",
+      "section": "vocab",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho phiên âm 「diànnǎo」 (Máy tính):",
+      "options": [
+        "电脑",
+        "手机",
+        "面条儿",
+        "饺子"
+      ],
+      "answer": "电脑",
+      "explanation": "「电脑 (diànnǎo)」 = máy tính; 「面条儿」 = mì sợi; 「饺子」 = sủi cảo.",
+      "relatedKnowledge": "Từ mới Bài 5"
+    },
+    {
+      "id": "q30-5-12",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Để nói 'Chủ nhật' trong tiếng Trung, hai cách nói đúng là:",
+      "options": [
+        "星期七 và 星期日",
+        "星期日 và 星期天",
+        "星期一 và 星期天",
+        "七星期 và 星期日"
+      ],
+      "answer": "星期日 và 星期天",
+      "explanation": "Chủ nhật KHÔNG nói 「星期七」 mà dùng 「星期日」 (trang trọng/văn viết) hoặc 「星期天」 (khẩu ngữ).",
+      "relatedKnowledge": "Cách nói thứ trong tuần"
+    },
+    {
+      "id": "q30-5-13",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 3–4",
+      "prompt": "[Ôn Bài 3–5] Phân biệt đúng 3 đại từ cùng phát âm là 「tā」:",
+      "options": [
+        "他 (nam) – 她 (nữ) – 它 (đồ vật/động vật)",
+        "她 (nam) – 他 (đồ vật) – 它 (nữ)",
+        "它 (người lớn) – 他 (trẻ em) – 她 (đồ vật)",
+        "他 (số nhiều) – 她 (số ít) – 它 (chỉ thời gian)"
+      ],
+      "answer": "他 (nam) – 她 (nữ) – 它 (đồ vật/động vật)",
+      "explanation": "「她」 (Bài 3) chỉ nữ, 「他」 (Bài 4) chỉ nam/chung, 「它」 (Bài 5) chỉ đồ vật hoặc động vật (như 「我很喜欢它」 chỉ chiếc máy tính mới).",
+      "relatedKnowledge": "Tổng hợp bộ đại từ 他/她/它 (Bài 3–5)"
+    },
+    {
+      "id": "q30-5-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Trong tiếng Trung, ngày 8 tháng 9 được viết và đọc theo trật tự nào?",
+      "options": [
+        "8号9月",
+        "9月8号",
+        "9日8月",
+        "8月9号"
+      ],
+      "answer": "9月8号",
+      "explanation": "Thời gian tiếng Trung đi từ đơn vị LỚN đến NHỎ: Năm → Tháng (月) → Ngày (号/日) → Thứ (星期). Nên ngày 8/9 là 「9月8号」.",
+      "relatedKnowledge": "Diễn đạt thời gian (1)"
+    },
+    {
+      "id": "q30-5-15",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 4",
+      "prompt": "[Ôn Bài 4 + 5] Điền đúng lượng từ/từ chỉ số lượng: 我会做___菜，也会做___个饺子。(Tôi biết nấu một vài món ăn, cũng biết làm hai cái sủi cảo.)",
+      "options": [
+        "一些 / 两",
+        "两 / 一些",
+        "一些 / 二",
+        "口 / 两"
+      ],
+      "answer": "一些 / 两",
+      "explanation": "「一些」 (Bài 5) = một vài/một số; trước lượng từ 「个」 dùng 「两」 (Bài 4), không dùng 「二」.",
+      "relatedKnowledge": "Ôn Bài 4 (两+个) + Bài 5 (一些)"
+    },
+    {
+      "id": "q30-5-16",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "王一雪：同乐，下班吗？这是你的新电脑吗？\n杨同乐：下班。是的，是我的新电脑。\n王一雪：真好看！\n杨同乐：我也很喜欢它。",
+      "passagePinyin": "Wáng Yīxuě: Tónglè, xiàbān ma? Zhè shì nǐ de xīn diànnǎo ma? Yáng Tónglè: Xiàbān. Shì de, shì wǒ de xīn diànnǎo. Wáng Yīxuě: Zhēn hǎokàn! Yáng Tónglè: Wǒ yě hěn xǐhuan tā.",
+      "prompt": "Chữ 「它」 trong câu 「我也很喜欢它」 chỉ vật gì?",
+      "options": [
+        "Món sủi cảo",
+        "Chiếc máy tính mới của Dương Đồng Lạc",
+        "Ngày Chủ nhật",
+        "Bữa cơm tối"
+      ],
+      "answer": "Chiếc máy tính mới của Dương Đồng Lạc",
+      "explanation": "Trước đó hai người đang nói về 「我的新电脑」 (chiếc máy tính mới của tôi), nên 「它」 thay thế cho chiếc máy tính đó.",
+      "relatedKnowledge": "Bài khóa 3 – Đại từ 它"
+    },
+    {
+      "id": "q30-5-17",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "reviewTag": "Ôn Bài 3",
+      "prompt": "[Ôn Bài 3 + 5] Trong câu vị ngữ danh từ nói ngày tháng như 「今天9月8号，星期日。」, có thể bỏ động từ 「是」 mà vẫn đúng ngữ pháp.",
+      "answer": true,
+      "explanation": "Đúng! Câu nói ngày tháng, thứ, tuổi tác (Bài 4–5) thường là câu vị ngữ danh từ, không bắt buộc dùng 「是」 (trừ khi phủ định phải dùng 「不是」).",
+      "relatedKnowledge": "Câu vị ngữ danh từ (Bài 4–5)"
+    },
+    {
+      "id": "q30-5-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu nói về việc làm ngày Chủ nhật:",
+      "tokens": [
+        "做饭",
+        "也",
+        "星期天",
+        "我"
+      ],
+      "answer": [
+        "星期天",
+        "我",
+        "也",
+        "做饭"
+      ],
+      "acceptedSequences": [
+        [
+          "星期天",
+          "我",
+          "也",
+          "做饭"
+        ],
+        [
+          "我",
+          "星期天",
+          "也",
+          "做饭"
+        ]
+      ],
+      "explanation": "「星期天我也做饭。」 (Chủ nhật tôi cũng nấu cơm.) — từ chỉ thời gian có thể đứng đầu câu hoặc ngay sau chủ ngữ.",
+      "relatedKnowledge": "Trật tự trạng ngữ thời gian"
+    },
+    {
+      "id": "q30-5-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "今天9月8号，星期日。今天我休息，我会做面条儿和饺子。",
+      "prompt": "Nghe đoạn âm thanh và chọn thông tin ĐÚNG:",
+      "options": [
+        "Hôm nay người nói đi làm rất bận",
+        "Hôm nay là Chủ nhật ngày 8/9, người nói được nghỉ và biết nấu mì, sủi cảo",
+        "Hôm nay là thứ Bảy ngày 9/8",
+        "Người nói không biết nấu ăn"
+      ],
+      "answer": "Hôm nay là Chủ nhật ngày 8/9, người nói được nghỉ và biết nấu mì, sủi cảo",
+      "explanation": "Lời nghe: 「今天9月8号，星期日。今天我休息，我会做面条儿和饺子。」.",
+      "relatedKnowledge": "Nghe hiểu Bài 5"
+    },
+    {
+      "id": "q30-5-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 4",
+      "audioText": "A：你妈妈会做中国菜吗？ B：会，我妈妈很喜欢做饭，她会做饺子，也会做很多菜。",
+      "prompt": "[Ôn Bài 4 + 5] Nghe hội thoại và chọn ý đúng:",
+      "options": [
+        "Mẹ của B không biết nấu món Trung Quốc",
+        "Mẹ của B rất thích nấu ăn, biết làm sủi cảo và nhiều món ăn",
+        "Mẹ của B chỉ biết nấu mì sợi",
+        "B có hai anh trai biết nấu ăn"
+      ],
+      "answer": "Mẹ của B rất thích nấu ăn, biết làm sủi cảo và nhiều món ăn",
+      "explanation": "Kết hợp từ vựng 「妈妈」 (Bài 4) với 「会 / 喜欢 / 做饭 / 饺子 / 菜」 (Bài 5).",
+      "relatedKnowledge": "Nghe tổng hợp Bài 4–5"
+    },
+    {
+      "id": "q30-5-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Hôm nay mùng mấy, thứ mấy?",
+          "sampleAnswer": "今天几号？星期几？",
+          "pinyin": "Jīntiān jǐ hào? Xīngqī jǐ?",
+          "acceptedAnswers": [
+            "今天几号星期几",
+            "今天几号，星期几"
+          ],
+          "requiredKeywords": [
+            "今天",
+            "几号",
+            "星期几"
+          ]
+        },
+        {
+          "vi": "Hôm nay là Chủ nhật, hôm nay tôi được nghỉ.",
+          "sampleAnswer": "今天星期日，今天我休息。",
+          "pinyin": "Jīntiān Xīngqīrì, jīntiān wǒ xiūxi.",
+          "acceptedAnswers": [
+            "今天星期日今天我休息",
+            "今天星期天今天我休息",
+            "今天是星期天今天我休息"
+          ],
+          "requiredKeywords": [
+            "今天",
+            "休息"
+          ]
+        },
+        {
+          "vi": "Bạn có biết nấu ăn không?",
+          "sampleAnswer": "你会做饭吗？",
+          "pinyin": "Nǐ huì zuòfàn ma?",
+          "acceptedAnswers": [
+            "你会做饭吗"
+          ],
+          "requiredKeywords": [
+            "会",
+            "做饭",
+            "吗"
+          ]
+        },
+        {
+          "vi": "Tôi biết làm mì sợi và sủi cảo.",
+          "sampleAnswer": "我会做面条儿和饺子。",
+          "pinyin": "Wǒ huì zuò miàntiáor hé jiǎozi.",
+          "acceptedAnswers": [
+            "我会做面条儿和饺子",
+            "我会做面条和饺子"
+          ],
+          "requiredKeywords": [
+            "会",
+            "面条",
+            "饺子"
+          ]
+        },
+        {
+          "vi": "[Ôn Bài 3] Chiếc máy tính mới này đẹp thật! Tôi rất thích nó.",
+          "sampleAnswer": "这个新电脑真好看！我很喜欢它。",
+          "pinyin": "Zhège xīn diànnǎo zhēn hǎokàn! Wǒ hěn xǐhuan tā.",
+          "acceptedAnswers": [
+            "这个新电脑真好看我很喜欢它",
+            "新电脑真好看我很喜欢它"
+          ],
+          "requiredKeywords": [
+            "新电脑",
+            "好看",
+            "喜欢",
+            "它"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 5 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 5"
+    }
+  ]
+}

@@ -1,0 +1,1064 @@
+{
+  "id": "hsk1-03",
+  "courseId": "hsk1",
+  "order": 3,
+  "group": "Bài 01–05",
+  "zhTitle": "我是中国人",
+  "pinyinTitle": "Wǒ shì Zhōngguó rén",
+  "viTitle": "Mình là người Trung Quốc",
+  "image": "images/hsk1-lesson03.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 3 Giáo trình New HSK 1 (HSK 3.0): Quốc tịch (中国, 法国, 泰国), câu chữ 是, trợ từ kết cấu 的 và câu hỏi Có/Không dùng 吗.",
+  "vocabulary": [
+    {
+      "id": "v30-03-01",
+      "hanzi": "人",
+      "pinyin": "rén",
+      "pos": "Danh từ",
+      "meaning": "Người",
+      "exampleZh": "我是中国人。",
+      "examplePinyin": "Wǒ shì Zhōngguó rén.",
+      "exampleVi": "Mình là người Trung Quốc.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Danh từ.",
+      "collocations": [
+        "人 (Người)"
+      ],
+      "extraExample": "我是中国人。 — Mình là người Trung Quốc."
+    },
+    {
+      "id": "v30-03-02",
+      "hanzi": "的",
+      "pinyin": "de",
+      "pos": "Trợ từ",
+      "meaning": "Của (dùng sau định ngữ)",
+      "exampleZh": "我的中文老师也是中国人。",
+      "examplePinyin": "Wǒ de Zhōngwén lǎoshī yě shì Zhōngguó rén.",
+      "exampleVi": "Giáo viên tiếng Trung của mình cũng là người Trung Quốc.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Trợ từ.",
+      "collocations": [
+        "的 (Của (dùng sau định ngữ))"
+      ],
+      "extraExample": "我的中文老师也是中国人。 — Giáo viên tiếng Trung của mình cũng là người Trung Quốc."
+    },
+    {
+      "id": "v30-03-03",
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "pos": "Danh từ riêng",
+      "meaning": "Trung Quốc",
+      "exampleZh": "他是中国人。",
+      "examplePinyin": "Tā shì Zhōngguó rén.",
+      "exampleVi": "Anh ấy là người Trung Quốc.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "中国 (Trung Quốc)"
+      ],
+      "extraExample": "他是中国人。 — Anh ấy là người Trung Quốc."
+    },
+    {
+      "id": "v30-03-04",
+      "hanzi": "法国",
+      "pinyin": "Fǎguó",
+      "pos": "Danh từ riêng",
+      "meaning": "Pháp",
+      "exampleZh": "我是法国人。",
+      "examplePinyin": "Wǒ shì Fǎguó rén.",
+      "exampleVi": "Mình là người Pháp.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "法国 (Pháp)"
+      ],
+      "extraExample": "我是法国人。 — Mình là người Pháp."
+    },
+    {
+      "id": "v30-03-05",
+      "hanzi": "中文",
+      "pinyin": "Zhōngwén",
+      "pos": "Danh từ riêng",
+      "meaning": "Tiếng Trung",
+      "exampleZh": "她是中文老师。",
+      "examplePinyin": "Tā shì Zhōngwén lǎoshī.",
+      "exampleVi": "Cô ấy là giáo viên tiếng Trung.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "中文 (Tiếng Trung)"
+      ],
+      "extraExample": "她是中文老师。 — Cô ấy là giáo viên tiếng Trung."
+    },
+    {
+      "id": "v30-03-06",
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "pos": "Đại từ",
+      "meaning": "Này, đây",
+      "exampleZh": "这是谁？",
+      "examplePinyin": "Zhè shì shéi?",
+      "exampleVi": "Đây là ai vậy?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Đại từ.",
+      "collocations": [
+        "这 (Này, đây)"
+      ],
+      "extraExample": "这是谁？ — Đây là ai vậy?"
+    },
+    {
+      "id": "v30-03-07",
+      "hanzi": "谁",
+      "pinyin": "shéi / shuí",
+      "pos": "Đại từ",
+      "meaning": "Ai",
+      "exampleZh": "这是谁？",
+      "examplePinyin": "Zhè shì shéi?",
+      "exampleVi": "Đây là ai vậy?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Đại từ.",
+      "collocations": [
+        "谁 (Ai)"
+      ],
+      "extraExample": "这是谁？ — Đây là ai vậy?"
+    },
+    {
+      "id": "v30-03-08",
+      "hanzi": "女朋友",
+      "pinyin": "nǚpéngyou",
+      "pos": "Danh từ",
+      "meaning": "Bạn gái, người yêu",
+      "exampleZh": "这是我女朋友。",
+      "examplePinyin": "Zhè shì wǒ nǚpéngyou.",
+      "exampleVi": "Đây là bạn gái mình.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Danh từ.",
+      "collocations": [
+        "女朋友 (Bạn gái, người yêu)"
+      ],
+      "extraExample": "这是我女朋友。 — Đây là bạn gái mình."
+    },
+    {
+      "id": "v30-03-09",
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "pos": "Đại từ",
+      "meaning": "Nào",
+      "exampleZh": "你女朋友是哪国人？",
+      "examplePinyin": "Nǐ nǚpéngyou shì nǎ guó rén?",
+      "exampleVi": "Bạn gái của bạn là người nước nào?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Đại từ.",
+      "collocations": [
+        "哪 (Nào)"
+      ],
+      "extraExample": "你女朋友是哪国人？ — Bạn gái của bạn là người nước nào?"
+    },
+    {
+      "id": "v30-03-10",
+      "hanzi": "国",
+      "pinyin": "guó",
+      "pos": "Danh từ",
+      "meaning": "Quốc gia, đất nước",
+      "exampleZh": "她是泰国人。",
+      "examplePinyin": "Tā shì Tàiguó rén.",
+      "exampleVi": "Cô ấy là người Thái Lan.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Danh từ.",
+      "collocations": [
+        "国 (Quốc gia, đất nước)"
+      ],
+      "extraExample": "她是泰国人。 — Cô ấy là người Thái Lan."
+    },
+    {
+      "id": "v30-03-11",
+      "hanzi": "她",
+      "pinyin": "tā",
+      "pos": "Đại từ",
+      "meaning": "Cô ấy, chị ấy, bạn ấy",
+      "exampleZh": "她也是泰国人。",
+      "examplePinyin": "Tā yě shì Tàiguó rén.",
+      "exampleVi": "Cô ấy cũng là người Thái Lan.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Đại từ.",
+      "collocations": [
+        "她 (Cô ấy, chị ấy, bạn ấy)"
+      ],
+      "extraExample": "她也是泰国人。 — Cô ấy cũng là người Thái Lan."
+    },
+    {
+      "id": "v30-03-12",
+      "hanzi": "喂",
+      "pinyin": "wèi",
+      "pos": "Thán từ",
+      "meaning": "A lô",
+      "exampleZh": "喂，一飞！",
+      "examplePinyin": "Wèi, Yīfēi!",
+      "exampleVi": "A lô, Nhất Phi à!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Thán từ.",
+      "collocations": [
+        "喂 (A lô)"
+      ],
+      "extraExample": "喂，一飞！ — A lô, Nhất Phi à!"
+    },
+    {
+      "id": "v30-03-13",
+      "hanzi": "姐姐",
+      "pinyin": "jiějie",
+      "pos": "Danh từ",
+      "meaning": "Chị gái",
+      "exampleZh": "姐姐！",
+      "examplePinyin": "Jiějie!",
+      "exampleVi": "Vâng, chị!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Danh từ.",
+      "collocations": [
+        "姐姐 (Chị gái)"
+      ],
+      "extraExample": "姐姐！ — Vâng, chị!"
+    },
+    {
+      "id": "v30-03-14",
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "pos": "Danh từ",
+      "meaning": "Công việc",
+      "exampleZh": "你工作还忙吗？",
+      "examplePinyin": "Nǐ gōngzuò hái máng ma?",
+      "exampleVi": "Công việc của em vẫn bận lắm à?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Danh từ.",
+      "collocations": [
+        "工作 (Công việc)"
+      ],
+      "extraExample": "你工作还忙吗？ — Công việc của em vẫn bận lắm à?"
+    },
+    {
+      "id": "v30-03-15",
+      "hanzi": "还",
+      "pinyin": "hái",
+      "pos": "Phó từ",
+      "meaning": "Vẫn",
+      "exampleZh": "对，还很忙。",
+      "examplePinyin": "Duì, hái hěn máng.",
+      "exampleVi": "Vâng, vẫn rất bận.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Phó từ.",
+      "collocations": [
+        "还 (Vẫn)"
+      ],
+      "extraExample": "对，还很忙。 — Vâng, vẫn rất bận."
+    },
+    {
+      "id": "v30-03-16",
+      "hanzi": "忙",
+      "pinyin": "máng",
+      "pos": "Tính từ",
+      "meaning": "Bận, bận rộn",
+      "exampleZh": "我不太忙。",
+      "examplePinyin": "Wǒ bú tài máng.",
+      "exampleVi": "Chị không bận lắm.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Tính từ.",
+      "collocations": [
+        "忙 (Bận, bận rộn)"
+      ],
+      "extraExample": "我不太忙。 — Chị không bận lắm."
+    },
+    {
+      "id": "v30-03-17",
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "pos": "Trợ từ",
+      "meaning": "... phải không? (cuối câu hỏi)",
+      "exampleZh": "你也很忙吗？",
+      "examplePinyin": "Nǐ yě hěn máng ma?",
+      "exampleVi": "Chị cũng bận lắm phải không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Trợ từ.",
+      "collocations": [
+        "吗 (... phải không? (cuối câu hỏi))"
+      ],
+      "extraExample": "你也很忙吗？ — Chị cũng bận lắm phải không?"
+    },
+    {
+      "id": "v30-03-18",
+      "hanzi": "太",
+      "pinyin": "tài",
+      "pos": "Phó từ",
+      "meaning": "Quá, lắm",
+      "exampleZh": "我不太忙。",
+      "examplePinyin": "Wǒ bú tài máng.",
+      "exampleVi": "Chị không bận lắm.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Phó từ.",
+      "collocations": [
+        "太 (Quá, lắm)"
+      ],
+      "extraExample": "我不太忙。 — Chị không bận lắm."
+    },
+    {
+      "id": "v30-03-19",
+      "hanzi": "我们",
+      "pinyin": "wǒmen",
+      "pos": "Đại từ",
+      "meaning": "Chúng tôi, chúng ta",
+      "exampleZh": "我们很想你。",
+      "examplePinyin": "Wǒmen hěn xiǎng nǐ.",
+      "exampleVi": "Mọi người đều rất nhớ em.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Đại từ.",
+      "collocations": [
+        "我们 (Chúng tôi, chúng ta)"
+      ],
+      "extraExample": "我们很想你。 — Mọi người đều rất nhớ em."
+    },
+    {
+      "id": "v30-03-20",
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "pos": "Động từ",
+      "meaning": "Nhớ",
+      "exampleZh": "我也想你们。",
+      "examplePinyin": "Wǒ yě xiǎng nǐmen.",
+      "exampleVi": "Em cũng nhớ mọi người.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Động từ.",
+      "collocations": [
+        "想 (Nhớ)"
+      ],
+      "extraExample": "我也想你们。 — Em cũng nhớ mọi người."
+    },
+    {
+      "id": "v30-03-21",
+      "hanzi": "对",
+      "pinyin": "duì",
+      "pos": "Tính từ",
+      "meaning": "Đúng",
+      "exampleZh": "对，还很忙。",
+      "examplePinyin": "Duì, hái hěn máng.",
+      "exampleVi": "Đúng, vẫn rất bận.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Tính từ.",
+      "collocations": [
+        "对 (Đúng)"
+      ],
+      "extraExample": "对，还很忙。 — Đúng, vẫn rất bận."
+    },
+    {
+      "id": "v30-03-22",
+      "hanzi": "泰国",
+      "pinyin": "Tàiguó",
+      "pos": "Danh từ riêng",
+      "meaning": "Thái Lan (tên nước)",
+      "exampleZh": "她也是泰国人。",
+      "examplePinyin": "Tā yě shì Tàiguó rén.",
+      "exampleVi": "Cô ấy cũng là người Thái Lan.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 3. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "泰国 (Thái Lan (tên nước))"
+      ],
+      "extraExample": "她也是泰国人。 — Cô ấy cũng là người Thái Lan."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-03-1",
+      "title": "Bài khóa 1: Quốc tịch và giáo viên tiếng Trung",
+      "context": "Lý Văn và Bạch Gia Nguyệt tiếp tục trò chuyện trong sân trường.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Lý Văn",
+          "side": "left",
+          "zh": "我是中国人。",
+          "pinyin": "Wǒ shì Zhōngguó rén.",
+          "vi": "Mình là người Trung Quốc."
+        },
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "right",
+          "zh": "我是法国人。我的中文老师也是中国人。",
+          "pinyin": "Wǒ shì Fǎguó rén. Wǒ de Zhōngwén lǎoshī yě shì Zhōngguó rén.",
+          "vi": "Mình là người Pháp. Giáo viên tiếng Trung của mình cũng là người Trung Quốc."
+        }
+      ]
+    },
+    {
+      "id": "d30-03-2",
+      "title": "Bài khóa 2: Xem ảnh bạn gái",
+      "context": "Annie xem ảnh trên điện thoại của Trần Thiên Trung sau giờ học.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Annie",
+          "side": "left",
+          "zh": "这是谁？",
+          "pinyin": "Zhè shì shéi?",
+          "vi": "Đây là ai vậy?"
+        },
+        {
+          "speaker": "Trần Thiên Trung",
+          "side": "right",
+          "zh": "这是我女朋友。",
+          "pinyin": "Zhè shì wǒ nǚpéngyou.",
+          "vi": "Đây là bạn gái mình."
+        },
+        {
+          "speaker": "Annie",
+          "side": "left",
+          "zh": "你女朋友是哪国人？",
+          "pinyin": "Nǐ nǚpéngyou shì nǎ guó rén?",
+          "vi": "Bạn gái của bạn là người nước nào?"
+        },
+        {
+          "speaker": "Trần Thiên Trung",
+          "side": "right",
+          "zh": "她也是泰国人。",
+          "pinyin": "Tā yě shì Tàiguó rén.",
+          "vi": "Cô ấy cũng là người Thái Lan."
+        }
+      ]
+    },
+    {
+      "id": "d30-03-3",
+      "title": "Bài khóa 3: Gọi video hỏi thăm gia đình",
+      "context": "Chị họ Vương Nhất Tuyết gọi video hỏi thăm Vương Nhất Phi.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "喂，一飞！你工作还忙吗？",
+          "pinyin": "Wèi, Yīfēi! Nǐ gōngzuò hái máng ma?",
+          "vi": "A lô Nhất Phi! Công việc em vẫn bận lắm à?"
+        },
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "right",
+          "zh": "对，还很忙。你也很忙吗？",
+          "pinyin": "Duì, hái hěn máng. Nǐ yě hěn máng ma?",
+          "vi": "Vâng, vẫn rất bận. Chị cũng bận lắm phải không?"
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "我不太忙。我们很想你。",
+          "pinyin": "Wǒ bú tài máng. Wǒmen hěn xiǎng nǐ.",
+          "vi": "Chị không bận lắm. Mọi người đều rất nhớ em."
+        },
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "right",
+          "zh": "我也想你们。",
+          "pinyin": "Wǒ yě xiǎng nǐmen.",
+          "vi": "Em cũng nhớ mọi người."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-03-1",
+      "title": "1. Câu chữ 是 (A 是 / 不是 B)",
+      "formula": "Chủ ngữ + 是 / 不是 + Tân ngữ",
+      "usage": "Định danh người hoặc sự vật, phủ định dùng 不是.",
+      "explanation": "Ví dụ trong sách: 我是法国人。/ 我老师不是法国人。",
+      "examples": [
+        {
+          "zh": "她是中文老师。",
+          "pinyin": "Tā shì Zhōngwén lǎoshī.",
+          "vi": "Cô ấy là giáo viên tiếng Trung."
+        },
+        {
+          "zh": "我老师不是法国人。",
+          "pinyin": "Wǒ lǎoshī bú shì Fǎguó rén.",
+          "vi": "Giáo viên của tôi không phải người Pháp."
+        }
+      ],
+      "commonMistake": "Dùng 是 trước tính từ đơn lẻ như '我是忙' (SAI).",
+      "comparison": "Phủ định của 是 là 不是 (đọc biến điệu bú shì)."
+    },
+    {
+      "id": "g30-03-2",
+      "title": "2. Trợ từ kết cấu 的",
+      "formula": "Định ngữ + 的 + Trung tâm ngữ",
+      "usage": "Diễn đạt mối quan hệ sở hữu. Khi trước 的 là đại từ nhân xưng và sau 的 là người thân/quan hệ gần (我老师, 我妈妈, 你同学) có thể lược 的.",
+      "explanation": "Ví dụ: 白家月的中文老师 / 我女朋友.",
+      "examples": [
+        {
+          "zh": "白家月的中文老师",
+          "pinyin": "Bái Jiāyuè de Zhōngwén lǎoshī",
+          "vi": "Giáo viên tiếng Trung của Bạch Gia Nguyệt"
+        },
+        {
+          "zh": "我老师 / 我妈妈",
+          "pinyin": "wǒ lǎoshī / wǒ māma",
+          "vi": "Giáo viên của tôi / Mẹ tôi"
+        }
+      ],
+      "commonMistake": "Dịch xuôi thành '中文老师我的' (SAI).",
+      "comparison": "Có thể lược 的 trong quan hệ thân thuộc."
+    },
+    {
+      "id": "g30-03-3",
+      "title": "3. Câu hỏi Có/Không dùng 吗",
+      "formula": "Câu trần thuật + 吗？",
+      "usage": "Đặt 吗 ở cuối câu trần thuật để biến thành câu hỏi Có/Không.",
+      "explanation": "Ví dụ: 你也很忙吗？/ 你是他的中文老师吗？",
+      "examples": [
+        {
+          "zh": "你工作还忙吗？",
+          "pinyin": "Nǐ gōngzuò hái máng ma?",
+          "vi": "Công việc của bạn vẫn bận à?"
+        }
+      ],
+      "commonMistake": "Thêm 吗 vào câu đã có 谁 hoặc 哪 (SAI: 你是哪国人吗？).",
+      "comparison": "吗 hỏi Có/Không ↔ 谁/哪 hỏi thông tin cụ thể."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "我是法国人，我的中文老师是中国人。",
+      "pinyin": "Wǒ shì Fǎguó rén, wǒ de Zhōngwén lǎoshī shì Zhōngguó rén.",
+      "vi": "Mình là người Pháp, giáo viên tiếng Trung của mình là người Trung Quốc."
+    },
+    {
+      "zh": "这是谁？— 这是我女朋友。",
+      "pinyin": "Zhè shì shéi? — Zhè shì wǒ nǚpéngyou.",
+      "vi": "Đây là ai? — Đây là bạn gái mình."
+    },
+    {
+      "zh": "你女朋友是哪国人？",
+      "pinyin": "Nǐ nǚpéngyou shì nǎ guó rén?",
+      "vi": "Bạn gái bạn là người nước nào?"
+    },
+    {
+      "zh": "你工作还忙吗？— 我不太忙。",
+      "pinyin": "Nǐ gōngzuò hái máng ma? — Wǒ bú tài máng.",
+      "vi": "Công việc của bạn vẫn bận à? — Mình không bận lắm."
+    },
+    {
+      "zh": "我们很想你！— 我也想你们。",
+      "pinyin": "Wǒmen hěn xiǎng nǐ! — Wǒ yě xiǎng nǐmen.",
+      "vi": "Chúng tôi rất nhớ bạn! — Mình cũng nhớ các bạn."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-3-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "rén",
+          "answer": "人",
+          "meaning": "Người"
+        },
+        {
+          "pinyin": "de",
+          "answer": "的",
+          "meaning": "Của (dùng sau định ngữ)"
+        },
+        {
+          "pinyin": "Zhōngguó",
+          "answer": "中国",
+          "meaning": "Trung Quốc"
+        },
+        {
+          "pinyin": "Fǎguó",
+          "answer": "法国",
+          "meaning": "Pháp"
+        },
+        {
+          "pinyin": "Zhōngwén",
+          "answer": "中文",
+          "meaning": "Tiếng Trung"
+        },
+        {
+          "pinyin": "zhè",
+          "answer": "这",
+          "meaning": "Này, đây"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 3.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 3"
+    },
+    {
+      "id": "q30-3-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Cô ấy, chị ấy, bạn ấy"
+        },
+        {
+          "key": "B",
+          "label": "Ai"
+        },
+        {
+          "key": "C",
+          "label": "Quốc gia, đất nước"
+        },
+        {
+          "key": "D",
+          "label": "Nào"
+        },
+        {
+          "key": "E",
+          "label": "A lô"
+        },
+        {
+          "key": "F",
+          "label": "Bạn gái, người yêu"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "谁",
+          "pinyin": "shéi / shuí",
+          "answerKey": "B"
+        },
+        {
+          "hanzi": "女朋友",
+          "pinyin": "nǚpéngyou",
+          "answerKey": "F"
+        },
+        {
+          "hanzi": "哪",
+          "pinyin": "nǎ",
+          "answerKey": "D"
+        },
+        {
+          "hanzi": "国",
+          "pinyin": "guó",
+          "answerKey": "C"
+        },
+        {
+          "hanzi": "她",
+          "pinyin": "tā",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "喂",
+          "pinyin": "wèi",
+          "answerKey": "E"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 3.",
+      "relatedKnowledge": "Từ mới Bài 3"
+    },
+    {
+      "id": "q30-3-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[Bài tập tổng hợp SGK tr.15] Chọn từ điền chỗ trống: 你工作忙 ___ ？(哪 / 吗 / 谁 / 想)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "吗"
+      ],
+      "explanation": "Câu hỏi Có/Không dùng trợ từ 「吗」 ở cuối câu.",
+      "relatedKnowledge": "Câu hỏi dùng 吗",
+      "section": "writing"
+    },
+    {
+      "id": "q30-3-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[Bài tập tổng hợp SGK tr.15] 我很 ___ 你们。(哪 / 吗 / 谁 / 想)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "想"
+      ],
+      "explanation": "「想」 trong Bài 3 có nghĩa là 'nhớ' -> 我很想你们 (Tôi rất nhớ các bạn).",
+      "relatedKnowledge": "Từ mới Bài 3",
+      "section": "writing"
+    },
+    {
+      "id": "q30-3-03",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Bài tập tổng hợp SGK tr.15] 白家月：她是 ___ ？ 安妮：她是陈天中的女朋友。",
+      "options": [
+        "哪",
+        "吗",
+        "谁",
+        "想"
+      ],
+      "answer": "谁",
+      "explanation": "Hỏi danh tính người dùng 「谁」.",
+      "relatedKnowledge": "Đại từ nghi vấn 谁",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-3-04",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Trong Bài khóa 1, Bạch Gia Nguyệt là người nước nào?",
+      "options": [
+        "Người Trung Quốc",
+        "Người Pháp (法国人)",
+        "Người Thái Lan",
+        "Người Canada"
+      ],
+      "answer": "Người Pháp (法国人)",
+      "explanation": "Bạch Gia Nguyệt nói: 「我是法国人。」",
+      "relatedKnowledge": "Đọc hiểu Bài khóa 1",
+      "section": "reading"
+    },
+    {
+      "id": "q30-3-05",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Khi trước 「的」 là đại từ nhân xưng và sau là danh từ chỉ người thân (như 我妈妈, 我老师), chữ 「的」 có thể lược bỏ.",
+      "answer": true,
+      "explanation": "Đúng (Lớp học của Tiểu Ngữ trang 11).",
+      "relatedKnowledge": "Trợ từ kết cấu 的",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-3-06",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu đúng (Giáo viên tiếng Trung của tôi cũng là người Trung Quốc):",
+      "tokens": [
+        "中国人",
+        "也是",
+        "中文老师",
+        "我的"
+      ],
+      "answer": [
+        "我的",
+        "中文老师",
+        "也是",
+        "中国人"
+      ],
+      "acceptedSequences": [
+        [
+          "我的",
+          "中文老师",
+          "也是",
+          "中国人"
+        ]
+      ],
+      "explanation": "我的中文老师也是中国人。",
+      "relatedKnowledge": "Trợ từ 的 và câu chữ 是",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-3-07",
+      "type": "matching",
+      "points": 1,
+      "prompt": "Nối từ mới Bài 3 (HSK 3.0):",
+      "pairs": [
+        {
+          "left": "法国",
+          "right": "Nước Pháp"
+        },
+        {
+          "left": "泰国",
+          "right": "Thái Lan"
+        },
+        {
+          "left": "女朋友",
+          "right": "Bạn gái"
+        },
+        {
+          "left": "忙",
+          "right": "Bận rộn"
+        }
+      ],
+      "explanation": "Theo bảng từ mới Bài 3 trang 11–14.",
+      "relatedKnowledge": "Từ mới Bài 3",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-3-08",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「女朋友」:",
+      "options": [
+        "nǚpéngyou",
+        "nǔpéngyou",
+        "nǚfēngyou",
+        "lǚpéngyou"
+      ],
+      "answer": "nǚpéngyou",
+      "explanation": "女 (nǚ) + 朋 (péng) + 友 (you thanh nhẹ).",
+      "relatedKnowledge": "Phát âm Bài 3",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-3-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết công việc của Vương Nhất Tuyết thế nào:",
+      "audioText": "我不太忙，我们很想你。",
+      "options": [
+        "Rất bận",
+        "Không bận lắm",
+        "Không làm việc",
+        "Đang đi học"
+      ],
+      "answer": "Không bận lắm",
+      "explanation": "「我不太忙」 = Chị không bận lắm.",
+      "relatedKnowledge": "Nghe hiểu Bài 3",
+      "section": "listening"
+    },
+    {
+      "id": "q30-3-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Đây là bạn gái của tôi.\"",
+      "sampleAnswer": "这是我女朋友。",
+      "acceptedAnswers": [
+        "这是我女朋友",
+        "这是我女朋友。",
+        "这是我的女朋友",
+        "这是我的女朋友。"
+      ],
+      "requiredKeywords": [
+        "这",
+        "是",
+        "女朋友"
+      ],
+      "explanation": "这是我(的)女朋友。",
+      "relatedKnowledge": "Bài khóa 2",
+      "section": "writing"
+    },
+    {
+      "id": "q30-3-11",
+      "section": "vocab",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho phiên âm 「shéi / shuí」 (nghĩa: Ai):",
+      "options": [
+        "哪",
+        "谁",
+        "这",
+        "她"
+      ],
+      "answer": "谁",
+      "explanation": "「谁 (shéi / shuí)」 nghĩa là 'Ai'; 「哪 (nǎ)」 là 'Nào'; 「这 (zhè)」 là 'Đây/Này'.",
+      "relatedKnowledge": "Từ mới Bài 3"
+    },
+    {
+      "id": "q30-3-12",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 2",
+      "prompt": "[Ôn Bài 2 + 3] Ghép đúng cặp đại từ nghi vấn với chức năng hỏi tương ứng:",
+      "options": [
+        "什么 (hỏi tên/vật) – 谁 (hỏi người) – 哪国 (hỏi quốc tịch)",
+        "谁 (hỏi tên vật) – 什么 (hỏi quốc tịch) – 哪 (hỏi ai)",
+        "吗 (hỏi người) – 什么 (hỏi có/không) – 谁 (hỏi tên)",
+        "哪 (hỏi cảm ơn) – 谁 (hỏi bận) – 什么 (hỏi nhớ)"
+      ],
+      "answer": "什么 (hỏi tên/vật) – 谁 (hỏi người) – 哪国 (hỏi quốc tịch)",
+      "explanation": "「什么」 (Bài 2) hỏi cái gì/tên gì; 「谁」 (Bài 3) hỏi ai; 「哪国」 (Bài 3) hỏi nước nào.",
+      "relatedKnowledge": "Hệ thống đại từ nghi vấn Bài 2–3"
+    },
+    {
+      "id": "q30-3-13",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Trong câu nào dưới đây KHÔNG được dùng trợ từ nghi vấn 「吗」 ở cuối câu?",
+      "options": [
+        "你是中国人___？",
+        "你工作忙___？",
+        "这是谁___？",
+        "她也是法国人___？"
+      ],
+      "answer": "这是谁___？",
+      "explanation": "Câu đã có đại từ nghi vấn 「谁」 thì KHÔNG thêm 「吗」 ở cuối câu (chỉ nói 「这是谁？」).",
+      "relatedKnowledge": "Quy tắc câu hỏi dùng 吗"
+    },
+    {
+      "id": "q30-3-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 2",
+      "prompt": "[Ôn Bài 2 + 3] Câu nào sau đây viết ĐÚNG ngữ pháp tiếng Trung?",
+      "options": [
+        "我的中文老师是中国人也。",
+        "我的中文老师也是中国人。",
+        "我中文的老师也是中国人。",
+        "我的老师中文也是中国人。"
+      ],
+      "answer": "我的中文老师也是中国人。",
+      "explanation": "Định ngữ đứng trước trung tâm ngữ (「我的中文老师」) và phó từ 「也」 (Bài 2) đứng ngay trước động từ 「是」.",
+      "relatedKnowledge": "Ôn Bài 2 (也) + Bài 3 (的, 是)"
+    },
+    {
+      "id": "q30-3-15",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "王一雪：喂，一飞！你工作还忙吗？\n王一飞：对，还很忙。你也很忙吗？\n王一雪：我不太忙。我们很想你。\n王一飞：我也想你们。",
+      "passagePinyin": "Wáng Yīxuě: Wèi, Yīfēi! Nǐ gōngzuò hái máng ma? Wáng Yīfēi: Duì, hái hěn máng. Nǐ yě hěn máng ma? Wáng Yīxuě: Wǒ bú tài máng. Wǒmen hěn xiǎng nǐ. Wáng Yīfēi: Wǒ yě xiǎng nǐmen.",
+      "prompt": "Theo đoạn hội thoại, ai là người đang rất bận công việc?",
+      "options": [
+        "Vương Nhất Tuyết",
+        "Vương Nhất Phi",
+        "Cả hai đều không bận",
+        "Bạch Gia Nguyệt"
+      ],
+      "answer": "Vương Nhất Phi",
+      "explanation": "Vương Nhất Phi trả lời 「对，还很忙。」 còn Vương Nhất Tuyết nói 「我不太忙。」 (Tôi không bận lắm).",
+      "relatedKnowledge": "Bài khóa 3 – Gọi điện cho gia đình"
+    },
+    {
+      "id": "q30-3-16",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "reviewTag": "Ôn Bài 1–2",
+      "prompt": "[Ôn Bài 1–3] Dựa vào Bài khóa 1–3: Bạch Gia Nguyệt là người Pháp, bạn gái Trần Thiên Trung là người Thái Lan, và cô giáo tiếng Trung của họ là người Trung Quốc.",
+      "answer": true,
+      "explanation": "Đúng hoàn toàn theo giáo trình New HSK 1 Bài 3 (白家月是法国人, 陈天中女朋友是泰国人, 中文老师是中国人).",
+      "relatedKnowledge": "Tổng hợp nhân vật Bài 1–3"
+    },
+    {
+      "id": "q30-3-17",
+      "section": "writing",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 1 chữ Hán: 我___太忙。(Tôi không bận lắm.)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "不"
+      ],
+      "explanation": "「不太 + tính từ」 nghĩa là 'không ... lắm': 「我不太忙」.",
+      "relatedKnowledge": "Cấu trúc 不太 + Tính từ"
+    },
+    {
+      "id": "q30-3-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "reviewTag": "Ôn Bài 2",
+      "prompt": "[Ôn Bài 2 + 3] Sắp xếp thành câu hỏi quốc tịch:",
+      "tokens": [
+        "是",
+        "你",
+        "哪国人",
+        "女朋友"
+      ],
+      "answer": [
+        "你",
+        "女朋友",
+        "是",
+        "哪国人"
+      ],
+      "acceptedSequences": [
+        [
+          "你",
+          "女朋友",
+          "是",
+          "哪国人"
+        ]
+      ],
+      "explanation": "「你女朋友是哪国人？」 (Bạn gái của cậu là người nước nào?) — giữa đại từ và người thân có thể lược 「的」.",
+      "relatedKnowledge": "Bài khóa 2 & Lược 的"
+    },
+    {
+      "id": "q30-3-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "这是我姐姐，她不是老师，她工作很忙。",
+      "prompt": "Nghe câu trên và chọn thông tin ĐÚNG về chị gái người nói:",
+      "options": [
+        "Chị ấy là giáo viên tiếng Trung",
+        "Chị ấy không phải giáo viên và công việc rất bận",
+        "Chị ấy không bận lắm",
+        "Chị ấy là người Pháp"
+      ],
+      "answer": "Chị ấy không phải giáo viên và công việc rất bận",
+      "explanation": "Lời nghe: 「这是我姐姐，她不是老师，她工作很忙。」.",
+      "relatedKnowledge": "Nghe hiểu Bài 3"
+    },
+    {
+      "id": "q30-3-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 2",
+      "audioText": "A：你好，请问你是法国人吗？ B：不是，我是中国人。我叫李文。",
+      "prompt": "[Ôn Bài 2 + 3] Nghe hội thoại và chọn quốc tịch của Lý Văn:",
+      "options": [
+        "Người Pháp",
+        "Người Thái Lan",
+        "Người Trung Quốc",
+        "Chưa nhắc đến"
+      ],
+      "answer": "Người Trung Quốc",
+      "explanation": "Lý Văn trả lời 「不是，我是中国人。我叫李文。」.",
+      "relatedKnowledge": "Nghe tổng hợp Bài 2–3"
+    },
+    {
+      "id": "q30-3-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Mình là người Trung Quốc.",
+          "sampleAnswer": "我是中国人。",
+          "pinyin": "Wǒ shì Zhōngguó rén.",
+          "acceptedAnswers": [
+            "我是中国人"
+          ],
+          "requiredKeywords": [
+            "我",
+            "是",
+            "中国人"
+          ]
+        },
+        {
+          "vi": "Cô giáo tiếng Trung của mình cũng là người Trung Quốc.",
+          "sampleAnswer": "我的中文老师也是中国人。",
+          "pinyin": "Wǒ de Zhōngwén lǎoshī yě shì Zhōngguó rén.",
+          "acceptedAnswers": [
+            "我的中文老师也是中国人"
+          ],
+          "requiredKeywords": [
+            "中文老师",
+            "也",
+            "中国人"
+          ]
+        },
+        {
+          "vi": "Đây là ai? — Đây là bạn gái của mình.",
+          "sampleAnswer": "这是谁？这是我女朋友。",
+          "pinyin": "Zhè shì shéi? Zhè shì wǒ nǚpéngyou.",
+          "acceptedAnswers": [
+            "这是谁这是我女朋友",
+            "这是谁这是我的女朋友"
+          ],
+          "requiredKeywords": [
+            "谁",
+            "女朋友"
+          ]
+        },
+        {
+          "vi": "Công việc của bạn có còn bận không?",
+          "sampleAnswer": "你工作还忙吗？",
+          "pinyin": "Nǐ gōngzuò hái máng ma?",
+          "acceptedAnswers": [
+            "你工作还忙吗",
+            "你的工作还忙吗"
+          ],
+          "requiredKeywords": [
+            "工作",
+            "忙",
+            "吗"
+          ]
+        },
+        {
+          "vi": "[Ôn Bài 2] Tôi không bận lắm. Chúng tôi rất nhớ bạn.",
+          "sampleAnswer": "我不太忙。我们很想你。",
+          "pinyin": "Wǒ bú tài máng. Wǒmen hěn xiǎng nǐ.",
+          "acceptedAnswers": [
+            "我不太忙我们很想你"
+          ],
+          "requiredKeywords": [
+            "不太忙",
+            "想"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 3 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 3"
+    }
+  ]
+}

@@ -1,0 +1,1074 @@
+{
+  "id": "hsk1-08",
+  "courseId": "hsk1",
+  "order": 8,
+  "group": "Bài 06–10",
+  "zhTitle": "我爸爸也在医院工作",
+  "pinyinTitle": "Wǒ bàba yě zài yīyuàn gōngzuò",
+  "viTitle": "Bố em cũng làm việc ở bệnh viện",
+  "image": "images/hsk1-lesson08.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 8 Giáo trình New HSK 1 (HSK 3.0): Phương vị từ (上, 下, 里, 外, 前, 后), giới từ 在 + Địa điểm + Động từ và động từ năng nguyện 能.",
+  "vocabulary": [
+    {
+      "id": "v30-08-01",
+      "hanzi": "房间",
+      "pinyin": "fángjiān",
+      "pos": "Danh từ",
+      "meaning": "Căn phòng",
+      "exampleZh": "房间外有一只小猫。",
+      "examplePinyin": "Fángjiān wài yǒu yì zhī xiǎo māo.",
+      "exampleVi": "Bên ngoài phòng có một con mèo nhỏ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "房间 (Căn phòng)"
+      ],
+      "extraExample": "房间外有一只小猫。 — Bên ngoài phòng có một con mèo nhỏ."
+    },
+    {
+      "id": "v30-08-02",
+      "hanzi": "外",
+      "pinyin": "wài",
+      "pos": "Danh từ",
+      "meaning": "Ngoài, bên ngoài",
+      "exampleZh": "房间外",
+      "examplePinyin": "fángjiān wài",
+      "exampleVi": "Bên ngoài phòng",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "外 (Ngoài, bên ngoài)"
+      ],
+      "extraExample": "房间外 — Bên ngoài phòng"
+    },
+    {
+      "id": "v30-08-03",
+      "hanzi": "只",
+      "pinyin": "zhī",
+      "pos": "Lượng từ",
+      "meaning": "Con (mèo, chó, chim...)",
+      "exampleZh": "这只小猫真漂亮！",
+      "examplePinyin": "Zhè zhī xiǎo māo zhēn piàoliang!",
+      "exampleVi": "Con mèo nhỏ này xinh thật!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Lượng từ.",
+      "collocations": [
+        "只 (Con (mèo, chó, chim...))"
+      ],
+      "extraExample": "这只小猫真漂亮！ — Con mèo nhỏ này xinh thật!"
+    },
+    {
+      "id": "v30-08-04",
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "pos": "Tính từ",
+      "meaning": "Nhỏ, bé",
+      "exampleZh": "小猫",
+      "examplePinyin": "xiǎo māo",
+      "exampleVi": "Mèo con",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Tính từ.",
+      "collocations": [
+        "小 (Nhỏ, bé)"
+      ],
+      "extraExample": "小猫 — Mèo con"
+    },
+    {
+      "id": "v30-08-05",
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "pos": "Danh từ",
+      "meaning": "Mèo",
+      "exampleZh": "它在桌子下呢。",
+      "examplePinyin": "Tā zài zhuōzi xià ne.",
+      "exampleVi": "Nó ở dưới cái bàn kia.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "猫 (Mèo)"
+      ],
+      "extraExample": "它在桌子下呢。 — Nó ở dưới cái bàn kia."
+    },
+    {
+      "id": "v30-08-06",
+      "hanzi": "没",
+      "pinyin": "méi",
+      "pos": "Phó từ",
+      "meaning": "Không, chưa",
+      "exampleZh": "我没看见。",
+      "examplePinyin": "Wǒ méi kànjiàn.",
+      "exampleVi": "Mình không nhìn thấy.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Phó từ.",
+      "collocations": [
+        "没 (Không, chưa)"
+      ],
+      "extraExample": "我没看见。 — Mình không nhìn thấy."
+    },
+    {
+      "id": "v30-08-07",
+      "hanzi": "看见",
+      "pinyin": "kànjiàn",
+      "pos": "Động từ",
+      "meaning": "Nhìn thấy, trông thấy",
+      "exampleZh": "我没看见。",
+      "examplePinyin": "Wǒ méi kànjiàn.",
+      "exampleVi": "Mình không nhìn thấy.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Động từ.",
+      "collocations": [
+        "看见 (Nhìn thấy, trông thấy)"
+      ],
+      "extraExample": "我没看见。 — Mình không nhìn thấy."
+    },
+    {
+      "id": "v30-08-08",
+      "hanzi": "桌子",
+      "pinyin": "zhuōzi",
+      "pos": "Danh từ",
+      "meaning": "Bàn, cái bàn",
+      "exampleZh": "它在桌子下呢。",
+      "examplePinyin": "Tā zài zhuōzi xià ne.",
+      "exampleVi": "Nó ở dưới bàn kia.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "桌子 (Bàn, cái bàn)"
+      ],
+      "extraExample": "它在桌子下呢。 — Nó ở dưới bàn kia."
+    },
+    {
+      "id": "v30-08-09",
+      "hanzi": "下",
+      "pinyin": "xià",
+      "pos": "Danh từ",
+      "meaning": "Dưới, bên dưới",
+      "exampleZh": "桌子下",
+      "examplePinyin": "zhuōzi xià",
+      "exampleVi": "Dưới bàn",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "下 (Dưới, bên dưới)"
+      ],
+      "extraExample": "桌子下 — Dưới bàn"
+    },
+    {
+      "id": "v30-08-10",
+      "hanzi": "漂亮",
+      "pinyin": "piàoliang",
+      "pos": "Tính từ",
+      "meaning": "Đẹp, xinh đẹp",
+      "exampleZh": "这只小猫真漂亮！",
+      "examplePinyin": "Zhè zhī xiǎo māo zhēn piàoliang!",
+      "exampleVi": "Con mèo nhỏ này xinh thật!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Tính từ.",
+      "collocations": [
+        "漂亮 (Đẹp, xinh đẹp)"
+      ],
+      "extraExample": "这只小猫真漂亮！ — Con mèo nhỏ này xinh thật!"
+    },
+    {
+      "id": "v30-08-11",
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "pos": "Danh từ",
+      "meaning": "Trường học",
+      "exampleZh": "我在学校吃午饭。",
+      "examplePinyin": "Wǒ zài xuéxiào chī wǔfàn.",
+      "exampleVi": "Mình ăn trưa ở trường.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "学校 (Trường học)"
+      ],
+      "extraExample": "我在学校吃午饭。 — Mình ăn trưa ở trường."
+    },
+    {
+      "id": "v30-08-12",
+      "hanzi": "书店",
+      "pinyin": "shūdiàn",
+      "pos": "Danh từ",
+      "meaning": "Hiệu sách, nhà sách",
+      "exampleZh": "在学校书店前见吧。",
+      "examplePinyin": "Zài xuéxiào shūdiàn qián jiàn ba.",
+      "exampleVi": "Gặp ở trước hiệu sách trường nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "书店 (Hiệu sách, nhà sách)"
+      ],
+      "extraExample": "在学校书店前见吧。 — Gặp ở trước hiệu sách trường nhé."
+    },
+    {
+      "id": "v30-08-13",
+      "hanzi": "前",
+      "pinyin": "qián",
+      "pos": "Danh từ",
+      "meaning": "Phía trước",
+      "exampleZh": "书店前",
+      "examplePinyin": "shūdiàn qián",
+      "exampleVi": "Trước hiệu sách",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "前 (Phía trước)"
+      ],
+      "extraExample": "书店前 — Trước hiệu sách"
+    },
+    {
+      "id": "v30-08-14",
+      "hanzi": "能",
+      "pinyin": "néng",
+      "pos": "Động từ năng nguyện",
+      "meaning": "Có thể",
+      "exampleZh": "下午两点你能到吗？",
+      "examplePinyin": "Xiàwǔ liǎng diǎn nǐ néng dào ma?",
+      "exampleVi": "2 giờ chiều bạn đến được không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Động từ năng nguyện.",
+      "collocations": [
+        "能 (Có thể)"
+      ],
+      "extraExample": "下午两点你能到吗？ — 2 giờ chiều bạn đến được không?"
+    },
+    {
+      "id": "v30-08-15",
+      "hanzi": "到",
+      "pinyin": "dào",
+      "pos": "Động từ",
+      "meaning": "Đến",
+      "exampleZh": "我能到。",
+      "examplePinyin": "Wǒ néng dào.",
+      "exampleVi": "Mình đến được.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Động từ.",
+      "collocations": [
+        "到 (Đến)"
+      ],
+      "extraExample": "我能到。 — Mình đến được."
+    },
+    {
+      "id": "v30-08-16",
+      "hanzi": "午饭",
+      "pinyin": "wǔfàn",
+      "pos": "Danh từ",
+      "meaning": "Bữa trưa",
+      "exampleZh": "我在学校吃午饭。",
+      "examplePinyin": "Wǒ zài xuéxiào chī wǔfàn.",
+      "exampleVi": "Mình ăn trưa ở trường.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "午饭 (Bữa trưa)"
+      ],
+      "extraExample": "我在学校吃午饭。 — Mình ăn trưa ở trường."
+    },
+    {
+      "id": "v30-08-17",
+      "hanzi": "病人",
+      "pinyin": "bìngrén",
+      "pos": "Danh từ",
+      "meaning": "Bệnh nhân",
+      "exampleZh": "大医院病人多。",
+      "examplePinyin": "Dà yīyuàn bìngrén duō.",
+      "exampleVi": "Bệnh viện lớn bệnh nhân đông.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "病人 (Bệnh nhân)"
+      ],
+      "extraExample": "大医院病人多。 — Bệnh viện lớn bệnh nhân đông."
+    },
+    {
+      "id": "v30-08-18",
+      "hanzi": "医生",
+      "pinyin": "yīshēng",
+      "pos": "Danh từ",
+      "meaning": "Bác sĩ",
+      "exampleZh": "你家有两个医生？",
+      "examplePinyin": "Nǐ jiā yǒu liǎng gè yīshēng?",
+      "exampleVi": "Nhà em có hai bác sĩ cơ à?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "医生 (Bác sĩ)"
+      ],
+      "extraExample": "你家有两个医生？ — Nhà em có hai bác sĩ cơ à?"
+    },
+    {
+      "id": "v30-08-19",
+      "hanzi": "在",
+      "pinyin": "zài",
+      "pos": "Giới từ",
+      "meaning": "Ở, tại (trước động từ)",
+      "exampleZh": "我在学校吃午饭。",
+      "examplePinyin": "Wǒ zài xuéxiào chī wǔfàn.",
+      "exampleVi": "Mình ăn trưa ở trường.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Giới từ.",
+      "collocations": [
+        "在 (Ở, tại (trước động từ))"
+      ],
+      "extraExample": "我在学校吃午饭。 — Mình ăn trưa ở trường."
+    },
+    {
+      "id": "v30-08-20",
+      "hanzi": "饭",
+      "pinyin": "fàn",
+      "pos": "Danh từ",
+      "meaning": "Cơm",
+      "exampleZh": "还没吃饭呢？",
+      "examplePinyin": "Hái méi chī fàn ne?",
+      "exampleVi": "Vẫn chưa ăn cơm à?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ.",
+      "collocations": [
+        "饭 (Cơm)"
+      ],
+      "extraExample": "还没吃饭呢？ — Vẫn chưa ăn cơm à?"
+    },
+    {
+      "id": "v30-08-21",
+      "hanzi": "大",
+      "pinyin": "dà",
+      "pos": "Tính từ",
+      "meaning": "Lớn, to",
+      "exampleZh": "大医院病人多。",
+      "examplePinyin": "Dà yīyuàn bìngrén duō.",
+      "exampleVi": "Bệnh viện lớn bệnh nhân đông.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Tính từ.",
+      "collocations": [
+        "大 (Lớn, to)"
+      ],
+      "extraExample": "大医院病人多。 — Bệnh viện lớn bệnh nhân đông."
+    },
+    {
+      "id": "v30-08-22",
+      "hanzi": "多",
+      "pinyin": "duō",
+      "pos": "Tính từ",
+      "meaning": "Nhiều",
+      "exampleZh": "大医院病人多。",
+      "examplePinyin": "Dà yīyuàn bìngrén duō.",
+      "exampleVi": "Bệnh viện lớn bệnh nhân đông.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Tính từ.",
+      "collocations": [
+        "多 (Nhiều)"
+      ],
+      "extraExample": "大医院病人多。 — Bệnh viện lớn bệnh nhân đông."
+    },
+    {
+      "id": "v30-08-23",
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "pos": "Động từ",
+      "meaning": "Làm việc",
+      "exampleZh": "我爸爸也在医院工作。",
+      "examplePinyin": "Wǒ bàba yě zài yīyuàn gōngzuò.",
+      "exampleVi": "Bố em cũng làm việc ở bệnh viện.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Động từ.",
+      "collocations": [
+        "工作 (Làm việc)"
+      ],
+      "extraExample": "我爸爸也在医院工作。 — Bố em cũng làm việc ở bệnh viện."
+    },
+    {
+      "id": "v30-08-24",
+      "hanzi": "胡医生",
+      "pinyin": "Hú yīshēng",
+      "pos": "Danh từ riêng",
+      "meaning": "Bác sĩ Hồ",
+      "exampleZh": "胡医生的爸爸在医院工作。",
+      "examplePinyin": "Hú yīshēng de bàba zài yīyuàn gōngzuò.",
+      "exampleVi": "Bố của bác sĩ Hồ làm việc ở bệnh viện.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 8. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "胡医生 (Bác sĩ Hồ)"
+      ],
+      "extraExample": "胡医生的爸爸在医院工作。 — Bố của bác sĩ Hồ làm việc ở bệnh viện."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-08-1",
+      "title": "Bài khóa 1: Con mèo dưới bàn",
+      "context": "Bạch Gia Nguyệt và Trần Thiên Trung đến thăm nhà cô Vương Nhất Phi.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "left",
+          "zh": "房间外有一只小猫。",
+          "pinyin": "Fángjiān wài yǒu yì zhī xiǎo māo.",
+          "vi": "Bên ngoài phòng có một con mèo nhỏ."
+        },
+        {
+          "speaker": "Trần Thiên Trung",
+          "side": "right",
+          "zh": "我没看见，它在哪儿呢？",
+          "pinyin": "Wǒ méi kànjiàn, tā zài nǎr ne?",
+          "vi": "Mình không thấy, nó ở đâu thế?"
+        },
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "left",
+          "zh": "它在桌子下呢。",
+          "pinyin": "Tā zài zhuōzi xià ne.",
+          "vi": "Nó ở dưới cái bàn kia."
+        },
+        {
+          "speaker": "Trần Thiên Trung",
+          "side": "right",
+          "zh": "这只小猫真漂亮！",
+          "pinyin": "Zhè zhī xiǎo māo zhēn piàoliang!",
+          "vi": "Con mèo nhỏ này xinh thật!"
+        }
+      ]
+    },
+    {
+      "id": "d30-08-2",
+      "title": "Bài khóa 2: Hẹn gặp trước hiệu sách",
+      "context": "Bạch Gia Nguyệt gọi điện hẹn gặp Lý Văn.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "left",
+          "zh": "我们在哪儿见呢？下午两点你能到吗？",
+          "pinyin": "Wǒmen zài nǎr jiàn ne? Xiàwǔ liǎng diǎn nǐ néng dào ma?",
+          "vi": "Chúng mình gặp ở đâu nhỉ? 2 giờ chiều bạn đến được không?"
+        },
+        {
+          "speaker": "Lý Văn",
+          "side": "right",
+          "zh": "在学校书店前见吧。我能到。我在学校吃午饭。",
+          "pinyin": "Zài xuéxiào shūdiàn qián jiàn ba. Wǒ néng dào. Wǒ zài xuéxiào chī wǔfàn.",
+          "vi": "Trước hiệu sách trường nhé. Mình đến được. Mình ăn trưa ở trường."
+        }
+      ]
+    },
+    {
+      "id": "d30-08-3",
+      "title": "Bài khóa 3: Hai bác sĩ trong nhà",
+      "context": "Lưu Minh trò chuyện với đồng nghiệp bác sĩ Hồ ở bệnh viện.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Lưu Minh",
+          "side": "left",
+          "zh": "小胡，还没吃饭呢？大医院病人多，医生非常忙。",
+          "pinyin": "Xiǎo Hú, hái méi chī fàn ne? Dà yīyuàn bìngrén duō, yīshēng fēicháng máng.",
+          "vi": "Tiểu Hồ, chưa ăn cơm à? Bệnh viện lớn bệnh nhân đông, bác sĩ cực kỳ bận."
+        },
+        {
+          "speaker": "Bác sĩ Hồ",
+          "side": "right",
+          "zh": "是的。我爸爸也在医院工作，他也非常忙。",
+          "pinyin": "Shì de. Wǒ bàba yě zài yīyuàn gōngzuò, tā yě fēicháng máng.",
+          "vi": "Vâng. Bố em cũng làm việc ở bệnh viện, bố cũng rất bận."
+        },
+        {
+          "speaker": "Lưu Minh",
+          "side": "left",
+          "zh": "你家有两个医生？",
+          "pinyin": "Nǐ jiā yǒu liǎng gè yīshēng?",
+          "vi": "Nhà em có hai bác sĩ cơ à?"
+        },
+        {
+          "speaker": "Bác sĩ Hồ",
+          "side": "right",
+          "zh": "对。",
+          "pinyin": "Duì.",
+          "vi": "Vâng."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-08-1",
+      "title": "1. Phương vị từ & Giới từ 在 + Vị trí + Động từ",
+      "formula": "Danh từ + 上/下/里/外/前/后 | Chủ ngữ + 在 + Nơi chốn + Động từ",
+      "usage": "Cụm giới từ 在 + nơi chốn luôn đặt TRƯỚC động từ.",
+      "explanation": "Ví dụ: 我在学校吃午饭。/ 他爸爸在医院工作。",
+      "examples": [
+        {
+          "zh": "我在学校吃午饭。",
+          "pinyin": "Wǒ zài xuéxiào chī wǔfàn.",
+          "vi": "Mình ăn trưa ở trường."
+        },
+        {
+          "zh": "小雪的手机在桌子上呢。",
+          "pinyin": "Xiǎoxuě de shǒujī zài zhuōzi shang ne.",
+          "vi": "Điện thoại của Tiểu Tuyết ở trên bàn kia."
+        }
+      ],
+      "commonMistake": "Dịch xuôi '我吃午饭在学校' (SAI).",
+      "comparison": "Lượng từ kết hợp trực tiếp với 这: 这只小猫."
+    },
+    {
+      "id": "g30-08-2",
+      "title": "2. Động từ năng nguyện 能 (néng)",
+      "formula": "Chủ ngữ + 能 / 不能 + Động từ",
+      "usage": "Biểu thị năng lực, điều kiện hoặc khả năng thực hiện việc gì.",
+      "explanation": "Ví dụ: 下午两点你能到吗？/ 我不能去学校吃午饭。",
+      "examples": [
+        {
+          "zh": "下午两点你能到吗？— 我能到。",
+          "pinyin": "Xiàwǔ liǎng diǎn nǐ néng dào ma? — Wǒ néng dào.",
+          "vi": "2 giờ chiều bạn đến được không? — Mình đến được."
+        }
+      ],
+      "commonMistake": "Dùng nhầm 会 thay 能 khi hỏi có đến kịp hay không.",
+      "comparison": "会 (kỹ năng) ↔ 能 (điều kiện, khả năng)."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "房间外有一只小猫，它在桌子下呢。",
+      "pinyin": "Fángjiān wài yǒu yì zhī xiǎo māo, tā zài zhuōzi xià ne.",
+      "vi": "Ngoài phòng có một con mèo nhỏ, nó ở dưới bàn kia."
+    },
+    {
+      "zh": "我们在学校书店前见吧。",
+      "pinyin": "Wǒmen zài xuéxiào shūdiàn qián jiàn ba.",
+      "vi": "Chúng mình gặp ở trước hiệu sách trường nhé."
+    },
+    {
+      "zh": "下午两点你能到吗？— 我能到。",
+      "pinyin": "Xiàwǔ liǎng diǎn nǐ néng dào ma? — Wǒ néng dào.",
+      "vi": "2 giờ chiều bạn đến được không? — Mình đến được."
+    },
+    {
+      "zh": "我在学校吃午饭。",
+      "pinyin": "Wǒ zài xuéxiào chī wǔfàn.",
+      "vi": "Mình ăn trưa ở trường."
+    },
+    {
+      "zh": "我爸爸也在医院工作。",
+      "pinyin": "Wǒ bàba yě zài yīyuàn gōngzuò.",
+      "vi": "Bố em cũng làm việc ở bệnh viện."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-8-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "fángjiān",
+          "answer": "房间",
+          "meaning": "Căn phòng"
+        },
+        {
+          "pinyin": "wài",
+          "answer": "外",
+          "meaning": "Ngoài, bên ngoài"
+        },
+        {
+          "pinyin": "zhī",
+          "answer": "只",
+          "meaning": "Con (mèo, chó, chim...)"
+        },
+        {
+          "pinyin": "xiǎo",
+          "answer": "小",
+          "meaning": "Nhỏ, bé"
+        },
+        {
+          "pinyin": "māo",
+          "answer": "猫",
+          "meaning": "Mèo"
+        },
+        {
+          "pinyin": "méi",
+          "answer": "没",
+          "meaning": "Không, chưa"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 8.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 8"
+    },
+    {
+      "id": "q30-8-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Trường học"
+        },
+        {
+          "key": "B",
+          "label": "Bàn, cái bàn"
+        },
+        {
+          "key": "C",
+          "label": "Hiệu sách, nhà sách"
+        },
+        {
+          "key": "D",
+          "label": "Nhìn thấy, trông thấy"
+        },
+        {
+          "key": "E",
+          "label": "Dưới, bên dưới"
+        },
+        {
+          "key": "F",
+          "label": "Đẹp, xinh đẹp"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "看见",
+          "pinyin": "kànjiàn",
+          "answerKey": "D"
+        },
+        {
+          "hanzi": "桌子",
+          "pinyin": "zhuōzi",
+          "answerKey": "B"
+        },
+        {
+          "hanzi": "下",
+          "pinyin": "xià",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "漂亮",
+          "pinyin": "piàoliang",
+          "answerKey": "F"
+        },
+        {
+          "hanzi": "学校",
+          "pinyin": "xuéxiào",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "书店",
+          "pinyin": "shūdiàn",
+          "answerKey": "C"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 8.",
+      "relatedKnowledge": "Từ mới Bài 8"
+    },
+    {
+      "id": "q30-8-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.59] 胡医生的爸爸 ___ 医院工作。(哪儿 / 在 / 桌子 / 书店 / 能)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "在"
+      ],
+      "explanation": "Giới từ 「在」 + Địa điểm + Động từ.",
+      "relatedKnowledge": "Giới từ 在",
+      "section": "writing"
+    },
+    {
+      "id": "q30-8-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.60] 我下午两点 ___ 到学校。(哪儿 / 在 / 桌子 / 书店 / 能)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "能"
+      ],
+      "explanation": "Động từ năng nguyện 「能」 biểu thị khả năng đến kịp.",
+      "relatedKnowledge": "Động từ năng nguyện 能",
+      "section": "writing"
+    },
+    {
+      "id": "q30-8-03",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Sổ tay tr.56] 昨天爸爸在医院工作，哥哥在家里休息，没去书店。★ 说话人的哥哥昨天：",
+      "options": [
+        "在家里",
+        "在书店",
+        "在医院工作"
+      ],
+      "answer": "在家里",
+      "explanation": "Câu nêu rõ 「哥哥在家里休息」.",
+      "relatedKnowledge": "Đọc hiểu HSK 3.0",
+      "section": "reading"
+    },
+    {
+      "id": "q30-8-04",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Trong tiếng Trung, gọi 「小 + Họ」 (ví dụ 小胡) là cách xưng hô thân mật với người ít tuổi hơn mình.",
+      "answer": true,
+      "explanation": "Đúng (mục Tiểu Ngữ giúp sức tr.59).",
+      "relatedKnowledge": "Văn hóa xưng hô",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-8-05",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu đúng (Bố em cũng làm việc ở bệnh viện):",
+      "tokens": [
+        "工作",
+        "在医院",
+        "也",
+        "我爸爸"
+      ],
+      "answer": [
+        "我爸爸",
+        "也",
+        "在医院",
+        "工作"
+      ],
+      "acceptedSequences": [
+        [
+          "我爸爸",
+          "也",
+          "在医院",
+          "工作"
+        ]
+      ],
+      "explanation": "我爸爸也在医院工作。",
+      "relatedKnowledge": "Giới từ 在",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-8-06",
+      "type": "matching",
+      "points": 1,
+      "prompt": "[Sổ tay tr.54–55] Nối câu hỏi với câu trả lời đúng:",
+      "pairs": [
+        {
+          "left": "桌子上有什么？",
+          "right": "饺子和面条儿。"
+        },
+        {
+          "left": "她是谁？",
+          "right": "我老师。"
+        },
+        {
+          "left": "你爸爸在哪儿工作？",
+          "right": "医院。"
+        }
+      ],
+      "explanation": "Khớp Phần 2 Đọc hiểu Sổ tay Bài 8.",
+      "relatedKnowledge": "Nối câu HSK 3.0",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-8-07",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「房间」:",
+      "options": [
+        "fángjiān",
+        "fǎngjiān",
+        "fángjiàn",
+        "wángjiān"
+      ],
+      "answer": "fángjiān",
+      "explanation": "房 thanh 2 (fáng) + 间 thanh 1 (jiān).",
+      "relatedKnowledge": "Phát âm Bài 8",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-8-08",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho 「shūdiàn」:",
+      "options": [
+        "书店",
+        "商店",
+        "饭店",
+        "医院"
+      ],
+      "answer": "书店",
+      "explanation": "书店 (shūdiàn) = hiệu sách.",
+      "relatedKnowledge": "Mặt chữ Bài 8",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-8-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết nhà bác sĩ Hồ có mấy bác sĩ:",
+      "audioText": "我爸爸也在医院工作，我家有两个医生。",
+      "options": [
+        "1 bác sĩ",
+        "2 bác sĩ",
+        "3 bác sĩ"
+      ],
+      "answer": "2 bác sĩ",
+      "explanation": "「我家有两个医生」 = 2 bác sĩ.",
+      "relatedKnowledge": "Nghe hiểu Bài 8",
+      "section": "listening"
+    },
+    {
+      "id": "q30-8-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Con mèo nhỏ ở dưới bàn.\"",
+      "sampleAnswer": "小猫在桌子下。",
+      "acceptedAnswers": [
+        "小猫在桌子下",
+        "小猫在桌子下。",
+        "小猫在桌子下呢",
+        "小猫在桌子下呢。",
+        "小猫在桌子下面",
+        "小猫在桌子下面。"
+      ],
+      "requiredKeywords": [
+        "小猫",
+        "在",
+        "桌子",
+        "下"
+      ],
+      "explanation": "小猫在桌子下(呢)。",
+      "relatedKnowledge": "Phương vị từ 下",
+      "section": "writing"
+    },
+    {
+      "id": "q30-8-11",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Lượng từ nào dùng đúng cho 「小猫」 (con mèo nhỏ)?",
+      "options": [
+        "一个",
+        "一只",
+        "一口",
+        "一些"
+      ],
+      "answer": "一只",
+      "explanation": "「只 (zhī)」 là lượng từ chuyên dùng cho các động vật nhỏ như mèo, chó, chim: 「一只小猫」.",
+      "relatedKnowledge": "Từ mới Bài 8 – Lượng từ 只"
+    },
+    {
+      "id": "q30-8-12",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 4 & 7",
+      "prompt": "[Ôn Bài 4, 7, 8] Nhóm danh từ chỉ địa điểm nào sau đây đều có nghĩa đúng?",
+      "options": [
+        "医院 (bệnh viện) – 学校 (trường học) – 书店 (hiệu sách)",
+        "书店 (siêu thị) – 电影院 (bệnh viện) – 房间 (trường học)",
+        "学校 (nhà hàng) – 房间 (cái bàn) – 超市 (hiệu sách)",
+        "桌子 (phòng) – 医院 (nhà) – 书店 (rạp phim)"
+      ],
+      "answer": "医院 (bệnh viện) – 学校 (trường học) – 书店 (hiệu sách)",
+      "explanation": "Hệ thống địa điểm đã học: 「超市/饭店」 (Bài 6), 「电影院/医院」 (Bài 7), 「学校/书店/房间」 (Bài 8).",
+      "relatedKnowledge": "Tổng hợp từ vựng địa điểm Bài 6–8"
+    },
+    {
+      "id": "q30-8-13",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Câu nào đặt ĐÚNG vị trí cụm giới từ chỉ nơi chốn 「在 + Địa điểm」?",
+      "options": [
+        "我爸爸工作在医院。",
+        "我爸爸也在医院工作。",
+        "在医院也我爸爸工作。",
+        "我爸爸也在工作医院。"
+      ],
+      "answer": "我爸爸也在医院工作。",
+      "explanation": "Trong tiếng Trung, trạng ngữ nơi chốn 「在 + Địa điểm」 PHẢI đứng TRƯỚC động từ (khác tiếng Việt): 「在医院工作」.",
+      "relatedKnowledge": "Giới từ 在 + Địa điểm + Động từ"
+    },
+    {
+      "id": "q30-8-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 5–6",
+      "prompt": "[Ôn Bài 5, 6, 8] Chọn động từ năng nguyện phù hợp ngữ cảnh: 'Chiều 2 giờ bạn có thể (đủ điều kiện/kịp) đến không?' — 下午两点你___到吗？",
+      "options": [
+        "能",
+        "想",
+        "叫",
+        "在"
+      ],
+      "answer": "能",
+      "explanation": "「能 (néng)」 (Bài 8) chỉ khả năng/điều kiện khách quan ('có thể đến kịp không'); 「会」 (Bài 5) chỉ kỹ năng qua học tập; 「想」 (Bài 6) chỉ mong muốn.",
+      "relatedKnowledge": "Phân biệt 会 (B5) – 想 (B6) – 能 (B8)"
+    },
+    {
+      "id": "q30-8-15",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "刘明：小胡，还没吃饭呢？大医院病人多，医生非常忙。\n胡医生：是的。我爸爸也在医院工作，他也非常忙。\n刘明：你家有两个医生？\n胡医生：对。",
+      "passagePinyin": "Liú Míng: Xiǎo Hú, hái méi chīfàn ne? Dà yīyuàn bìngrén duō, yīshēng fēicháng máng. Hú yīshēng: Shì de. Wǒ bàba yě zài yīyuàn gōngzuò, tā yě fēicháng máng. Liú Míng: Nǐ jiā yǒu liǎng gè yīshēng? Hú yīshēng: Duì.",
+      "prompt": "Vì sao bác sĩ Hồ và bố anh ấy đều rất bận?",
+      "options": [
+        "Vì họ có hai con mèo nhỏ",
+        "Vì bệnh viện lớn có rất nhiều bệnh nhân",
+        "Vì họ phải đi học buổi chiều",
+        "Vì họ ở rất xa hiệu sách"
+      ],
+      "answer": "Vì bệnh viện lớn có rất nhiều bệnh nhân",
+      "explanation": "Lưu Minh nói 「大医院病人多，医生非常忙。」 và bác sĩ Hồ xác nhận 「是的。」.",
+      "relatedKnowledge": "Bài khóa 3 – Hai bác sĩ trong nhà"
+    },
+    {
+      "id": "q30-8-16",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Trong Bài khóa 1, Trần Thiên Trung lúc đầu chưa nhìn thấy con mèo nhỏ vì nó đang ở dưới gầm bàn (「桌子下」).",
+      "answer": true,
+      "explanation": "Đúng! Bạch Gia Nguyệt nói 「它在桌子下呢。」 và Trần Thiên Trung khen 「这只小猫真漂亮！」.",
+      "relatedKnowledge": "Bài khóa 1 – Phương vị từ 下"
+    },
+    {
+      "id": "q30-8-17",
+      "section": "writing",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 2 chữ Hán: 我没___，小猫在哪儿呢？(Tôi không nhìn thấy, con mèo nhỏ ở đâu vậy?)",
+      "placeholder": "Nhập 2 chữ Hán...",
+      "acceptedAnswers": [
+        "看见"
+      ],
+      "explanation": "「看见 (kànjiàn)」 là nhìn thấy; phủ định dùng 「没看见」.",
+      "relatedKnowledge": "Động từ kết quả 看见"
+    },
+    {
+      "id": "q30-8-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "reviewTag": "Ôn Bài 7",
+      "prompt": "[Ôn Bài 7 + 8] Sắp xếp thành câu hẹn gặp trước hiệu sách:",
+      "tokens": [
+        "见吧",
+        "书店前",
+        "我们",
+        "学校",
+        "在"
+      ],
+      "answer": [
+        "我们",
+        "在",
+        "学校",
+        "书店前",
+        "见吧"
+      ],
+      "acceptedSequences": [
+        [
+          "我们",
+          "在",
+          "学校",
+          "书店前",
+          "见吧"
+        ]
+      ],
+      "explanation": "Kết hợp trạng ngữ nơi chốn 「在学校书店前」 (Bài 8) với 「见吧」 (Bài 7).",
+      "relatedKnowledge": "Ôn Bài 7 (见吧) + Bài 8 (在...前)"
+    },
+    {
+      "id": "q30-8-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "房间外有一只小猫，它在桌子下呢，非常漂亮！",
+      "prompt": "Nghe câu trên và chọn vị trí của con mèo nhỏ:",
+      "options": [
+        "Trên bàn trong phòng",
+        "Ở ngoài phòng, phía dưới cái bàn",
+        "Trước hiệu sách trường học",
+        "Ở bệnh viện"
+      ],
+      "answer": "Ở ngoài phòng, phía dưới cái bàn",
+      "explanation": "Lời nghe: 「房间外有一只小猫，它在桌子下呢」.",
+      "relatedKnowledge": "Nghe hiểu Bài 8"
+    },
+    {
+      "id": "q30-8-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 7",
+      "audioText": "A：下午两点你能到学校书店前吗？ B：我能到。我中午在学校吃午饭。",
+      "prompt": "[Ôn Bài 7 + 8] Nghe hội thoại và chọn thông tin ĐÚNG về người B:",
+      "options": [
+        "B không thể đến lúc 2 giờ chiều",
+        "B có thể đến trước hiệu sách trường lúc 2 giờ chiều và ăn trưa ở trường",
+        "B ăn tối ở nhà hàng Tây An",
+        "B làm bác sĩ ở bệnh viện"
+      ],
+      "answer": "B có thể đến trước hiệu sách trường lúc 2 giờ chiều và ăn trưa ở trường",
+      "explanation": "B nói 「我能到。我中午在学校吃午饭。」 — kết hợp giờ giấc Bài 7 và nơi chốn Bài 8.",
+      "relatedKnowledge": "Nghe tổng hợp Bài 7–8"
+    },
+    {
+      "id": "q30-8-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Ngoài phòng có một con mèo nhỏ.",
+          "sampleAnswer": "房间外有一只小猫。",
+          "pinyin": "Fángjiān wài yǒu yì zhī xiǎomāo.",
+          "acceptedAnswers": [
+            "房间外有一只小猫"
+          ],
+          "requiredKeywords": [
+            "房间外",
+            "有",
+            "小猫"
+          ]
+        },
+        {
+          "vi": "Tôi không nhìn thấy, nó đang ở dưới bàn à?",
+          "sampleAnswer": "我没看见，它在桌子下吗？",
+          "pinyin": "Wǒ méi kànjiàn, tā zài zhuōzi xià ma?",
+          "acceptedAnswers": [
+            "我没看见它在桌子下吗"
+          ],
+          "requiredKeywords": [
+            "没看见",
+            "桌子下"
+          ]
+        },
+        {
+          "vi": "Bố tôi cũng làm việc ở bệnh viện.",
+          "sampleAnswer": "我爸爸也在医院工作。",
+          "pinyin": "Wǒ bàba yě zài yīyuàn gōngzuò.",
+          "acceptedAnswers": [
+            "我爸爸也在医院工作"
+          ],
+          "requiredKeywords": [
+            "爸爸",
+            "也",
+            "医院",
+            "工作"
+          ]
+        },
+        {
+          "vi": "Chúng ta gặp nhau trước hiệu sách trường nhé.",
+          "sampleAnswer": "我们在学校书店前见吧。",
+          "pinyin": "Wǒmen zài xuéxiào shūdiàn qián jiàn ba.",
+          "acceptedAnswers": [
+            "我们在学校书店前见吧"
+          ],
+          "requiredKeywords": [
+            "学校",
+            "书店",
+            "前",
+            "见"
+          ]
+        },
+        {
+          "vi": "[Ôn Bài 7] Chiều 2 giờ bạn có thể đến không? Tôi ăn trưa ở trường.",
+          "sampleAnswer": "下午两点你能到吗？我在学校吃午饭。",
+          "pinyin": "Xiàwǔ liǎng diǎn nǐ néng dào ma? Wǒ zài xuéxiào chī wǔfàn.",
+          "acceptedAnswers": [
+            "下午两点你能到吗我在学校吃午饭"
+          ],
+          "requiredKeywords": [
+            "能",
+            "到",
+            "学校",
+            "午饭"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 8 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 8"
+    }
+  ]
+}

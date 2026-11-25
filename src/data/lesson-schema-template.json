@@ -1,0 +1,88 @@
+{
+  "id": "hsk1-04",
+  "courseId": "hsk1",
+  "order": 4,
+  "group": "Bài 01–05",
+  "zhTitle": "你是哪国人？",
+  "pinyinTitle": "Nǐ shì nǎ guó rén?",
+  "viTitle": "Bạn là người nước nào?",
+  "image": "images/hsk1-lesson01.jpg",
+  "estimatedMinutes": 25,
+  "summary": "Mô tả ngắn nội dung bài học mới.",
+  "vocabulary": [
+    {
+      "id": "v4-01",
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "meaning": "Nào",
+      "pos": "Đại từ nghi vấn",
+      "exampleZh": "你是哪国人？",
+      "examplePinyin": "Nǐ shì nǎ guó rén?",
+      "exampleVi": "Bạn là người nước nào?",
+      "explanation": "Giải thích cách dùng từ.",
+      "collocations": [
+        "哪国 (nước nào)",
+        "哪个 (cái nào)"
+      ],
+      "extraExample": "你去哪儿？— Bạn đi đâu?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d4-1",
+      "title": "Hội thoại mẫu",
+      "context": "Ngữ cảnh hội thoại",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "A",
+          "side": "left",
+          "zh": "你好！",
+          "pinyin": "Nǐ hǎo!",
+          "vi": "Xin chào!"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g4-1",
+      "title": "Tên cấu trúc ngữ pháp",
+      "formula": "Công thức ngữ pháp",
+      "usage": "Cách sử dụng",
+      "explanation": "Giải thích chi tiết bằng tiếng Việt",
+      "examples": [
+        {
+          "zh": "Ví dụ tiếng Trung",
+          "pinyin": "Pinyin",
+          "vi": "Nghĩa tiếng Việt"
+        }
+      ],
+      "commonMistake": "Lỗi thường gặp của người Việt",
+      "comparison": "So sánh cấu trúc dễ nhầm"
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "Mẫu câu tiếng Trung",
+      "pinyin": "Pinyin",
+      "vi": "Nghĩa tiếng Việt"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q4-01",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Câu hỏi trắc nghiệm mẫu",
+      "options": [
+        "Đáp án A",
+        "Đáp án B",
+        "Đáp án C"
+      ],
+      "answer": "Đáp án A",
+      "explanation": "Lời giải chi tiết",
+      "relatedKnowledge": "Kiến thức liên quan"
+    }
+  ]
+}

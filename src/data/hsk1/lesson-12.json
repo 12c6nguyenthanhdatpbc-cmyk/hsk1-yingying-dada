@@ -1,0 +1,1051 @@
+{
+  "id": "hsk1-12",
+  "courseId": "hsk1",
+  "order": 12,
+  "group": "Bài 11–15",
+  "zhTitle": "昨天下雪了",
+  "pinyinTitle": "Zuótiān xià xuě le",
+  "viTitle": "Hôm qua tuyết rơi rồi",
+  "image": "images/hsk1-lesson12.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 12 Giáo trình New HSK 1 (HSK 3.0): Thời tiết & khám bệnh (下雨, 下雪, 生病, 看病, 喝热水), câu phi chủ vị, trợ từ ngữ khí 了 (1) và 太……了！.",
+  "vocabulary": [
+    {
+      "id": "v30-12-01",
+      "hanzi": "天气",
+      "pinyin": "tiānqì",
+      "pos": "Danh từ",
+      "meaning": "Thời tiết",
+      "exampleZh": "今天天气怎么样？",
+      "examplePinyin": "Jīntiān tiānqì zěnmeyàng?",
+      "exampleVi": "Hôm nay thời tiết thế nào?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Danh từ.",
+      "collocations": [
+        "天气 (Thời tiết)"
+      ],
+      "extraExample": "今天天气怎么样？ — Hôm nay thời tiết thế nào?"
+    },
+    {
+      "id": "v30-12-02",
+      "hanzi": "这里",
+      "pinyin": "zhèlǐ",
+      "pos": "Đại từ",
+      "meaning": "Ở đây, chỗ này",
+      "exampleZh": "这里的天不太好。",
+      "examplePinyin": "Zhèlǐ de tiān bú tài hǎo.",
+      "exampleVi": "Thời tiết ở đây không ổn lắm.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Đại từ.",
+      "collocations": [
+        "这里 (Ở đây, chỗ này)"
+      ],
+      "extraExample": "这里的天不太好。 — Thời tiết ở đây không ổn lắm."
+    },
+    {
+      "id": "v30-12-03",
+      "hanzi": "下雨",
+      "pinyin": "xià yǔ",
+      "pos": "Cụm động từ",
+      "meaning": "Mưa, mưa rơi",
+      "exampleZh": "下雨了。",
+      "examplePinyin": "Xià yǔ le.",
+      "exampleVi": "Mưa rồi ạ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Cụm động từ.",
+      "collocations": [
+        "下雨 (Mưa, mưa rơi)"
+      ],
+      "extraExample": "下雨了。 — Mưa rồi ạ."
+    },
+    {
+      "id": "v30-12-04",
+      "hanzi": "了",
+      "pinyin": "le",
+      "pos": "Trợ từ",
+      "meaning": "Rồi (chỉ sự thay đổi trạng thái)",
+      "exampleZh": "昨天下雪了。",
+      "examplePinyin": "Zuótiān xià xuě le.",
+      "exampleVi": "Hôm qua tuyết rơi rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Trợ từ.",
+      "collocations": [
+        "了 (Rồi (chỉ sự thay đổi trạng thái))"
+      ],
+      "extraExample": "昨天下雪了。 — Hôm qua tuyết rơi rồi."
+    },
+    {
+      "id": "v30-12-05",
+      "hanzi": "有点儿",
+      "pinyin": "yǒudiǎnr",
+      "pos": "Phó từ",
+      "meaning": "Hơi, hơi... một chút",
+      "exampleZh": "有点儿大。",
+      "examplePinyin": "Yǒudiǎnr dà.",
+      "exampleVi": "Hơi to ạ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Phó từ.",
+      "collocations": [
+        "有点儿 (Hơi, hơi... một chút)"
+      ],
+      "extraExample": "有点儿大。 — Hơi to ạ."
+    },
+    {
+      "id": "v30-12-06",
+      "hanzi": "觉得",
+      "pinyin": "juéde",
+      "pos": "Động từ",
+      "meaning": "Cảm thấy",
+      "exampleZh": "我觉得很冷。",
+      "examplePinyin": "Wǒ juéde hěn lěng.",
+      "exampleVi": "Em cảm thấy rất lạnh.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Động từ.",
+      "collocations": [
+        "觉得 (Cảm thấy)"
+      ],
+      "extraExample": "我觉得很冷。 — Em cảm thấy rất lạnh."
+    },
+    {
+      "id": "v30-12-07",
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "pos": "Tính từ",
+      "meaning": "Lạnh",
+      "exampleZh": "是的，太冷了。",
+      "examplePinyin": "Shì de, tài lěng le.",
+      "exampleVi": "Đúng vậy, trời lạnh quá.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Tính từ.",
+      "collocations": [
+        "冷 (Lạnh)"
+      ],
+      "extraExample": "是的，太冷了。 — Đúng vậy, trời lạnh quá."
+    },
+    {
+      "id": "v30-12-08",
+      "hanzi": "雪",
+      "pinyin": "xuě",
+      "pos": "Danh từ",
+      "meaning": "Tuyết",
+      "exampleZh": "昨天下雪了。",
+      "examplePinyin": "Zuótiān xià xuě le.",
+      "exampleVi": "Hôm qua tuyết rơi rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Danh từ.",
+      "collocations": [
+        "雪 (Tuyết)"
+      ],
+      "extraExample": "昨天下雪了。 — Hôm qua tuyết rơi rồi."
+    },
+    {
+      "id": "v30-12-09",
+      "hanzi": "来",
+      "pinyin": "lái",
+      "pos": "Động từ",
+      "meaning": "Đến",
+      "exampleZh": "你昨天没来公司。",
+      "examplePinyin": "Nǐ zuótiān méi lái gōngsī.",
+      "exampleVi": "Hôm qua em không đến công ty.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Động từ.",
+      "collocations": [
+        "来 (Đến)"
+      ],
+      "extraExample": "你昨天没来公司。 — Hôm qua em không đến công ty."
+    },
+    {
+      "id": "v30-12-10",
+      "hanzi": "公司",
+      "pinyin": "gōngsī",
+      "pos": "Danh từ",
+      "meaning": "Công ty",
+      "exampleZh": "去公司工作",
+      "examplePinyin": "qù gōngsī gōngzuò",
+      "exampleVi": "Đến công ty làm việc",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Danh từ.",
+      "collocations": [
+        "公司 (Công ty)"
+      ],
+      "extraExample": "去公司工作 — Đến công ty làm việc"
+    },
+    {
+      "id": "v30-12-11",
+      "hanzi": "生病",
+      "pinyin": "shēngbìng",
+      "pos": "Động từ",
+      "meaning": "Ốm, bị ốm",
+      "exampleZh": "生病了？",
+      "examplePinyin": "Shēngbìng le?",
+      "exampleVi": "Bị ốm à?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Động từ.",
+      "collocations": [
+        "生病 (Ốm, bị ốm)"
+      ],
+      "extraExample": "生病了？ — Bị ốm à?"
+    },
+    {
+      "id": "v30-12-12",
+      "hanzi": "看病",
+      "pinyin": "kànbìng",
+      "pos": "Động từ",
+      "meaning": "Khám bệnh",
+      "exampleZh": "我昨天去医院看病了。",
+      "examplePinyin": "Wǒ zuótiān qù yīyuàn kànbìng le.",
+      "exampleVi": "Hôm qua em đi bệnh viện khám bệnh.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Động từ.",
+      "collocations": [
+        "看病 (Khám bệnh)"
+      ],
+      "extraExample": "我昨天去医院看病了。 — Hôm qua em đi bệnh viện khám bệnh."
+    },
+    {
+      "id": "v30-12-13",
+      "hanzi": "病",
+      "pinyin": "bìng",
+      "pos": "Động từ",
+      "meaning": "Ốm, bị bệnh",
+      "exampleZh": "医生，我病了。",
+      "examplePinyin": "Yīshēng, wǒ bìng le.",
+      "exampleVi": "Thưa bác sĩ, tôi bị ốm rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Động từ.",
+      "collocations": [
+        "病 (Ốm, bị bệnh)"
+      ],
+      "extraExample": "医生，我病了。 — Thưa bác sĩ, tôi bị ốm rồi."
+    },
+    {
+      "id": "v30-12-14",
+      "hanzi": "一点儿",
+      "pinyin": "yìdiǎnr",
+      "pos": "Số lượng từ",
+      "meaning": "Một chút, một ít",
+      "exampleZh": "吃一点儿药。",
+      "examplePinyin": "Chī yìdiǎnr yào.",
+      "exampleVi": "Uống một ít thuốc.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Số lượng từ.",
+      "collocations": [
+        "一点儿 (Một chút, một ít)"
+      ],
+      "extraExample": "吃一点儿药。 — Uống một ít thuốc."
+    },
+    {
+      "id": "v30-12-15",
+      "hanzi": "药",
+      "pinyin": "yào",
+      "pos": "Danh từ",
+      "meaning": "Thuốc",
+      "exampleZh": "吃药",
+      "examplePinyin": "chī yào",
+      "exampleVi": "Uống thuốc",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Danh từ.",
+      "collocations": [
+        "药 (Thuốc)"
+      ],
+      "extraExample": "吃药 — Uống thuốc"
+    },
+    {
+      "id": "v30-12-16",
+      "hanzi": "回",
+      "pinyin": "huí",
+      "pos": "Động từ",
+      "meaning": "Về, quay về",
+      "exampleZh": "回家后再喝些热水。",
+      "examplePinyin": "Huí jiā hòu zài hē xiē rè shuǐ.",
+      "exampleVi": "Về nhà rồi uống thêm ít nước ấm nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Động từ.",
+      "collocations": [
+        "回 (Về, quay về)"
+      ],
+      "extraExample": "回家后再喝些热水。 — Về nhà rồi uống thêm ít nước ấm nhé."
+    },
+    {
+      "id": "v30-12-17",
+      "hanzi": "再",
+      "pinyin": "zài",
+      "pos": "Phó từ",
+      "meaning": "Sau đó, mới (chỉ trình tự)",
+      "exampleZh": "回家后再喝些热水。",
+      "examplePinyin": "Huí jiā hòu zài hē xiē rè shuǐ.",
+      "exampleVi": "Về nhà rồi uống thêm nước ấm.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Phó từ.",
+      "collocations": [
+        "再 (Sau đó, mới (chỉ trình tự))"
+      ],
+      "extraExample": "回家后再喝些热水。 — Về nhà rồi uống thêm nước ấm."
+    },
+    {
+      "id": "v30-12-18",
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "pos": "Động từ",
+      "meaning": "Uống",
+      "exampleZh": "多喝热水",
+      "examplePinyin": "duō hē rè shuǐ",
+      "exampleVi": "Uống nhiều nước ấm",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Động từ.",
+      "collocations": [
+        "喝 (Uống)"
+      ],
+      "extraExample": "多喝热水 — Uống nhiều nước ấm"
+    },
+    {
+      "id": "v30-12-19",
+      "hanzi": "热",
+      "pinyin": "rè",
+      "pos": "Tính từ",
+      "meaning": "Nóng, ấm",
+      "exampleZh": "热水",
+      "examplePinyin": "rè shuǐ",
+      "exampleVi": "Nước nóng / nước ấm",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Tính từ.",
+      "collocations": [
+        "热 (Nóng, ấm)"
+      ],
+      "extraExample": "热水 — Nước nóng / nước ấm"
+    },
+    {
+      "id": "v30-12-20",
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "pos": "Danh từ",
+      "meaning": "Nước",
+      "exampleZh": "喝水",
+      "examplePinyin": "hē shuǐ",
+      "exampleVi": "Uống nước",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Danh từ.",
+      "collocations": [
+        "水 (Nước)"
+      ],
+      "extraExample": "喝水 — Uống nước"
+    },
+    {
+      "id": "v30-12-21",
+      "hanzi": "天",
+      "pinyin": "tiān",
+      "pos": "Danh từ",
+      "meaning": "Thời tiết, trời",
+      "exampleZh": "这里的天不太好。",
+      "examplePinyin": "Zhèlǐ de tiān bú tài hǎo.",
+      "exampleVi": "Thời tiết ở đây không ổn lắm.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Danh từ.",
+      "collocations": [
+        "天 (Thời tiết, trời)"
+      ],
+      "extraExample": "这里的天不太好。 — Thời tiết ở đây không ổn lắm."
+    },
+    {
+      "id": "v30-12-22",
+      "hanzi": "雨",
+      "pinyin": "yǔ",
+      "pos": "Danh từ",
+      "meaning": "Mưa",
+      "exampleZh": "雨大吗？",
+      "examplePinyin": "Yǔ dà ma?",
+      "exampleVi": "Mưa to không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Danh từ.",
+      "collocations": [
+        "雨 (Mưa)"
+      ],
+      "extraExample": "雨大吗？ — Mưa to không?"
+    },
+    {
+      "id": "v30-12-23",
+      "hanzi": "下",
+      "pinyin": "xià",
+      "pos": "Động từ",
+      "meaning": "(Mưa, tuyết...) rơi",
+      "exampleZh": "昨天下雪了。",
+      "examplePinyin": "Zuótiān xià xuě le.",
+      "exampleVi": "Hôm qua tuyết rơi rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Động từ.",
+      "collocations": [
+        "下 ((Mưa, tuyết...) rơi)"
+      ],
+      "extraExample": "昨天下雪了。 — Hôm qua tuyết rơi rồi."
+    },
+    {
+      "id": "v30-12-24",
+      "hanzi": "天",
+      "pinyin": "tiān",
+      "pos": "Lượng từ",
+      "meaning": "Ngày (đếm số ngày)",
+      "exampleZh": "今天休息半天吧。",
+      "examplePinyin": "Jīntiān xiūxi bàn tiān ba.",
+      "exampleVi": "Hôm nay nghỉ nửa ngày nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 12. Từ loại: Lượng từ.",
+      "collocations": [
+        "天 (Ngày (đếm số ngày))"
+      ],
+      "extraExample": "今天休息半天吧。 — Hôm nay nghỉ nửa ngày nhé."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-12-1",
+      "title": "Bài khóa 1: Hỏi thăm thời tiết",
+      "context": "Vương Nhất Tuyết gọi điện hỏi thăm thời tiết chỗ Vương Nhất Phi.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "今天天气怎么样？雨大吗？",
+          "pinyin": "Jīntiān tiānqì zěnmeyàng? Yǔ dà ma?",
+          "vi": "Hôm nay thời tiết thế nào? Mưa to không?"
+        },
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "right",
+          "zh": "这里的天不太好，下雨了。有点儿大，我觉得很冷。",
+          "pinyin": "Zhèlǐ de tiān bú tài hǎo, xià yǔ le. Yǒudiǎnr dà, wǒ juéde hěn lěng.",
+          "vi": "Trời ở đây không ổn lắm, mưa rồi. Hơi to, em cảm thấy rất lạnh."
+        }
+      ]
+    },
+    {
+      "id": "d30-12-2",
+      "title": "Bài khóa 2: Tuyết rơi và bị ốm",
+      "context": "Vương Nhất Tuyết gặp Dương Đồng Lạc trong thang máy công ty.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "昨天下雪了。你昨天没来公司，生病了？",
+          "pinyin": "Zuótiān xià xuě le. Nǐ zuótiān méi lái gōngsī, shēngbìng le?",
+          "vi": "Hôm qua tuyết rơi rồi. Em không đến công ty, bị ốm à?"
+        },
+        {
+          "speaker": "Dương Đồng Lạc",
+          "side": "right",
+          "zh": "是的，太冷了。对，我昨天去医院看病了。",
+          "pinyin": "Shì de, tài lěng le. Duì, wǒ zuótiān qù yīyuàn kànbìng le.",
+          "vi": "Vâng, lạnh quá. Hôm qua em đi bệnh viện khám bệnh."
+        }
+      ]
+    },
+    {
+      "id": "d30-12-3",
+      "title": "Bài khóa 3: Đi khám bác sĩ",
+      "context": "Bác sĩ Hồ khám bệnh cho Dương Đồng Lạc tại bệnh viện.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Dương Đồng Lạc",
+          "side": "left",
+          "zh": "医生，我病了。我很冷。",
+          "pinyin": "Yīshēng, wǒ bìng le. Wǒ hěn lěng.",
+          "vi": "Thưa bác sĩ, tôi bị ốm rồi. Tôi rất lạnh."
+        },
+        {
+          "speaker": "Bác sĩ Hồ",
+          "side": "right",
+          "zh": "我看看。好的，吃一点儿药，今天休息半天吧。回家后再喝些热水。",
+          "pinyin": "Wǒ kànkan. Hǎo de, chī yìdiǎnr yào, jīntiān xiūxi bàn tiān ba. Huí jiā hòu zài hē xiē rè shuǐ.",
+          "vi": "Để tôi khám xem. Uống ít thuốc, hôm nay nghỉ nửa ngày nhé. Về nhà nhớ uống thêm nước ấm."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-12-1",
+      "title": "1. Câu phi chủ vị & Trợ từ ngữ khí 了 (1)",
+      "formula": "下雨了。/ 下雪了。/ 上课了。 | Phủ định dùng 没 và bỏ 了",
+      "usage": "Câu phi chủ vị không phân chia chủ ngữ – vị ngữ, rất thông dụng trong khẩu ngữ. 了 (1) đứng cuối câu báo hiệu tình huống mới xuất hiện.",
+      "explanation": "Ví dụ: 十二点了，吃午饭吧。/ A: 弟弟起床了吗？ B: 没起床呢。",
+      "examples": [
+        {
+          "zh": "下雨了。/ 下雪了。",
+          "pinyin": "Xià yǔ le. / Xià xuě le.",
+          "vi": "Trời mưa rồi. / Tuyết rơi rồi."
+        }
+      ],
+      "commonMistake": "Phủ định vẫn giữ 了 (SAI: 没起床了).",
+      "comparison": "Lặp động từ 「看看」 biểu thị hành động diễn ra ngắn, nhẹ nhàng."
+    },
+    {
+      "id": "g30-12-2",
+      "title": "2. Cấu trúc cảm thán 太……了！",
+      "formula": "太 + Tính từ + 了！",
+      "usage": "Dùng để cảm thán mức độ rất cao.",
+      "explanation": "Ví dụ: 太冷了！/ 这个杯子太小了。/ 我们今天太高兴了！",
+      "examples": [
+        {
+          "zh": "太冷了！",
+          "pinyin": "Tài lěng le!",
+          "vi": "Lạnh quá!"
+        },
+        {
+          "zh": "我们今天太高兴了！",
+          "pinyin": "Wǒmen jīntiān tài gāoxìng le!",
+          "vi": "Hôm nay chúng ta vui quá!"
+        }
+      ],
+      "commonMistake": "Quên chữ 了 cuối câu cảm thán khẳng định.",
+      "comparison": "Văn hóa Trung Quốc: Hay khuyên uống nước ấm (喝热水) khi bị ốm."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "今天天气怎么样？— 下雨了，我觉得很冷。",
+      "pinyin": "Jīntiān tiānqì zěnmeyàng? — Xià yǔ le, wǒ juéde hěn lěng.",
+      "vi": "Hôm nay thời tiết thế nào? — Mưa rồi, mình thấy rất lạnh."
+    },
+    {
+      "zh": "昨天下雪了，太冷了！",
+      "pinyin": "Zuótiān xià xuě le, tài lěng le!",
+      "vi": "Hôm qua tuyết rơi rồi, lạnh quá!"
+    },
+    {
+      "zh": "我昨天去医院看病了。",
+      "pinyin": "Wǒ zuótiān qù yīyuàn kànbìng le.",
+      "vi": "Hôm qua em đi bệnh viện khám bệnh."
+    },
+    {
+      "zh": "吃一点儿药，今天休息半天吧。",
+      "pinyin": "Chī yìdiǎnr yào, jīntiān xiūxi bàn tiān ba.",
+      "vi": "Uống một ít thuốc, hôm nay nghỉ nửa ngày nhé."
+    },
+    {
+      "zh": "回家后再喝些热水。",
+      "pinyin": "Huí jiā hòu zài hē xiē rè shuǐ.",
+      "vi": "Sau khi về nhà nhớ uống thêm nước ấm nhé."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-12-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "tiānqì",
+          "answer": "天气",
+          "meaning": "Thời tiết"
+        },
+        {
+          "pinyin": "zhèlǐ",
+          "answer": "这里",
+          "meaning": "Ở đây, chỗ này"
+        },
+        {
+          "pinyin": "xià yǔ",
+          "answer": "下雨",
+          "meaning": "Mưa, mưa rơi"
+        },
+        {
+          "pinyin": "le",
+          "answer": "了",
+          "meaning": "Rồi (chỉ sự thay đổi trạng thái)"
+        },
+        {
+          "pinyin": "yǒudiǎnr",
+          "answer": "有点儿",
+          "meaning": "Hơi, hơi... một chút"
+        },
+        {
+          "pinyin": "juéde",
+          "answer": "觉得",
+          "meaning": "Cảm thấy"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 12.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 12"
+    },
+    {
+      "id": "q30-12-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Lạnh"
+        },
+        {
+          "key": "B",
+          "label": "Ốm, bị ốm"
+        },
+        {
+          "key": "C",
+          "label": "Đến"
+        },
+        {
+          "key": "D",
+          "label": "Công ty"
+        },
+        {
+          "key": "E",
+          "label": "Tuyết"
+        },
+        {
+          "key": "F",
+          "label": "Khám bệnh"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "冷",
+          "pinyin": "lěng",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "雪",
+          "pinyin": "xuě",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "来",
+          "pinyin": "lái",
+          "answerKey": "C"
+        },
+        {
+          "hanzi": "公司",
+          "pinyin": "gōngsī",
+          "answerKey": "D"
+        },
+        {
+          "hanzi": "生病",
+          "pinyin": "shēngbìng",
+          "answerKey": "B"
+        },
+        {
+          "hanzi": "看病",
+          "pinyin": "kànbìng",
+          "answerKey": "F"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 12.",
+      "relatedKnowledge": "Từ mới Bài 12"
+    },
+    {
+      "id": "q30-12-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.92] 外边正在下 ___ ，太冷了！(怎么样 / 雪 / 了 / 看 / 太)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "雪"
+      ],
+      "explanation": "下雪 = tuyết rơi.",
+      "relatedKnowledge": "Từ mới Bài 12",
+      "section": "writing"
+    },
+    {
+      "id": "q30-12-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.92] 王一雪：你昨天去医院 ___ 病了吗？",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "看"
+      ],
+      "explanation": "看病 = khám bệnh.",
+      "relatedKnowledge": "Bài khóa 2",
+      "section": "writing"
+    },
+    {
+      "id": "q30-12-03",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Sổ tay tr.92] 老张去看病，医生说他要吃三天药。★ 医生说老张：",
+      "options": [
+        "要吃药",
+        "要多睡觉",
+        "要多喝水"
+      ],
+      "answer": "要吃药",
+      "explanation": "Câu nêu rõ 「他要吃三天药」.",
+      "relatedKnowledge": "Đọc hiểu HSK 3.0",
+      "section": "reading"
+    },
+    {
+      "id": "q30-12-04",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Trong tiếng Trung, 「uống thuốc」 nói là 「吃药」 (không nói 喝药).",
+      "answer": true,
+      "explanation": "Đúng (Bài khóa 3 tr.91: 吃一点儿药).",
+      "relatedKnowledge": "Kết hợp từ 吃药",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-12-05",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu đúng (Hôm qua tôi đã đi bệnh viện khám bệnh):",
+      "tokens": [
+        "看病了",
+        "去医院",
+        "昨天",
+        "我"
+      ],
+      "answer": [
+        "我",
+        "昨天",
+        "去医院",
+        "看病了"
+      ],
+      "acceptedSequences": [
+        [
+          "我",
+          "昨天",
+          "去医院",
+          "看病了"
+        ],
+        [
+          "昨天",
+          "我",
+          "去医院",
+          "看病了"
+        ]
+      ],
+      "explanation": "我昨天去医院看病了。",
+      "relatedKnowledge": "Bài khóa 2",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-12-06",
+      "type": "matching",
+      "points": 1,
+      "prompt": "[Sổ tay tr.90–91] Nối câu hỏi với câu trả lời đúng:",
+      "pairs": [
+        {
+          "left": "你怎么了？",
+          "right": "我病了。"
+        },
+        {
+          "left": "你想喝点儿什么？",
+          "right": "热水。"
+        },
+        {
+          "left": "你开车了？",
+          "right": "对。"
+        }
+      ],
+      "explanation": "Khớp Phần 2 Đọc hiểu Sổ tay Bài 12.",
+      "relatedKnowledge": "Nối câu HSK 3.0",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-12-07",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「生病」:",
+      "options": [
+        "shēngbìng",
+        "shéngbìng",
+        "sēngbìng",
+        "shēngpìng"
+      ],
+      "answer": "shēngbìng",
+      "explanation": "生 thanh 1 (shēng) + 病 thanh 4 (bìng).",
+      "relatedKnowledge": "Phát âm Bài 12",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-12-08",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho 「yǒudiǎnr」:",
+      "options": [
+        "有点儿",
+        "一点儿",
+        "天气",
+        "看病"
+      ],
+      "answer": "有点儿",
+      "explanation": "有点儿 (hơi...) đứng trước tính từ.",
+      "relatedKnowledge": "Mặt chữ Bài 12",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-12-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết bác sĩ khuyên Dương Đồng Lạc nghỉ bao lâu:",
+      "audioText": "吃一点儿药，今天休息半天吧。回家后再喝些热水。",
+      "options": [
+        "Nghỉ nửa ngày (半天)",
+        "Nghỉ 3 ngày",
+        "Vẫn đi làm bình thường"
+      ],
+      "answer": "Nghỉ nửa ngày (半天)",
+      "explanation": "「今天休息半天吧」.",
+      "relatedKnowledge": "Nghe hiểu Bài 12",
+      "section": "listening"
+    },
+    {
+      "id": "q30-12-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Hôm qua tuyết rơi rồi, lạnh quá!\"",
+      "sampleAnswer": "昨天下雪了，太冷了！",
+      "acceptedAnswers": [
+        "昨天下雪了太冷了",
+        "昨天下雪了，太冷了",
+        "昨天下雪了，太冷了！"
+      ],
+      "requiredKeywords": [
+        "昨天",
+        "下雪",
+        "太冷"
+      ],
+      "explanation": "昨天下雪了，太冷了！",
+      "relatedKnowledge": "Cấu trúc 太……了",
+      "section": "writing"
+    },
+    {
+      "id": "q30-12-11",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Phân biệt đúng hai cụm từ dễ nhầm 「有点儿」 và 「一点儿」:",
+      "options": [
+        "「有点儿 + Tính từ」 (hơi...); 「Động từ + 一点儿 + Danh từ」 (một chút...)",
+        "「一点儿 + Tính từ」 (hơi...); 「Động từ + 有点儿 + Danh từ」 (một chút...)",
+        "Hai cụm từ dùng thay thế hoàn toàn cho nhau",
+        "Cả hai đều chỉ đứng cuối câu"
+      ],
+      "answer": "「有点儿 + Tính từ」 (hơi...); 「Động từ + 一点儿 + Danh từ」 (một chút...)",
+      "explanation": "Ví dụ chuẩn Bài 12: 「雨有点儿大」 (Mưa hơi to) vs 「吃一点儿药」 (Uống một chút thuốc).",
+      "relatedKnowledge": "Phân biệt 有点儿 và 一点儿 (Bài 12)"
+    },
+    {
+      "id": "q30-12-12",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 8",
+      "prompt": "[Ôn Bài 8 + 12] Trong tiếng Trung, đi bệnh viện khám bệnh nói là 「去医院___」, uống thuốc nói là 「___药」, uống nước nóng nói là 「___热水」:",
+      "options": [
+        "看病 · 吃 · 喝",
+        "看病 · 喝 · 吃",
+        "生病 · 喝 · 喝",
+        "医生 · 吃 · 吃"
+      ],
+      "answer": "看病 · 吃 · 喝",
+      "explanation": "Lưu ý cực quan trọng: Tiếng Trung dùng 「吃药」 (uống thuốc viên/thuốc nói chung), 「喝热水」 (uống nước nóng), và 「看病」 (khám bệnh).",
+      "relatedKnowledge": "Kết hợp động từ chuẩn (Bài 8 & 12)"
+    },
+    {
+      "id": "q30-12-13",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Trong câu cảm thán 「太冷了！」, trợ từ 「了」 có vai trò gì?",
+      "options": [
+        "Chỉ hành động đã kết thúc trong quá khứ",
+        "Đi kèm cấu trúc 「太 + Tính từ + 了！」 để nhấn mạnh cảm thán",
+        "Dùng để đặt câu hỏi",
+        "Thay thế cho chủ ngữ"
+      ],
+      "answer": "Đi kèm cấu trúc 「太 + Tính từ + 了！」 để nhấn mạnh cảm thán",
+      "explanation": "Cấu trúc khẳng định cảm thán luôn đi cặp 「太……了！」 (Lạnh quá đi mất!), còn phủ định 「不太冷」 thì KHÔNG có 「了」.",
+      "relatedKnowledge": "Cấu trúc cảm thán 太……了！"
+    },
+    {
+      "id": "q30-12-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 10",
+      "prompt": "[Ôn Bài 10 + 12] Khi muốn hỏi thời tiết hôm nay thế nào, câu nào ĐÚNG chuẩn Bài khóa 1?",
+      "options": [
+        "今天天气怎么？",
+        "今天天气怎么样？",
+        "今天天气多少？",
+        "今天天气几？"
+      ],
+      "answer": "今天天气怎么样？",
+      "explanation": "Ôn đại từ 「怎么样」 (Bài 10) hỏi trạng thái/chất lượng: 「今天天气怎么样？」.",
+      "relatedKnowledge": "Ôn Bài 10 (怎么样) + Bài 12 (天气)"
+    },
+    {
+      "id": "q30-12-15",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "杨同乐：医生，我病了。我很冷。\n胡医生：我看看。好的，吃一点儿药，今天休息半天吧。回家后再喝些热水。",
+      "passagePinyin": "Yáng Tónglè: Yīshēng, wǒ bìng le. Wǒ hěn lěng. Hú yīshēng: Wǒ kànkan. Hǎo de, chī yìdiǎnr yào, jīntiān xiūxi bàntiān ba. Huíjiā hòu zài hē xiē rèshuǐ.",
+      "prompt": "Bác sĩ Hồ dặn Dương Đồng Lạc làm những gì sau khi khám?",
+      "options": [
+        "Đi làm ngay lập tức ở công ty",
+        "Uống một chút thuốc, nghỉ nửa ngày hôm nay, về nhà rồi uống thêm ít nước ấm",
+        "Đi siêu thị mua táo",
+        "Uống nước lạnh và ngủ nửa tiếng"
+      ],
+      "answer": "Uống một chút thuốc, nghỉ nửa ngày hôm nay, về nhà rồi uống thêm ít nước ấm",
+      "explanation": "Bác sĩ Hồ dặn: 「吃一点儿药，今天休息半天吧。回家后再喝些热水。」.",
+      "relatedKnowledge": "Bài khóa 3 – Đi khám bác sĩ"
+    },
+    {
+      "id": "q30-12-16",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Câu 「昨天下雪了。」 là câu phi chủ vị (không cần chủ ngữ chỉ người/vật) để miêu tả hiện tượng thời tiết tự nhiên.",
+      "answer": true,
+      "explanation": "Đúng! Miêu tả mưa tuyết trong tiếng Trung dùng câu phi chủ vị: 「下雨了。」 / 「昨天下雪了。」.",
+      "relatedKnowledge": "Câu phi chủ vị thời tiết"
+    },
+    {
+      "id": "q30-12-17",
+      "section": "writing",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 1 chữ Hán chỉ trình tự 'sau đó rồi mới': 回家后___喝些热水。(Về nhà rồi hãy uống ít nước nóng.)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "再"
+      ],
+      "explanation": "「……后再 + Động từ」 biểu thị làm xong việc 1 rồi mới làm việc 2.",
+      "relatedKnowledge": "Phó từ 再 chỉ trình tự"
+    },
+    {
+      "id": "q30-12-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "reviewTag": "Ôn Bài 11",
+      "prompt": "[Ôn Bài 11 + 12] Sắp xếp thành câu kể hôm qua đi bệnh viện khám bệnh:",
+      "tokens": [
+        "去医院",
+        "我",
+        "看病了",
+        "昨天"
+      ],
+      "answer": [
+        "我",
+        "昨天",
+        "去医院",
+        "看病了"
+      ],
+      "acceptedSequences": [
+        [
+          "我",
+          "昨天",
+          "去医院",
+          "看病了"
+        ],
+        [
+          "昨天",
+          "我",
+          "去医院",
+          "看病了"
+        ]
+      ],
+      "explanation": "Kết hợp 「昨天」 (Bài 11) + câu liên động 「去医院看病」 + 「了」 (Bài 12).",
+      "relatedKnowledge": "Ôn Bài 11 (昨天) + Bài 12 (了)"
+    },
+    {
+      "id": "q30-12-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "这里的天气不太好，下雨了，雨有点儿大，我觉得很冷。",
+      "prompt": "Nghe đoạn âm thanh và chọn mô tả ĐÚNG về thời tiết:",
+      "options": [
+        "Trời nắng đẹp và ấm áp",
+        "Trời mưa hơi to và người nói cảm thấy rất lạnh",
+        "Hôm qua có tuyết rơi nhưng hôm nay trời nóng",
+        "Mưa rất nhỏ"
+      ],
+      "answer": "Trời mưa hơi to và người nói cảm thấy rất lạnh",
+      "explanation": "Lời nghe: 「这里的天气不太好，下雨了，雨有点儿大，我觉得很冷。」.",
+      "relatedKnowledge": "Nghe hiểu Bài 12"
+    },
+    {
+      "id": "q30-12-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 5 & 8",
+      "audioText": "A：你昨天没来公司，生病了吗？ B：对，昨天下雪太冷了。我去医院看胡医生，今天在家休息半天。",
+      "prompt": "[Ôn Bài 5, 8, 12] Nghe hội thoại và chọn thông tin ĐÚNG:",
+      "options": [
+        "Hôm qua B vẫn đến công ty làm việc",
+        "Hôm qua trời có tuyết rất lạnh, B bị ốm đi khám bác sĩ Hồ và hôm nay nghỉ ở nhà nửa ngày",
+        "B không bị ốm mà đi du lịch",
+        "B đang làm việc ở bệnh viện"
+      ],
+      "answer": "Hôm qua trời có tuyết rất lạnh, B bị ốm đi khám bác sĩ Hồ và hôm nay nghỉ ở nhà nửa ngày",
+      "explanation": "Kết hợp 「休息」 (Bài 5), 「医院/胡医生」 (Bài 8), và 「公司/生病/下雪/半天」 (Bài 12).",
+      "relatedKnowledge": "Nghe tổng hợp Bài 5, 8, 12"
+    },
+    {
+      "id": "q30-12-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Thời tiết hôm nay thế nào?",
+          "sampleAnswer": "今天天气怎么样？",
+          "pinyin": "Jīntiān tiānqì zěnmeyàng?",
+          "acceptedAnswers": [
+            "今天天气怎么样"
+          ],
+          "requiredKeywords": [
+            "今天",
+            "天气",
+            "怎么样"
+          ]
+        },
+        {
+          "vi": "Trời mưa rồi, tôi cảm thấy rất lạnh.",
+          "sampleAnswer": "下雨了，我觉得很冷。",
+          "pinyin": "Xiàyǔ le, wǒ juéde hěn lěng.",
+          "acceptedAnswers": [
+            "下雨了我觉得很冷"
+          ],
+          "requiredKeywords": [
+            "下雨了",
+            "觉得",
+            "冷"
+          ]
+        },
+        {
+          "vi": "Hôm qua tuyết rơi rồi, lạnh quá đi mất!",
+          "sampleAnswer": "昨天下雪了，太冷了！",
+          "pinyin": "Zuótiān xiàxuě le, tài lěng le!",
+          "acceptedAnswers": [
+            "昨天下雪了太冷了"
+          ],
+          "requiredKeywords": [
+            "昨天",
+            "下雪",
+            "太冷了"
+          ]
+        },
+        {
+          "vi": "Hôm qua tôi đến bệnh viện khám bệnh rồi.",
+          "sampleAnswer": "我昨天去医院看病了。",
+          "pinyin": "Wǒ zuótiān qù yīyuàn kànbìng le.",
+          "acceptedAnswers": [
+            "我昨天去医院看病了",
+            "昨天我去医院看病了"
+          ],
+          "requiredKeywords": [
+            "昨天",
+            "医院",
+            "看病"
+          ]
+        },
+        {
+          "vi": "[Ôn Bài 5] Uống một chút thuốc, hôm nay nghỉ nửa ngày, về nhà rồi uống ít nước nóng.",
+          "sampleAnswer": "吃一点儿药，今天休息半天，回家后再喝些热水。",
+          "pinyin": "Chī yìdiǎnr yào, jīntiān xiūxi bàntiān, huíjiā hòu zài hē xiē rèshuǐ.",
+          "acceptedAnswers": [
+            "吃一点儿药今天休息半天回家后再喝些热水",
+            "吃一点药今天休息半天回家后再喝热水"
+          ],
+          "requiredKeywords": [
+            "药",
+            "休息",
+            "热水"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 12 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 12"
+    }
+  ]
+}

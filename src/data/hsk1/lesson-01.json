@@ -1,0 +1,909 @@
+{
+  "id": "hsk1-01",
+  "courseId": "hsk1",
+  "order": 1,
+  "group": "Bài 01–05",
+  "zhTitle": "AI小语，你好！",
+  "pinyinTitle": "AI Xiǎoyǔ, nǐ hǎo!",
+  "viTitle": "Xin chào AI Tiểu Ngữ!",
+  "image": "images/hsk1-lesson01.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 1 Giáo trình New HSK 1 (HSK 3.0): Nghi thức chào hỏi, cảm ơn, tạm biệt, kính ngữ 您 và ngữ âm 4 thanh điệu cơ bản.",
+  "vocabulary": [
+    {
+      "id": "v30-01-01",
+      "hanzi": "你好",
+      "pinyin": "nǐ hǎo",
+      "pos": "Cụm từ",
+      "meaning": "Xin chào, chào bạn",
+      "exampleZh": "AI小语，你好！",
+      "examplePinyin": "AI Xiǎoyǔ, nǐ hǎo!",
+      "exampleVi": "Xin chào AI Tiểu Ngữ!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Cụm từ.",
+      "collocations": [
+        "你好 (Xin chào, chào bạn)"
+      ],
+      "extraExample": "AI小语，你好！ — Xin chào AI Tiểu Ngữ!"
+    },
+    {
+      "id": "v30-01-02",
+      "hanzi": "王老师",
+      "pinyin": "Wáng lǎoshī",
+      "pos": "Danh từ riêng",
+      "meaning": "Cô Vương / Thầy Vương",
+      "exampleZh": "王老师，你好！",
+      "examplePinyin": "Wáng lǎoshī, nǐ hǎo!",
+      "exampleVi": "Chào cô Vương!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "王老师 (Cô Vương / Thầy Vương)"
+      ],
+      "extraExample": "王老师，你好！ — Chào cô Vương!"
+    },
+    {
+      "id": "v30-01-03",
+      "hanzi": "大家",
+      "pinyin": "dàjiā",
+      "pos": "Đại từ",
+      "meaning": "Mọi người",
+      "exampleZh": "大家好！",
+      "examplePinyin": "Dàjiā hǎo!",
+      "exampleVi": "Chào cả lớp / Chào mọi người!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Đại từ.",
+      "collocations": [
+        "大家 (Mọi người)"
+      ],
+      "extraExample": "大家好！ — Chào cả lớp / Chào mọi người!"
+    },
+    {
+      "id": "v30-01-04",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "pos": "Tính từ",
+      "meaning": "Tốt, khỏe",
+      "exampleZh": "老师，您好！",
+      "examplePinyin": "Lǎoshī, nín hǎo!",
+      "exampleVi": "Chào cô ạ!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Tính từ.",
+      "collocations": [
+        "好 (Tốt, khỏe)"
+      ],
+      "extraExample": "老师，您好！ — Chào cô ạ!"
+    },
+    {
+      "id": "v30-01-05",
+      "hanzi": "学生",
+      "pinyin": "xuésheng",
+      "pos": "Danh từ",
+      "meaning": "Học sinh, sinh viên",
+      "exampleZh": "学生们好！",
+      "examplePinyin": "Xuéshengmen hǎo!",
+      "exampleVi": "Chào các em học sinh!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Danh từ.",
+      "collocations": [
+        "学生 (Học sinh, sinh viên)"
+      ],
+      "extraExample": "学生们好！ — Chào các em học sinh!"
+    },
+    {
+      "id": "v30-01-06",
+      "hanzi": "们",
+      "pinyin": "men",
+      "pos": "Hậu tố",
+      "meaning": "Các, chúng (số nhiều cho người)",
+      "exampleZh": "同学们，再见！",
+      "examplePinyin": "Tóngxuémen, zàijiàn!",
+      "exampleVi": "Tạm biệt các em!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Hậu tố.",
+      "collocations": [
+        "们 (Các, chúng (số nhiều cho người))"
+      ],
+      "extraExample": "同学们，再见！ — Tạm biệt các em!"
+    },
+    {
+      "id": "v30-01-07",
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "pos": "Danh từ",
+      "meaning": "Thầy giáo, cô giáo, giáo viên",
+      "exampleZh": "老师，再见！",
+      "examplePinyin": "Lǎoshī, zàijiàn!",
+      "exampleVi": "Tạm biệt cô ạ!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Danh từ.",
+      "collocations": [
+        "老师 (Thầy giáo, cô giáo, giáo viên)"
+      ],
+      "extraExample": "老师，再见！ — Tạm biệt cô ạ!"
+    },
+    {
+      "id": "v30-01-08",
+      "hanzi": "您",
+      "pinyin": "nín",
+      "pos": "Đại từ",
+      "meaning": "Ngài, ông, bà, thầy, cô (kính ngữ)",
+      "exampleZh": "老师，您好！",
+      "examplePinyin": "Lǎoshī, nín hǎo!",
+      "exampleVi": "Em chào cô ạ!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Đại từ.",
+      "collocations": [
+        "您 (Ngài, ông, bà, thầy, cô (kính ngữ))"
+      ],
+      "extraExample": "老师，您好！ — Em chào cô ạ!"
+    },
+    {
+      "id": "v30-01-09",
+      "hanzi": "你们",
+      "pinyin": "nǐmen",
+      "pos": "Đại từ",
+      "meaning": "Các bạn, các anh, các chị",
+      "exampleZh": "你们好！",
+      "examplePinyin": "Nǐmen hǎo!",
+      "exampleVi": "Chào các bạn!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Đại từ.",
+      "collocations": [
+        "你们 (Các bạn, các anh, các chị)"
+      ],
+      "extraExample": "你们好！ — Chào các bạn!"
+    },
+    {
+      "id": "v30-01-10",
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "pos": "Động từ",
+      "meaning": "Cảm ơn",
+      "exampleZh": "谢谢！",
+      "examplePinyin": "Xièxie!",
+      "exampleVi": "Cảm ơn bạn!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Động từ.",
+      "collocations": [
+        "谢谢 (Cảm ơn)"
+      ],
+      "extraExample": "谢谢！ — Cảm ơn bạn!"
+    },
+    {
+      "id": "v30-01-11",
+      "hanzi": "不客气",
+      "pinyin": "bú kèqi",
+      "pos": "Cụm từ",
+      "meaning": "Đừng khách sáo, không cần khách khí",
+      "exampleZh": "不客气！",
+      "examplePinyin": "Bú kèqi!",
+      "exampleVi": "Đừng khách sáo!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Cụm từ.",
+      "collocations": [
+        "不客气 (Đừng khách sáo, không cần khách khí)"
+      ],
+      "extraExample": "不客气！ — Đừng khách sáo!"
+    },
+    {
+      "id": "v30-01-12",
+      "hanzi": "同学",
+      "pinyin": "tóngxué",
+      "pos": "Danh từ",
+      "meaning": "Bạn học",
+      "exampleZh": "同学们，再见！",
+      "examplePinyin": "Tóngxuémen, zàijiàn!",
+      "exampleVi": "Tạm biệt các bạn học!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Danh từ.",
+      "collocations": [
+        "同学 (Bạn học)"
+      ],
+      "extraExample": "同学们，再见！ — Tạm biệt các bạn học!"
+    },
+    {
+      "id": "v30-01-13",
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "pos": "Động từ",
+      "meaning": "Tạm biệt",
+      "exampleZh": "老师，再见！",
+      "examplePinyin": "Lǎoshī, zàijiàn!",
+      "exampleVi": "Tạm biệt cô ạ!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 1. Từ loại: Động từ.",
+      "collocations": [
+        "再见 (Tạm biệt)"
+      ],
+      "extraExample": "老师，再见！ — Tạm biệt cô ạ!"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-01-1",
+      "title": "Bài khóa 1: Chào hỏi trợ giảng AI Tiểu Ngữ",
+      "context": "Ngày đầu tiên đi học, cô Vương Nhất Phi chào AI Tiểu Ngữ ở văn phòng.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "left",
+          "zh": "AI小语，你好！",
+          "pinyin": "AI Xiǎoyǔ, nǐ hǎo!",
+          "vi": "Xin chào AI Tiểu Ngữ!"
+        },
+        {
+          "speaker": "Tiểu Ngữ",
+          "side": "right",
+          "zh": "王老师，你好！",
+          "pinyin": "Wáng lǎoshī, nǐ hǎo!",
+          "vi": "Chào cô Vương!"
+        }
+      ]
+    },
+    {
+      "id": "d30-01-2",
+      "title": "Bài khóa 2: Chào hỏi trong lớp học",
+      "context": "Ngày đầu tiên đi học, các bạn học sinh học cách chào hỏi tại lớp.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "left",
+          "zh": "大家好！",
+          "pinyin": "Dàjiā hǎo!",
+          "vi": "Chào cả lớp!"
+        },
+        {
+          "speaker": "Học sinh",
+          "side": "right",
+          "zh": "老师，您好！",
+          "pinyin": "Lǎoshī, nín hǎo!",
+          "vi": "Chào cô ạ!"
+        },
+        {
+          "speaker": "Tiểu Ngữ",
+          "side": "left",
+          "zh": "你们好！",
+          "pinyin": "Nǐmen hǎo!",
+          "vi": "Chào các bạn!"
+        },
+        {
+          "speaker": "Học sinh",
+          "side": "right",
+          "zh": "你好，小语！",
+          "pinyin": "Nǐ hǎo, Xiǎoyǔ!",
+          "vi": "Chào Tiểu Ngữ!"
+        }
+      ]
+    },
+    {
+      "id": "d30-01-3",
+      "title": "Bài khóa 3: Cảm ơn và tạm biệt",
+      "context": "Các bạn học sinh thực hành cảm ơn và tạm biệt cuối giờ học.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Học sinh",
+          "side": "left",
+          "zh": "谢谢！",
+          "pinyin": "Xièxie!",
+          "vi": "Cảm ơn bạn!"
+        },
+        {
+          "speaker": "Tiểu Ngữ",
+          "side": "right",
+          "zh": "不客气！",
+          "pinyin": "Bú kèqi!",
+          "vi": "Đừng khách sáo!"
+        },
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "left",
+          "zh": "同学们，再见！",
+          "pinyin": "Tóngxuémen, zàijiàn!",
+          "vi": "Tạm biệt các em!"
+        },
+        {
+          "speaker": "Học sinh",
+          "side": "right",
+          "zh": "老师，再见！",
+          "pinyin": "Lǎoshī, zàijiàn!",
+          "vi": "Tạm biệt cô ạ!"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-01-1",
+      "title": "Kính ngữ 您 và hậu tố số nhiều 们",
+      "formula": "您 (trang trọng) / Đại từ + 们 (số nhiều)",
+      "usage": "Dùng 您 với người lớn tuổi, thầy cô; gắn 们 sau 你, 同学, 学生 để chỉ số nhiều.",
+      "explanation": "Trong giao tiếp tiếng Trung, chào thầy cô nói 老师，您好！ thể hiện sự lễ phép. Chào cả lớp nói 大家好 hoặc 同学们好.",
+      "examples": [
+        {
+          "zh": "老师，您好！",
+          "pinyin": "Lǎoshī, nín hǎo!",
+          "vi": "Chào thầy/cô ạ!"
+        },
+        {
+          "zh": "同学们，再见！",
+          "pinyin": "Tóngxuémen, zàijiàn!",
+          "vi": "Tạm biệt các em!"
+        }
+      ],
+      "commonMistake": "Dùng 您们 (ít dùng trong khẩu ngữ chuẩn) thay vì 大家 hoặc 你们.",
+      "comparison": "你好 (bạn bè) ↔ 您好 (thầy cô, người lớn tuổi)."
+    },
+    {
+      "id": "g30-01-2",
+      "title": "Ngữ âm Bài 1: Thanh mẫu b–h và 4 thanh điệu cơ bản",
+      "formula": "Âm tiết = Thanh mẫu + Vận mẫu + Thanh điệu (Thanh 1: 55, Thanh 2: 35, Thanh 3: 214, Thanh 4: 51)",
+      "usage": "Nắm vững 4 thanh điệu cơ bản và bài vè luyện thanh trong giáo trình New HSK 1.",
+      "explanation": "Bài vè trang 4: 妈种麻，我放马。马吃麻，妈骂马。(Mā zhòng má, wǒ fàng mǎ. Mǎ chī má, mā mà mǎ.)",
+      "examples": [
+        {
+          "zh": "妈 (mā) – 麻 (má) – 马 (mǎ) – 骂 (mà)",
+          "pinyin": "mā · má · mǎ · mà",
+          "vi": "Mẹ – cây gai – con ngựa – mắng"
+        }
+      ],
+      "commonMistake": "Nhầm thanh 2 (lên giọng) với thanh 3 (xuống rồi lên).",
+      "comparison": "Dấu thanh điệu luôn đánh trên nguyên âm chính của vận mẫu."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "AI小语，你好！",
+      "pinyin": "AI Xiǎoyǔ, nǐ hǎo!",
+      "vi": "Xin chào AI Tiểu Ngữ!"
+    },
+    {
+      "zh": "大家好！/ 你们好！",
+      "pinyin": "Dàjiā hǎo! / Nǐmen hǎo!",
+      "vi": "Chào mọi người! / Chào các bạn!"
+    },
+    {
+      "zh": "老师，您好！",
+      "pinyin": "Lǎoshī, nín hǎo!",
+      "vi": "Em chào thầy/cô ạ!"
+    },
+    {
+      "zh": "谢谢！— 不客气！",
+      "pinyin": "Xièxie! — Bú kèqi!",
+      "vi": "Cảm ơn! — Đừng khách sáo!"
+    },
+    {
+      "zh": "同学们，再见！",
+      "pinyin": "Tóngxuémen, zàijiàn!",
+      "vi": "Tạm biệt các em!"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-1-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "nǐ hǎo",
+          "answer": "你好",
+          "meaning": "Xin chào, chào bạn"
+        },
+        {
+          "pinyin": "Wáng lǎoshī",
+          "answer": "王老师",
+          "meaning": "Cô Vương / Thầy Vương"
+        },
+        {
+          "pinyin": "dàjiā",
+          "answer": "大家",
+          "meaning": "Mọi người"
+        },
+        {
+          "pinyin": "hǎo",
+          "answer": "好",
+          "meaning": "Tốt, khỏe"
+        },
+        {
+          "pinyin": "xuésheng",
+          "answer": "学生",
+          "meaning": "Học sinh, sinh viên"
+        },
+        {
+          "pinyin": "men",
+          "answer": "们",
+          "meaning": "Các, chúng (số nhiều cho người)"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 1.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 1"
+    },
+    {
+      "id": "q30-1-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Ngài, ông, bà, thầy, cô (kính ngữ)"
+        },
+        {
+          "key": "B",
+          "label": "Bạn học"
+        },
+        {
+          "key": "C",
+          "label": "Các bạn, các anh, các chị"
+        },
+        {
+          "key": "D",
+          "label": "Đừng khách sáo, không cần khách khí"
+        },
+        {
+          "key": "E",
+          "label": "Cảm ơn"
+        },
+        {
+          "key": "F",
+          "label": "Thầy giáo, cô giáo, giáo viên"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "老师",
+          "pinyin": "lǎoshī",
+          "answerKey": "F"
+        },
+        {
+          "hanzi": "您",
+          "pinyin": "nín",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "你们",
+          "pinyin": "nǐmen",
+          "answerKey": "C"
+        },
+        {
+          "hanzi": "谢谢",
+          "pinyin": "xièxie",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "不客气",
+          "pinyin": "bú kèqi",
+          "answerKey": "D"
+        },
+        {
+          "hanzi": "同学",
+          "pinyin": "tóngxué",
+          "answerKey": "B"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 1.",
+      "relatedKnowledge": "Từ mới Bài 1"
+    },
+    {
+      "id": "q30-1-01",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Khi có người nói 「谢谢！」, câu đáp lịch sự nhất là:",
+      "options": [
+        "再见！",
+        "不客气！",
+        "大家好！",
+        "老师好！"
+      ],
+      "answer": "不客气！",
+      "explanation": "「谢谢！」 (Cảm ơn) đáp lại bằng 「不客气！」 (Đừng khách sáo).",
+      "relatedKnowledge": "Bài khóa 3 – Cảm ơn",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-1-02",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Gặp cô Vương (王老师), học sinh chào lịch sự là:",
+      "options": [
+        "王老师，您好！",
+        "王老师，你们好！",
+        "王老师，不客气！",
+        "王老师，大家好！"
+      ],
+      "answer": "王老师，您好！",
+      "explanation": "Dùng kính ngữ 「您」 với giáo viên.",
+      "relatedKnowledge": "Kính ngữ 您",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-1-03",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Hậu tố 「们」 dùng sau đại từ hoặc danh từ chỉ người để tạo số nhiều (ví dụ: 同学们, 你们).",
+      "answer": true,
+      "explanation": "Đúng. 同学们 = các bạn học, 你们 = các bạn.",
+      "relatedKnowledge": "Hậu tố 们",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-1-04",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 1 chữ Hán: 老师，___ 好！(Em chào cô ạ!)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "您"
+      ],
+      "explanation": "「您」 là đại từ ngôi thứ hai trang trọng.",
+      "relatedKnowledge": "Kính ngữ 您",
+      "section": "writing"
+    },
+    {
+      "id": "q30-1-05",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu chào tạm biệt cả lớp của cô giáo:",
+      "tokens": [
+        "再见",
+        "们",
+        "同学"
+      ],
+      "answer": [
+        "同学",
+        "们",
+        "再见"
+      ],
+      "acceptedSequences": [
+        [
+          "同学",
+          "们",
+          "再见"
+        ]
+      ],
+      "explanation": "同学们，再见！ (Tạm biệt các em!)",
+      "relatedKnowledge": "Bài khóa 3",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-1-06",
+      "type": "matching",
+      "points": 1,
+      "prompt": "Nối từ mới Bài 1 (HSK 3.0) với nghĩa tiếng Việt:",
+      "pairs": [
+        {
+          "left": "大家",
+          "right": "Mọi người"
+        },
+        {
+          "left": "谢谢",
+          "right": "Cảm ơn"
+        },
+        {
+          "left": "不客气",
+          "right": "Đừng khách sáo"
+        },
+        {
+          "left": "再见",
+          "right": "Tạm biệt"
+        }
+      ],
+      "explanation": "Khớp bảng từ mới Bài 1 trang 2–3.",
+      "relatedKnowledge": "Từ mới Bài 1",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-1-07",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「不客气」:",
+      "options": [
+        "bú kèqi",
+        "bù kēqi",
+        "bǔ kèqì",
+        "bú gèqi"
+      ],
+      "answer": "bú kèqi",
+      "explanation": "不 trước thanh 4 biến điệu thành bú -> bú kèqi.",
+      "relatedKnowledge": "Phát âm Bài 1",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-1-08",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho 「tóngxué」:",
+      "options": [
+        "同学",
+        "老师",
+        "大家",
+        "谢谢"
+      ],
+      "answer": "同学",
+      "explanation": "同学 (tóngxué) = bạn học.",
+      "relatedKnowledge": "Mặt chữ Bài 1",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-1-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe câu sau và chọn tình huống phù hợp:",
+      "audioText": "同学们，再见！老师，再见！",
+      "options": [
+        "Bắt đầu buổi học",
+        "Chào tạm biệt cuối buổi học",
+        "Cảm ơn khi nhận quà",
+        "Xin lỗi vì nhận nhầm người"
+      ],
+      "answer": "Chào tạm biệt cuối buổi học",
+      "explanation": "再见 dùng khi chào tạm biệt.",
+      "relatedKnowledge": "Nghe hiểu Bài 1",
+      "section": "listening"
+    },
+    {
+      "id": "q30-1-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Chào mọi người!\"",
+      "sampleAnswer": "大家好！",
+      "acceptedAnswers": [
+        "大家好",
+        "大家好！",
+        "大家好!"
+      ],
+      "requiredKeywords": [
+        "大家",
+        "好"
+      ],
+      "explanation": "大家好！ (Dàjiā hǎo!)",
+      "relatedKnowledge": "Chào hỏi tập thể",
+      "section": "writing"
+    },
+    {
+      "id": "hsk1-01-bk-01",
+      "section": "reading",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Theo Bài khóa 1: Chào hỏi trợ giảng AI Tiểu Ngữ, câu 「AI小语，你好！」 có nghĩa tiếng Việt là gì?",
+      "options": [
+        "Xin chào AI Tiểu Ngữ!",
+        "Hôm nay trời rất lạnh.",
+        "Tôi muốn đi siêu thị mua táo."
+      ],
+      "answer": "Xin chào AI Tiểu Ngữ!",
+      "explanation": "Trong Bài khóa 1: Chào hỏi trợ giảng AI Tiểu Ngữ: 「AI小语，你好！」 (AI Xiǎoyǔ, nǐ hǎo!) = Xin chào AI Tiểu Ngữ!.",
+      "relatedKnowledge": "Bài khóa 1: Chào hỏi trợ giảng AI Tiểu Ngữ"
+    },
+    {
+      "id": "q30-1-12",
+      "section": "vocab",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn phiên âm Pinyin đúng (chú ý biến điệu chữ 不) cho từ 「不客气」:",
+      "options": [
+        "bù kèqì",
+        "bú kèqi",
+        "bǔ kèqi",
+        "bú kēqi"
+      ],
+      "answer": "bú kèqi",
+      "explanation": "「不」 đứng trước thanh 4 「客 (kè)」 biến điệu thành thanh 2 「bú」; 「气」 đọc thanh nhẹ → 「bú kèqi」.",
+      "relatedKnowledge": "Từ mới Bài 1 – Biến điệu 不"
+    },
+    {
+      "id": "q30-1-13",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Từ nào sau đây dùng để gọi chung các bạn cùng lớp với mình?",
+      "options": [
+        "老师",
+        "同学",
+        "大家",
+        "您"
+      ],
+      "answer": "同学",
+      "explanation": "「同学 (tóngxué)」 là bạn học cùng lớp; 「老师」 là giáo viên; 「大家」 là mọi người.",
+      "relatedKnowledge": "Từ mới Bài 1"
+    },
+    {
+      "id": "q30-1-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Khi bước vào lớp học, cô giáo Vương chào cả lớp bằng câu nào tự nhiên nhất?",
+      "options": [
+        "同学们，再见！",
+        "大家好！",
+        "老师，您好！",
+        "不客气！"
+      ],
+      "answer": "大家好！",
+      "explanation": "Theo Bài khóa 2, cô Vương Nhất Phi chào cả lớp: 「大家好！」 (Chào mọi người!).",
+      "relatedKnowledge": "Bài khóa 2 – Chào hỏi lớp học"
+    },
+    {
+      "id": "q30-1-15",
+      "section": "grammar",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Có thể nói 「您们好！」 để chào nhiều thầy cô giáo cùng lúc.",
+      "answer": false,
+      "explanation": "Sai. Trong tiếng Trung hiện đại thông dụng, kính ngữ 「您」 không kết hợp với 「们」; khi chào nhiều người dùng 「你们好！」 hoặc 「大家好！」.",
+      "relatedKnowledge": "Kính ngữ 您 và hậu tố 们"
+    },
+    {
+      "id": "q30-1-16",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "王老师：同学们，再见！\n学生们：老师，再见！谢谢老师！\n王老师：不客气！",
+      "passagePinyin": "Wáng lǎoshī: Tóngxuémen, zàijiàn! Xuéshengmen: Lǎoshī, zàijiàn! Xièxie lǎoshī! Wáng lǎoshī: Bú kèqi!",
+      "prompt": "Đoạn hội thoại trên diễn ra vào thời điểm nào?",
+      "options": [
+        "Lúc mới vào lớp",
+        "Lúc kết thúc buổi học, chào tạm biệt",
+        "Lúc giới thiệu tên",
+        "Lúc hỏi thăm sức khỏe"
+      ],
+      "answer": "Lúc kết thúc buổi học, chào tạm biệt",
+      "explanation": "Cả cô giáo và học sinh đều nói 「再见！」 (Tạm biệt!) và 「谢谢老师！」 (Cảm ơn cô!).",
+      "relatedKnowledge": "Bài khóa 3 – Tạm biệt"
+    },
+    {
+      "id": "q30-1-17",
+      "section": "reading",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Trợ giảng AI Tiểu Ngữ chào các bạn học sinh: 「你们好！」. Cả lớp nên đáp lại thế nào?",
+      "options": [
+        "你好，小语！",
+        "不客气，小语！",
+        "再见，王老师！",
+        "同学们好！"
+      ],
+      "answer": "你好，小语！",
+      "explanation": "Trong Bài khóa 2, khi Tiểu Ngữ nói 「你们好！」, học sinh đáp lại 「你好，小语！」.",
+      "relatedKnowledge": "Bài khóa 2"
+    },
+    {
+      "id": "q30-1-18",
+      "section": "writing",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 2 chữ Hán hoàn chỉnh câu đáp lại lời cảm ơn: A：谢谢！ B：不___！",
+      "placeholder": "Nhập 2 chữ Hán...",
+      "acceptedAnswers": [
+        "客气"
+      ],
+      "explanation": "「不客气 (bú kèqi)」 nghĩa là 'Đừng khách sáo'.",
+      "relatedKnowledge": "Giao tiếp lịch sự Bài 1"
+    },
+    {
+      "id": "q30-1-19",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu chào cô giáo Vương một cách kính trọng:",
+      "tokens": [
+        "您好",
+        "老师",
+        "王"
+      ],
+      "answer": [
+        "王",
+        "老师",
+        "您好"
+      ],
+      "acceptedSequences": [
+        [
+          "王",
+          "老师",
+          "您好"
+        ]
+      ],
+      "explanation": "Trong tiếng Trung, họ đặt trước chức danh: 「王老师，您好！」.",
+      "relatedKnowledge": "Cách xưng hô Họ + 老师"
+    },
+    {
+      "id": "q30-1-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "大家好！我是王老师。同学们好！",
+      "prompt": "Nghe câu giới thiệu và chọn người đang nói:",
+      "options": [
+        "Một bạn học sinh",
+        "Cô giáo Vương",
+        "Trợ giảng AI Tiểu Ngữ",
+        "Phụ huynh học sinh"
+      ],
+      "answer": "Cô giáo Vương",
+      "explanation": "Lời nghe: 「大家好！我是王老师。同学们好！」 (Chào mọi người! Cô là cô Vương. Chào các em học sinh!).",
+      "relatedKnowledge": "Nghe hiểu Bài 1"
+    },
+    {
+      "id": "q30-1-21",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "A：谢谢你！ B：不客气，再见！",
+      "prompt": "Nghe hội thoại ngắn và chọn ý đúng:",
+      "options": [
+        "Người B xin lỗi người A",
+        "Người A cảm ơn và người B đáp lại rồi chào tạm biệt",
+        "Hai người mới gặp nhau lần đầu",
+        "Người B hỏi tên người A"
+      ],
+      "answer": "Người A cảm ơn và người B đáp lại rồi chào tạm biệt",
+      "explanation": "「谢谢你！」 (Cảm ơn bạn!) – 「不客气，再见！」 (Đừng khách sáo, tạm biệt!).",
+      "relatedKnowledge": "Nghe hiểu Bài 1"
+    },
+    {
+      "id": "q30-1-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Xin chào cô Vương!",
+          "sampleAnswer": "王老师，您好！",
+          "pinyin": "Wáng lǎoshī, nín hǎo!",
+          "acceptedAnswers": [
+            "王老师您好",
+            "王老师你好"
+          ],
+          "requiredKeywords": [
+            "王老师",
+            "好"
+          ]
+        },
+        {
+          "vi": "Chào mọi người!",
+          "sampleAnswer": "大家好！",
+          "pinyin": "Dàjiā hǎo!",
+          "acceptedAnswers": [
+            "大家好"
+          ],
+          "requiredKeywords": [
+            "大家",
+            "好"
+          ]
+        },
+        {
+          "vi": "Chào các bạn!",
+          "sampleAnswer": "你们好！",
+          "pinyin": "Nǐmen hǎo!",
+          "acceptedAnswers": [
+            "你们好"
+          ],
+          "requiredKeywords": [
+            "你们",
+            "好"
+          ]
+        },
+        {
+          "vi": "Cảm ơn! — Đừng khách sáo!",
+          "sampleAnswer": "谢谢！不客气！",
+          "pinyin": "Xièxie! Bú kèqi!",
+          "acceptedAnswers": [
+            "谢谢不客气"
+          ],
+          "requiredKeywords": [
+            "谢谢",
+            "不客气"
+          ]
+        },
+        {
+          "vi": "Tạm biệt các bạn học!",
+          "sampleAnswer": "同学们，再见！",
+          "pinyin": "Tóngxuémen, zàijiàn!",
+          "acceptedAnswers": [
+            "同学们再见"
+          ],
+          "requiredKeywords": [
+            "同学们",
+            "再见"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 1 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 1"
+    }
+  ]
+}

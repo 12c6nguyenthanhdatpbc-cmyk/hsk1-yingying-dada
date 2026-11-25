@@ -1,0 +1,1092 @@
+{
+  "id": "hsk1-14",
+  "courseId": "hsk1",
+  "order": 14,
+  "group": "Bài 11–15",
+  "zhTitle": "我看了一个电影",
+  "pinyinTitle": "Wǒ kànle yí gè diànyǐng",
+  "viTitle": "Mình đã xem một bộ phim",
+  "image": "images/hsk1-lesson14.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 14 Giáo trình New HSK 1 (HSK 3.0): Trợ từ động thái 了 (2), từ li hợp (睡觉→睡了一觉, 上课→上了课) và phó từ phạm vi 都.",
+  "vocabulary": [
+    {
+      "id": "v30-14-01",
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "pos": "Động từ",
+      "meaning": "Lên (xe, tàu) / Học (cấp học)",
+      "exampleZh": "你们上火车后看见王老师了吗？",
+      "examplePinyin": "Nǐmen shàng huǒchē hòu kànjiàn Wáng lǎoshī le ma?",
+      "exampleVi": "Sau khi lên tàu các bạn có thấy cô Vương không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Động từ.",
+      "collocations": [
+        "上 (Lên (xe, tàu) / Học (cấp học))"
+      ],
+      "extraExample": "你们上火车后看见王老师了吗？ — Sau khi lên tàu các bạn có thấy cô Vương không?"
+    },
+    {
+      "id": "v30-14-02",
+      "hanzi": "火车",
+      "pinyin": "huǒchē",
+      "pos": "Danh từ",
+      "meaning": "Tàu hỏa, xe lửa",
+      "exampleZh": "上火车",
+      "examplePinyin": "shàng huǒchē",
+      "exampleVi": "Lên tàu hỏa",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Danh từ.",
+      "collocations": [
+        "火车 (Tàu hỏa, xe lửa)"
+      ],
+      "extraExample": "上火车 — Lên tàu hỏa"
+    },
+    {
+      "id": "v30-14-03",
+      "hanzi": "中午",
+      "pinyin": "zhōngwǔ",
+      "pos": "Danh từ",
+      "meaning": "Buổi trưa",
+      "exampleZh": "中午车开后",
+      "examplePinyin": "zhōngwǔ chē kāi hòu",
+      "exampleVi": "Buổi trưa sau khi tàu chạy",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Danh từ.",
+      "collocations": [
+        "中午 (Buổi trưa)"
+      ],
+      "extraExample": "中午车开后 — Buổi trưa sau khi tàu chạy"
+    },
+    {
+      "id": "v30-14-04",
+      "hanzi": "开",
+      "pinyin": "kāi",
+      "pos": "Động từ",
+      "meaning": "Lái, chạy, khởi hành",
+      "exampleZh": "中午车开后",
+      "examplePinyin": "zhōngwǔ chē kāi hòu",
+      "exampleVi": "Trưa sau khi tàu chạy",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Động từ.",
+      "collocations": [
+        "开 (Lái, chạy, khởi hành)"
+      ],
+      "extraExample": "中午车开后 — Trưa sau khi tàu chạy"
+    },
+    {
+      "id": "v30-14-05",
+      "hanzi": "有些",
+      "pinyin": "yǒuxiē",
+      "pos": "Đại từ",
+      "meaning": "Có một số (cũng nói 有的)",
+      "exampleZh": "有些人在看书，有些人睡觉了。",
+      "examplePinyin": "Yǒuxiē rén zài kànshū, yǒuxiē rén shuìjiào le.",
+      "exampleVi": "Một số người đọc sách, một số người ngủ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Đại từ.",
+      "collocations": [
+        "有些 (Có một số (cũng nói 有的))"
+      ],
+      "extraExample": "有些人在看书，有些人睡觉了。 — Một số người đọc sách, một số người ngủ."
+    },
+    {
+      "id": "v30-14-06",
+      "hanzi": "写",
+      "pinyin": "xiě",
+      "pos": "Động từ",
+      "meaning": "Viết",
+      "exampleZh": "你们也会写汉字了吗？",
+      "examplePinyin": "Nǐmen yě huì xiě Hànzì le ma?",
+      "exampleVi": "Các em cũng biết viết chữ Hán rồi à?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Động từ.",
+      "collocations": [
+        "写 (Viết)"
+      ],
+      "extraExample": "你们也会写汉字了吗？ — Các em cũng biết viết chữ Hán rồi à?"
+    },
+    {
+      "id": "v30-14-07",
+      "hanzi": "都",
+      "pinyin": "dōu",
+      "pos": "Phó từ",
+      "meaning": "Đều",
+      "exampleZh": "我们都会写了。",
+      "examplePinyin": "Wǒmen dōu huì xiě le.",
+      "exampleVi": "Chúng em đều biết viết rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Phó từ.",
+      "collocations": [
+        "都 (Đều)"
+      ],
+      "extraExample": "我们都会写了。 — Chúng em đều biết viết rồi."
+    },
+    {
+      "id": "v30-14-08",
+      "hanzi": "听见",
+      "pinyin": "tīngjiàn",
+      "pos": "Động từ",
+      "meaning": "Nghe thấy",
+      "exampleZh": "老师，我听不见。",
+      "examplePinyin": "Lǎoshī, wǒ tīng bú jiàn.",
+      "exampleVi": "Thưa cô, em không nghe thấy.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Động từ.",
+      "collocations": [
+        "听见 (Nghe thấy)"
+      ],
+      "extraExample": "老师，我听不见。 — Thưa cô, em không nghe thấy."
+    },
+    {
+      "id": "v30-14-09",
+      "hanzi": "不要",
+      "pinyin": "búyào",
+      "pos": "Phó từ",
+      "meaning": "Đừng, không được",
+      "exampleZh": "请大家不要说话！",
+      "examplePinyin": "Qǐng dàjiā búyào shuōhuà!",
+      "exampleVi": "Mọi người đừng nói chuyện!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Phó từ.",
+      "collocations": [
+        "不要 (Đừng, không được)"
+      ],
+      "extraExample": "请大家不要说话！ — Mọi người đừng nói chuyện!"
+    },
+    {
+      "id": "v30-14-10",
+      "hanzi": "说话",
+      "pinyin": "shuōhuà",
+      "pos": "Động từ",
+      "meaning": "Nói chuyện",
+      "exampleZh": "不要说话！",
+      "examplePinyin": "Búyào shuōhuà!",
+      "exampleVi": "Đừng nói chuyện!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Động từ.",
+      "collocations": [
+        "说话 (Nói chuyện)"
+      ],
+      "extraExample": "不要说话！ — Đừng nói chuyện!"
+    },
+    {
+      "id": "v30-14-11",
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "pos": "Động từ",
+      "meaning": "Nghe",
+      "exampleZh": "请听老师的问题。",
+      "examplePinyin": "Qǐng tīng lǎoshī de wèntí.",
+      "exampleVi": "Hãy nghe câu hỏi của cô.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Động từ.",
+      "collocations": [
+        "听 (Nghe)"
+      ],
+      "extraExample": "请听老师的问题。 — Hãy nghe câu hỏi của cô."
+    },
+    {
+      "id": "v30-14-12",
+      "hanzi": "哪些",
+      "pinyin": "nǎxiē",
+      "pos": "Đại từ",
+      "meaning": "Những... nào",
+      "exampleZh": "你们都会写哪些汉字了？",
+      "examplePinyin": "Nǐmen dōu huì xiě nǎxiē Hànzì le?",
+      "exampleVi": "Các em biết viết những chữ Hán nào rồi?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Đại từ.",
+      "collocations": [
+        "哪些 (Những... nào)"
+      ],
+      "extraExample": "你们都会写哪些汉字了？ — Các em biết viết những chữ Hán nào rồi?"
+    },
+    {
+      "id": "v30-14-13",
+      "hanzi": "汉语",
+      "pinyin": "Hànyǔ",
+      "pos": "Danh từ riêng",
+      "meaning": "Tiếng Trung Quốc, tiếng Hán",
+      "exampleZh": "你们会说汉语了。",
+      "examplePinyin": "Nǐmen huì shuō Hànyǔ le.",
+      "exampleVi": "Các em đã biết nói tiếng Hán rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "汉语 (Tiếng Trung Quốc, tiếng Hán)"
+      ],
+      "extraExample": "你们会说汉语了。 — Các em đã biết nói tiếng Hán rồi."
+    },
+    {
+      "id": "v30-14-14",
+      "hanzi": "汉字",
+      "pinyin": "Hànzì",
+      "pos": "Danh từ riêng",
+      "meaning": "Chữ Hán",
+      "exampleZh": "写汉字",
+      "examplePinyin": "xiě Hànzì",
+      "exampleVi": "Viết chữ Hán",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "汉字 (Chữ Hán)"
+      ],
+      "extraExample": "写汉字 — Viết chữ Hán"
+    },
+    {
+      "id": "v30-14-15",
+      "hanzi": "明年",
+      "pinyin": "míngnián",
+      "pos": "Danh từ",
+      "meaning": "Sang năm, năm tới",
+      "exampleZh": "明年女儿上中学。",
+      "examplePinyin": "Míngnián nǚ'ér shàng zhōngxué.",
+      "exampleVi": "Sang năm con gái lên trung học.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Danh từ.",
+      "collocations": [
+        "明年 (Sang năm, năm tới)"
+      ],
+      "extraExample": "明年女儿上中学。 — Sang năm con gái lên trung học."
+    },
+    {
+      "id": "v30-14-16",
+      "hanzi": "中学",
+      "pinyin": "zhōngxué",
+      "pos": "Danh từ",
+      "meaning": "Trường trung học",
+      "exampleZh": "上中学",
+      "examplePinyin": "shàng zhōngxué",
+      "exampleVi": "Học trung học",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Danh từ.",
+      "collocations": [
+        "中学 (Trường trung học)"
+      ],
+      "extraExample": "上中学 — Học trung học"
+    },
+    {
+      "id": "v30-14-17",
+      "hanzi": "小学",
+      "pinyin": "xiǎoxué",
+      "pos": "Danh từ",
+      "meaning": "Trường tiểu học",
+      "exampleZh": "儿子也上小学了。",
+      "examplePinyin": "Érzi yě shàng xiǎoxué le.",
+      "exampleVi": "Con trai cũng lên tiểu học rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Danh từ.",
+      "collocations": [
+        "小学 (Trường tiểu học)"
+      ],
+      "extraExample": "儿子也上小学了。 — Con trai cũng lên tiểu học rồi."
+    },
+    {
+      "id": "v30-14-18",
+      "hanzi": "中学生",
+      "pinyin": "zhōngxuéshēng",
+      "pos": "Danh từ",
+      "meaning": "Học sinh trung học",
+      "exampleZh": "我们家有了一个中学生。",
+      "examplePinyin": "Wǒmen jiā yǒule yí gè zhōngxuéshēng.",
+      "exampleVi": "Nhà mình có một học sinh trung học rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Danh từ.",
+      "collocations": [
+        "中学生 (Học sinh trung học)"
+      ],
+      "extraExample": "我们家有了一个中学生。 — Nhà mình có một học sinh trung học rồi."
+    },
+    {
+      "id": "v30-14-19",
+      "hanzi": "小学生",
+      "pinyin": "xiǎoxuéshēng",
+      "pos": "Danh từ",
+      "meaning": "Học sinh tiểu học",
+      "exampleZh": "还有一个小学生。",
+      "examplePinyin": "Hái yǒule yí gè xiǎoxuéshēng.",
+      "exampleVi": "Còn thêm một học sinh tiểu học nữa.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Danh từ.",
+      "collocations": [
+        "小学生 (Học sinh tiểu học)"
+      ],
+      "extraExample": "还有一个小学生。 — Còn thêm một học sinh tiểu học nữa."
+    },
+    {
+      "id": "v30-14-20",
+      "hanzi": "上学",
+      "pinyin": "shàngxué",
+      "pos": "Động từ",
+      "meaning": "Đi học",
+      "exampleZh": "上学后，他们都忙了。",
+      "examplePinyin": "Shàngxué hòu, tāmen dōu máng le.",
+      "exampleVi": "Sau khi đi học, các con đều bận rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Động từ.",
+      "collocations": [
+        "上学 (Đi học)"
+      ],
+      "extraExample": "上学后，他们都忙了。 — Sau khi đi học, các con đều bận rồi."
+    },
+    {
+      "id": "v30-14-21",
+      "hanzi": "晚",
+      "pinyin": "wǎn",
+      "pos": "Tính từ",
+      "meaning": "Muộn, trễ",
+      "exampleZh": "太晚了，睡觉吧。",
+      "examplePinyin": "Tài wǎn le, shuìjiào ba.",
+      "exampleVi": "Muộn quá rồi, đi ngủ thôi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Tính từ.",
+      "collocations": [
+        "晚 (Muộn, trễ)"
+      ],
+      "extraExample": "太晚了，睡觉吧。 — Muộn quá rồi, đi ngủ thôi."
+    },
+    {
+      "id": "v30-14-22",
+      "hanzi": "有的",
+      "pinyin": "yǒude",
+      "pos": "Đại từ",
+      "meaning": "Có người, có cái (tương đương 有些)",
+      "exampleZh": "有的人在读书。",
+      "examplePinyin": "Yǒude rén zài dúshū.",
+      "exampleVi": "Có người đang đọc sách.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Đại từ.",
+      "collocations": [
+        "有的 (Có người, có cái (tương đương 有些))"
+      ],
+      "extraExample": "有的人在读书。 — Có người đang đọc sách."
+    },
+    {
+      "id": "v30-14-23",
+      "hanzi": "了",
+      "pinyin": "le",
+      "pos": "Trợ từ",
+      "meaning": "Dùng sau động từ chỉ hoàn thành",
+      "exampleZh": "我看了一个电影。",
+      "examplePinyin": "Wǒ kànle yí gè diànyǐng.",
+      "exampleVi": "Mình đã xem một bộ phim.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Trợ từ.",
+      "collocations": [
+        "了 (Dùng sau động từ chỉ hoàn thành)"
+      ],
+      "extraExample": "我看了一个电影。 — Mình đã xem một bộ phim."
+    },
+    {
+      "id": "v30-14-24",
+      "hanzi": "字",
+      "pinyin": "zì",
+      "pos": "Danh từ",
+      "meaning": "Chữ",
+      "exampleZh": "我会写这些字了。",
+      "examplePinyin": "Wǒ huì xiě zhèxiē zì le.",
+      "exampleVi": "Em biết viết những chữ này rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Danh từ.",
+      "collocations": [
+        "字 (Chữ)"
+      ],
+      "extraExample": "我会写这些字了。 — Em biết viết những chữ này rồi."
+    },
+    {
+      "id": "v30-14-25",
+      "hanzi": "他们",
+      "pinyin": "tāmen",
+      "pos": "Đại từ",
+      "meaning": "Họ, bọn họ (nam/chung)",
+      "exampleZh": "上学后，他们都忙了。",
+      "examplePinyin": "Shàngxué hòu, tāmen dōu máng le.",
+      "exampleVi": "Sau khi vào học, các con đều bận rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Đại từ.",
+      "collocations": [
+        "他们 (Họ, bọn họ (nam/chung))"
+      ],
+      "extraExample": "上学后，他们都忙了。 — Sau khi vào học, các con đều bận rồi."
+    },
+    {
+      "id": "v30-14-26",
+      "hanzi": "她们",
+      "pinyin": "tāmen",
+      "pos": "Đại từ",
+      "meaning": "Họ, các chị ấy (nữ)",
+      "exampleZh": "她们都会写汉字了。",
+      "examplePinyin": "Tāmen dōu huì xiě Hànzì le.",
+      "exampleVi": "Các cô ấy đều biết viết chữ Hán rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Đại từ.",
+      "collocations": [
+        "她们 (Họ, các chị ấy (nữ))"
+      ],
+      "extraExample": "她们都会写汉字了。 — Các cô ấy đều biết viết chữ Hán rồi."
+    },
+    {
+      "id": "v30-14-27",
+      "hanzi": "它们",
+      "pinyin": "tāmen",
+      "pos": "Đại từ",
+      "meaning": "Chúng (đồ vật/động vật)",
+      "exampleZh": "它们都很漂亮。",
+      "examplePinyin": "Tāmen dōu hěn piàoliang.",
+      "exampleVi": "Chúng đều rất đẹp.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 14. Từ loại: Đại từ.",
+      "collocations": [
+        "它们 (Chúng (đồ vật/động vật))"
+      ],
+      "extraExample": "它们都很漂亮。 — Chúng đều rất đẹp."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-14-1",
+      "title": "Bài khóa 1: Kể chuyện chuyến đi tàu",
+      "context": "Bạch Gia Nguyệt và Trần Thiên Trung kể về chuyến ngoại khóa.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "left",
+          "zh": "你们上火车后看见王老师了吗？你呢？",
+          "pinyin": "Nǐmen shàng huǒchē hòu kànjiàn Wáng lǎoshī le ma? Nǐ ne?",
+          "vi": "Lên tàu các bạn có thấy cô Vương không? Còn bạn?"
+        },
+        {
+          "speaker": "Trần Thiên Trung",
+          "side": "right",
+          "zh": "没看见。中午车开后，有些人在看书，有些人睡觉了。我看了一个电影。",
+          "pinyin": "Méi kànjiàn. Zhōngwǔ chē kāi hòu, yǒuxiē rén zài kànshū, yǒuxiē rén shuìjiào le. Wǒ kànle yí gè diànyǐng.",
+          "vi": "Không thấy. Sau khi tàu chạy, một số người đọc sách, một số người ngủ. Mình đã xem một bộ phim."
+        }
+      ]
+    },
+    {
+      "id": "d30-14-2",
+      "title": "Bài khóa 2: Kiểm tra viết chữ Hán",
+      "context": "Cô Vương Nhất Phi hỏi tình hình học viết chữ Hán trên lớp.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "left",
+          "zh": "你们会说汉语了，也会写汉字了吗？",
+          "pinyin": "Nǐmen huì shuō Hànyǔ le, yě huì xiě Hànzì le ma?",
+          "vi": "Các em biết nói tiếng Hán rồi, cũng biết viết chữ Hán rồi chứ?"
+        },
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "right",
+          "zh": "我们都会写了。",
+          "pinyin": "Wǒmen dōu huì xiě le.",
+          "vi": "Chúng em đều biết viết rồi ạ."
+        },
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "left",
+          "zh": "请大家不要说话！你们都会写哪些汉字了？",
+          "pinyin": "Qǐng dàjiā búyào shuōhuà! Nǐmen dōu huì xiě nǎxiē Hànzì le?",
+          "vi": "Mọi người đừng nói chuyện! Các em biết viết những chữ Hán nào rồi?"
+        }
+      ]
+    },
+    {
+      "id": "d30-14-3",
+      "title": "Bài khóa 3: Các con chuyển cấp",
+      "context": "Lưu Minh và Vương Nhất Tuyết nói chuyện về năm học mới của hai con.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Lưu Minh",
+          "side": "left",
+          "zh": "明年女儿上中学。我们家有了一个中学生。",
+          "pinyin": "Míngnián nǚ'ér shàng zhōngxué. Wǒmen jiā yǒule yí gè zhōngxuéshēng.",
+          "vi": "Sang năm con gái lên trung học. Nhà mình có một học sinh trung học rồi."
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "right",
+          "zh": "对。儿子也上小学了。太晚了，睡觉吧。",
+          "pinyin": "Duì. Érzi yě shàng xiǎoxué le. Tài wǎn le, shuìjiào ba.",
+          "vi": "Đúng vậy. Con trai cũng lên tiểu học. Muộn quá rồi, đi ngủ thôi."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-14-1",
+      "title": "1. Trợ từ động thái 了 (2) & Từ li hợp (离合词)",
+      "formula": "V + 了 + Tân ngữ (Phủ định dùng 没 và bỏ 了) | Từ li hợp: 睡觉 → 睡了一觉, 上课 → 上了课, 说话 → 说了话",
+      "usage": "Khi từ li hợp (上课, 下班, 睡觉, 生病, 说话) kết hợp với 了 hoặc số lượng, các thành phần đó chen VÀO GIỮA hai chữ.",
+      "explanation": "Ví dụ tr.106: 睡了一觉 / 上中文课 / 生了大病 / 说了很多话.",
+      "examples": [
+        {
+          "zh": "我看了一个电影。",
+          "pinyin": "Wǒ kànle yí gè diànyǐng.",
+          "vi": "Mình đã xem một bộ phim."
+        },
+        {
+          "zh": "我昨天没去商店买东西。",
+          "pinyin": "Wǒ zuótiān méi qù shāngdiàn mǎi dōngxi.",
+          "vi": "Hôm qua mình đã không đi cửa hàng mua đồ."
+        }
+      ],
+      "commonMistake": "Viết '睡觉了一觉' (SAI). Phải tách thành '睡了一觉'.",
+      "comparison": "Phủ định quá khứ với 没 thì KHÔNG dùng 了."
+    },
+    {
+      "id": "g30-14-2",
+      "title": "2. Phó từ phạm vi 都 (dōu) & Phân biệt 他们 / 她们 / 它们",
+      "formula": "Đối tượng bao quát + 都 + (Không/Chưa) + Vị ngữ",
+      "usage": "Đối tượng bao quát đứng TRƯỚC 都; từ phủ định đứng SAU 都 (同学们都没听见).",
+      "explanation": "Ba đại từ cùng đọc tāmen: 他们 (nam/hỗn hợp), 她们 (nữ), 它们 (đồ vật/động vật).",
+      "examples": [
+        {
+          "zh": "同学们都没听见。",
+          "pinyin": "Tóngxuémen dōu méi tīngjiàn.",
+          "vi": "Các bạn học đều không nghe thấy."
+        }
+      ],
+      "commonMistake": "Đặt 都 trước chủ ngữ (SAI).",
+      "comparison": "都不 (đều không) khác với 不都 (không phải tất cả đều)."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "我看了一个电影。",
+      "pinyin": "Wǒ kànle yí gè diànyǐng.",
+      "vi": "Mình đã xem một bộ phim."
+    },
+    {
+      "zh": "请大家不要说话！",
+      "pinyin": "Qǐng dàjiā búyào shuōhuà!",
+      "vi": "Mọi người đừng nói chuyện!"
+    },
+    {
+      "zh": "我们都会写这些汉字了。",
+      "pinyin": "Wǒmen dōu huì xiě zhèxiē Hànzì le.",
+      "vi": "Chúng em đều biết viết những chữ Hán này rồi."
+    },
+    {
+      "zh": "明年女儿上中学，儿子上小学。",
+      "pinyin": "Míngnián nǚ'ér shàng zhōngxué, érzi shàng xiǎoxué.",
+      "vi": "Sang năm con gái lên trung học, con trai lên tiểu học."
+    },
+    {
+      "zh": "太晚了，睡觉吧。",
+      "pinyin": "Tài wǎn le, shuìjiào ba.",
+      "vi": "Muộn quá rồi, đi ngủ thôi."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-14-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "shàng",
+          "answer": "上",
+          "meaning": "Lên (xe, tàu) / Học (cấp học)"
+        },
+        {
+          "pinyin": "huǒchē",
+          "answer": "火车",
+          "meaning": "Tàu hỏa, xe lửa"
+        },
+        {
+          "pinyin": "zhōngwǔ",
+          "answer": "中午",
+          "meaning": "Buổi trưa"
+        },
+        {
+          "pinyin": "kāi",
+          "answer": "开",
+          "meaning": "Lái, chạy, khởi hành"
+        },
+        {
+          "pinyin": "yǒuxiē",
+          "answer": "有些",
+          "meaning": "Có một số (cũng nói 有的)"
+        },
+        {
+          "pinyin": "xiě",
+          "answer": "写",
+          "meaning": "Viết"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 14.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 14"
+    },
+    {
+      "id": "q30-14-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Những... nào"
+        },
+        {
+          "key": "B",
+          "label": "Nghe"
+        },
+        {
+          "key": "C",
+          "label": "Đều"
+        },
+        {
+          "key": "D",
+          "label": "Đừng, không được"
+        },
+        {
+          "key": "E",
+          "label": "Nói chuyện"
+        },
+        {
+          "key": "F",
+          "label": "Nghe thấy"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "都",
+          "pinyin": "dōu",
+          "answerKey": "C"
+        },
+        {
+          "hanzi": "听见",
+          "pinyin": "tīngjiàn",
+          "answerKey": "F"
+        },
+        {
+          "hanzi": "不要",
+          "pinyin": "búyào",
+          "answerKey": "D"
+        },
+        {
+          "hanzi": "说话",
+          "pinyin": "shuōhuà",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "听",
+          "pinyin": "tīng",
+          "answerKey": "B"
+        },
+        {
+          "hanzi": "哪些",
+          "pinyin": "nǎxiē",
+          "answerKey": "A"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 14.",
+      "relatedKnowledge": "Từ mới Bài 14"
+    },
+    {
+      "id": "q30-14-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.110] 我写 ___ 很多汉字。(上学 / 了 / 都 / 听见 / 有的)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "了"
+      ],
+      "explanation": "Trợ từ động thái 「了」 sau động từ 「写」.",
+      "relatedKnowledge": "Trợ từ động thái 了 (2)",
+      "section": "writing"
+    },
+    {
+      "id": "q30-14-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.110] 他没 ___ 老师说什么。(上学 / 了 / 都 / 听见 / 有的)",
+      "placeholder": "Nhập 2 chữ Hán...",
+      "acceptedAnswers": [
+        "听见"
+      ],
+      "explanation": "没听见 = không nghe thấy.",
+      "relatedKnowledge": "Từ mới Bài 14",
+      "section": "writing"
+    },
+    {
+      "id": "q30-14-03",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Sổ tay tr.110] 儿子和女儿都上小学了，他们会写很多字了。★ 说话人的两个孩子是：",
+      "options": [
+        "小学生",
+        "中学生",
+        "大学生"
+      ],
+      "answer": "小学生",
+      "explanation": "Cả hai đều lên tiểu học -> 「小学生」.",
+      "relatedKnowledge": "Đọc hiểu HSK 3.0",
+      "section": "reading"
+    },
+    {
+      "id": "q30-14-04",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Theo quy tắc từ li hợp (SGK tr.106), cách tách ĐÚNG của 「睡觉」 khi thêm 「了一觉」 là:",
+      "options": [
+        "睡觉了一觉",
+        "睡了一觉",
+        "了一觉睡觉",
+        "睡一觉了"
+      ],
+      "answer": "睡了一觉",
+      "explanation": "「睡觉」 là từ li hợp, phải tách thành 「睡 + 了 + 一 + 觉」.",
+      "relatedKnowledge": "Từ li hợp (1)",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-14-05",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Ba đại từ 「他们」, 「她们」, 「它们」 đều đọc là 「tāmen」 nhưng lần lượt chỉ nam/chung, nữ và đồ vật/động vật.",
+      "answer": true,
+      "explanation": "Đúng (mục Tiểu Ngữ giúp sức tr.109).",
+      "relatedKnowledge": "Đại từ số nhiều",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-14-06",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu đúng (Mình đã xem một bộ phim):",
+      "tokens": [
+        "电影",
+        "一个",
+        "看了",
+        "我"
+      ],
+      "answer": [
+        "我",
+        "看了",
+        "一个",
+        "电影"
+      ],
+      "acceptedSequences": [
+        [
+          "我",
+          "看了",
+          "一个",
+          "电影"
+        ]
+      ],
+      "explanation": "我看了一个电影。",
+      "relatedKnowledge": "Tiêu đề Bài 14",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-14-07",
+      "type": "matching",
+      "points": 1,
+      "prompt": "[Sổ tay tr.108–109] Nối câu hỏi với câu trả lời đúng:",
+      "pairs": [
+        {
+          "left": "谁去学校了？",
+          "right": "我们都去了。"
+        },
+        {
+          "left": "你下午没去医院吗？",
+          "right": "是的，我睡了一觉。"
+        },
+        {
+          "left": "你今天上午都忙了些什么？",
+          "right": "写字、看书、吃饭。"
+        }
+      ],
+      "explanation": "Khớp Phần 2 Đọc hiểu Sổ tay Bài 14.",
+      "relatedKnowledge": "Nối câu HSK 3.0",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-14-08",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「说话」:",
+      "options": [
+        "shuōhuà",
+        "suōhuà",
+        "shuóhuà",
+        "shuōhuá"
+      ],
+      "answer": "shuōhuà",
+      "explanation": "说 thanh 1 (shuō) + 话 thanh 4 (huà).",
+      "relatedKnowledge": "Phát âm Bài 14",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-14-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết Trần Thiên Trung đã làm gì trên tàu:",
+      "audioText": "中午车开后，有些人在看书，有些人睡觉了，我看了一个电影。",
+      "options": [
+        "Đọc sách",
+        "Ngủ",
+        "Xem một bộ phim"
+      ],
+      "answer": "Xem một bộ phim",
+      "explanation": "「我看了一个电影」.",
+      "relatedKnowledge": "Nghe hiểu Bài 14",
+      "section": "listening"
+    },
+    {
+      "id": "q30-14-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Mọi người đừng nói chuyện!\"",
+      "sampleAnswer": "请大家不要说话！",
+      "acceptedAnswers": [
+        "大家不要说话",
+        "大家不要说话！",
+        "请大家不要说话",
+        "请大家不要说话！"
+      ],
+      "requiredKeywords": [
+        "大家",
+        "不要",
+        "说话"
+      ],
+      "explanation": "请大家不要说话！",
+      "relatedKnowledge": "Bài khóa 2",
+      "section": "writing"
+    },
+    {
+      "id": "q30-14-11",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Phân biệt đúng 3 đại từ số nhiều ngôi thứ 3 cùng đọc là 「tāmen」:",
+      "options": [
+        "他们 (nam/nhóm hỗn hợp) – 她们 (toàn nữ) – 它们 (đồ vật/động vật)",
+        "她们 (nam) – 他们 (đồ vật) – 它们 (nữ)",
+        "它们 (người lớn) – 他们 (học sinh) – 她们 (giáo viên)",
+        "Ba chữ viết khác nhau nhưng dùng thế nào cũng được"
+      ],
+      "answer": "他们 (nam/nhóm hỗn hợp) – 她们 (toàn nữ) – 它们 (đồ vật/động vật)",
+      "explanation": "Mở rộng từ 「他/她/它」 (Bài 3–5) + hậu tố 「们」 (Bài 1): 「他们 / 她们 / 它们」.",
+      "relatedKnowledge": "Phân biệt 他们 / 她们 / 它们"
+    },
+    {
+      "id": "q30-14-12",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 4 & 11",
+      "prompt": "[Ôn Bài 4, 11, 14] Sắp xếp 3 cấp học theo đúng thứ tự từ nhỏ đến lớn:",
+      "options": [
+        "小学 (tiểu học) → 中学 (trung học) → 大学 (đại học)",
+        "中学 → 小学 → 大学",
+        "大学 → 中学 → 小学",
+        "小学 → 大学 → 中学"
+      ],
+      "answer": "小学 (tiểu học) → 中学 (trung học) → 大学 (đại học)",
+      "explanation": "「大学/大学生」 học ở Bài 11; Bài 14 hoàn thiện đủ hệ thống 「小学/小学生 → 中学/中学生 → 大学/大学生」.",
+      "relatedKnowledge": "Hệ thống cấp học Bài 11 & 14"
+    },
+    {
+      "id": "q30-14-13",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Trong câu với phó từ phạm vi 「都 (đều)」, vị trí nào viết ĐÚNG ngữ pháp?",
+      "options": [
+        "都我们会写汉字了。",
+        "我们都会写汉字了。",
+        "我们会写都汉字了。",
+        "我们写汉字都会了。"
+      ],
+      "answer": "我们都会写汉字了。",
+      "explanation": "Phó từ 「都」 luôn đứng SAU chủ ngữ số nhiều và TRƯỚC động từ/động từ năng nguyện: 「我们都会写汉字了。」.",
+      "relatedKnowledge": "Vị trí phó từ phạm vi 都"
+    },
+    {
+      "id": "q30-14-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Khi muốn nhắc nhở lịch sự cả lớp 'Xin mọi người đừng nói chuyện!', ta dùng cấu trúc nào?",
+      "options": [
+        "请大家不要说话！",
+        "请大家没有说话！",
+        "请大家不说话吗！",
+        "请大家说话不要！"
+      ],
+      "answer": "请大家不要说话！",
+      "explanation": "「不要 + Động từ」 dùng trong câu cầu khiến biểu thị khuyên ngăn/cấm đoán ('đừng...').",
+      "relatedKnowledge": "Câu cầu khiến với 不要"
+    },
+    {
+      "id": "q30-14-15",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "白家月：你们上火车后看见王老师了吗？\n陈天中：没看见。中午车开后，有些人在看书，有些人睡觉了。我看了一个电影。",
+      "passagePinyin": "Bái Jiāyuè: Nǐmen shàng huǒchē hòu kànjiàn Wáng lǎoshī le ma? Chén Tiānzhōng: Méi kànjiàn. Zhōngwǔ chē kāi hòu, yǒuxiē rén zài kànshū, yǒuxiē rén shuìjiào le. Wǒ kàn le yí gè diànyǐng.",
+      "prompt": "Sau khi tàu hỏa khởi hành vào buổi trưa, Trần Thiên Trung đã làm gì?",
+      "options": [
+        "Nói chuyện với cô giáo Vương",
+        "Đọc một quyển sách tiếng Trung",
+        "Ngủ suốt chuyến đi",
+        "Xem một bộ phim"
+      ],
+      "answer": "Xem một bộ phim",
+      "explanation": "Trần Thiên Trung nói: 「没看见。…我看了一个电影。」.",
+      "relatedKnowledge": "Bài khóa 1 – Trợ từ động thái 了"
+    },
+    {
+      "id": "q30-14-16",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "reviewTag": "Ôn Bài 12",
+      "prompt": "[Ôn Bài 12 + 14] Trong câu phủ định một hành động đã xảy ra như 「我没看见王老师。」, ta dùng 「没」 và KHÔNG thêm 「了」 sau động từ.",
+      "answer": true,
+      "explanation": "Đúng! Quy tắc quan trọng của HSK 1: Khẳng định có thể dùng 「V + 了」 (「我看了一个电影」), nhưng phủ định quá khứ dùng 「没 + V」 và bỏ 「了」 (「我没看见」).",
+      "relatedKnowledge": "Phủ định của 了 (Bài 12 & 14)"
+    },
+    {
+      "id": "q30-14-17",
+      "section": "writing",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 1 chữ Hán trợ từ động thái chỉ hoàn thành: 我看___一个电影。(Tôi đã xem một bộ phim.)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "了"
+      ],
+      "explanation": "Trợ từ động thái 「了」 đặt ngay sau động từ khi tân ngữ có định ngữ số lượng (「一个电影」).",
+      "relatedKnowledge": "Trợ từ động thái 了 (2)"
+    },
+    {
+      "id": "q30-14-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "reviewTag": "Ôn Bài 5",
+      "prompt": "[Ôn Bài 5 + 14] Sắp xếp thành câu nói về khả năng viết chữ Hán của cả lớp:",
+      "tokens": [
+        "会",
+        "写汉字了",
+        "都",
+        "我们"
+      ],
+      "answer": [
+        "我们",
+        "都",
+        "会",
+        "写汉字了"
+      ],
+      "acceptedSequences": [
+        [
+          "我们",
+          "都",
+          "会",
+          "写汉字了"
+        ]
+      ],
+      "explanation": "Trật tự: Chủ ngữ (我们) + 都 + 会 (Bài 5) + 写汉字了 (Bài 14).",
+      "relatedKnowledge": "Ôn Bài 5 (会) + Bài 14 (都 / 了)"
+    },
+    {
+      "id": "q30-14-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "明年女儿上中学，儿子也上小学了。太晚了，大家睡觉吧。",
+      "prompt": "Nghe đoạn âm thanh và chọn thông tin ĐÚNG về hai người con:",
+      "options": [
+        "Sang năm con gái vào đại học",
+        "Sang năm con gái học trung học, còn con trai học tiểu học rồi",
+        "Cả hai đều đang học tiểu học",
+        "Hai bạn nhỏ đang đi tàu hỏa"
+      ],
+      "answer": "Sang năm con gái học trung học, còn con trai học tiểu học rồi",
+      "explanation": "Lời nghe: 「明年女儿上中学，儿子也上小学了。」.",
+      "relatedKnowledge": "Nghe hiểu Bài 14"
+    },
+    {
+      "id": "q30-14-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 1 & 11",
+      "audioText": "A：同学们，请不要说话！你们都会写哪些汉字了？ B：王老师，我们都会写'汉语'和'学生'了。",
+      "prompt": "[Ôn Bài 1, 11, 14] Nghe hội thoại trong lớp và chọn ý đúng:",
+      "options": [
+        "Cô Vương yêu cầu học sinh đọc báo",
+        "Cô Vương nhắc cả lớp giữ trật tự và hỏi các em đã biết viết những chữ Hán nào",
+        "Học sinh nói chưa biết viết chữ nào",
+        "Lớp học đã tan học"
+      ],
+      "answer": "Cô Vương nhắc cả lớp giữ trật tự và hỏi các em đã biết viết những chữ Hán nào",
+      "explanation": "Kết hợp 「同学们 / 王老师 / 学生」 (Bài 1) với 「不要说话 / 都 / 哪些汉字」 (Bài 14).",
+      "relatedKnowledge": "Nghe tổng hợp Bài 1, 11, 14"
+    },
+    {
+      "id": "q30-14-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Tôi đã xem một bộ phim.",
+          "sampleAnswer": "我看了一个电影。",
+          "pinyin": "Wǒ kàn le yí gè diànyǐng.",
+          "acceptedAnswers": [
+            "我看了一个电影"
+          ],
+          "requiredKeywords": [
+            "看了",
+            "电影"
+          ]
+        },
+        {
+          "vi": "Xin mọi người đừng nói chuyện!",
+          "sampleAnswer": "请大家不要说话！",
+          "pinyin": "Qǐng dàjiā búyào shuōhuà!",
+          "acceptedAnswers": [
+            "请大家不要说话"
+          ],
+          "requiredKeywords": [
+            "请",
+            "大家",
+            "不要",
+            "说话"
+          ]
+        },
+        {
+          "vi": "Chúng em đều biết viết chữ Hán rồi.",
+          "sampleAnswer": "我们都会写汉字了。",
+          "pinyin": "Wǒmen dōu huì xiě Hànzì le.",
+          "acceptedAnswers": [
+            "我们都会写汉字了"
+          ],
+          "requiredKeywords": [
+            "都",
+            "会",
+            "写",
+            "汉字"
+          ]
+        },
+        {
+          "vi": "Sang năm con gái lên trung học, con trai cũng học tiểu học rồi.",
+          "sampleAnswer": "明年女儿上中学，儿子也上小学了。",
+          "pinyin": "Míngnián nǚ'ér shàng zhōngxué, érzi yě shàng xiǎoxué le.",
+          "acceptedAnswers": [
+            "明年女儿上中学儿子也上小学了"
+          ],
+          "requiredKeywords": [
+            "明年",
+            "中学",
+            "小学"
+          ]
+        },
+        {
+          "vi": "[Ôn Bài 8 & 11] Sau khi lên tàu hỏa, có người đang đọc sách, có người ngủ rồi.",
+          "sampleAnswer": "上火车后，有些人在看书，有些人睡觉了。",
+          "pinyin": "Shàng huǒchē hòu, yǒuxiē rén zài kànshū, yǒuxiē rén shuìjiào le.",
+          "acceptedAnswers": [
+            "上火车后有些人在看书有些人睡觉了",
+            "上火车后有的人在看书有的人睡觉了"
+          ],
+          "requiredKeywords": [
+            "火车",
+            "看书",
+            "睡觉"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 14 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 14"
+    }
+  ]
+}

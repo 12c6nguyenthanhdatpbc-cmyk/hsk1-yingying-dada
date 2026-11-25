@@ -1,0 +1,1047 @@
+{
+  "id": "hsk1-04",
+  "courseId": "hsk1",
+  "order": 4,
+  "group": "Bài 01–05",
+  "zhTitle": "我有两个孩子",
+  "pinyinTitle": "Wǒ yǒu liǎng gè háizi",
+  "viTitle": "Chị có hai con",
+  "image": "images/hsk1-lesson04.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 4 Giáo trình New HSK 1 (HSK 3.0): Câu chữ 有 (1), số đếm 0–9999 & 二/两, trợ từ 呢 (1), lượng từ 口/个 và cách hỏi tuổi (几岁 vs 多大).",
+  "vocabulary": [
+    {
+      "id": "v30-04-01",
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "pos": "Động từ",
+      "meaning": "Có",
+      "exampleZh": "她有二十个学生。",
+      "examplePinyin": "Tā yǒu èrshí gè xuésheng.",
+      "exampleVi": "Dì ấy có 20 học sinh.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Động từ.",
+      "collocations": [
+        "有 (Có)"
+      ],
+      "extraExample": "她有二十个学生。 — Dì ấy có 20 học sinh."
+    },
+    {
+      "id": "v30-04-02",
+      "hanzi": "多少",
+      "pinyin": "duōshao",
+      "pos": "Đại từ",
+      "meaning": "Bao nhiêu",
+      "exampleZh": "她有多少个学生？",
+      "examplePinyin": "Tā yǒu duōshao gè xuésheng?",
+      "exampleVi": "Dì ấy có bao nhiêu học sinh?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Đại từ.",
+      "collocations": [
+        "多少 (Bao nhiêu)"
+      ],
+      "extraExample": "她有多少个学生？ — Dì ấy có bao nhiêu học sinh?"
+    },
+    {
+      "id": "v30-04-03",
+      "hanzi": "个",
+      "pinyin": "gè",
+      "pos": "Lượng từ",
+      "meaning": "Cái, người (lượng từ chung)",
+      "exampleZh": "我有两个孩子。",
+      "examplePinyin": "Wǒ yǒu liǎng gè háizi.",
+      "exampleVi": "Chị có hai người con.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Lượng từ.",
+      "collocations": [
+        "个 (Cái, người (lượng từ chung))"
+      ],
+      "extraExample": "我有两个孩子。 — Chị có hai người con."
+    },
+    {
+      "id": "v30-04-04",
+      "hanzi": "哥哥",
+      "pinyin": "gēge",
+      "pos": "Danh từ",
+      "meaning": "Anh trai",
+      "exampleZh": "我有两个哥哥。",
+      "examplePinyin": "Wǒ yǒu liǎng gè gēge.",
+      "exampleVi": "Chị có hai anh trai.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Danh từ.",
+      "collocations": [
+        "哥哥 (Anh trai)"
+      ],
+      "extraExample": "我有两个哥哥。 — Chị có hai anh trai."
+    },
+    {
+      "id": "v30-04-05",
+      "hanzi": "呢",
+      "pinyin": "ne",
+      "pos": "Trợ từ",
+      "meaning": "Thì sao (cuối câu hỏi tỉnh lược)",
+      "exampleZh": "我有两个哥哥，你呢？",
+      "examplePinyin": "Wǒ yǒu liǎng gè gēge, nǐ ne?",
+      "exampleVi": "Chị có hai anh trai, em thì sao?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Trợ từ.",
+      "collocations": [
+        "呢 (Thì sao (cuối câu hỏi tỉnh lược))"
+      ],
+      "extraExample": "我有两个哥哥，你呢？ — Chị có hai anh trai, em thì sao?"
+    },
+    {
+      "id": "v30-04-06",
+      "hanzi": "没有",
+      "pinyin": "méiyǒu",
+      "pos": "Động từ",
+      "meaning": "Không có",
+      "exampleZh": "我没有哥哥。",
+      "examplePinyin": "Wǒ méiyǒu gēge.",
+      "exampleVi": "Em không có anh trai.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Động từ.",
+      "collocations": [
+        "没有 (Không có)"
+      ],
+      "extraExample": "我没有哥哥。 — Em không có anh trai."
+    },
+    {
+      "id": "v30-04-07",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "pos": "Danh từ",
+      "meaning": "Gia đình, nhà",
+      "exampleZh": "你家有几口人？",
+      "examplePinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+      "exampleVi": "Nhà em có mấy người?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Danh từ.",
+      "collocations": [
+        "家 (Gia đình, nhà)"
+      ],
+      "extraExample": "你家有几口人？ — Nhà em có mấy người?"
+    },
+    {
+      "id": "v30-04-08",
+      "hanzi": "几",
+      "pinyin": "jǐ",
+      "pos": "Đại từ",
+      "meaning": "Mấy",
+      "exampleZh": "您儿子几岁？",
+      "examplePinyin": "Nín érzi jǐ suì?",
+      "exampleVi": "Con trai chị mấy tuổi?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Đại từ.",
+      "collocations": [
+        "几 (Mấy)"
+      ],
+      "extraExample": "您儿子几岁？ — Con trai chị mấy tuổi?"
+    },
+    {
+      "id": "v30-04-09",
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "pos": "Lượng từ",
+      "meaning": "Khẩu (chỉ người trong gia đình)",
+      "exampleZh": "我家有四口人。",
+      "examplePinyin": "Wǒ jiā yǒu sì kǒu rén.",
+      "exampleVi": "Nhà em có bốn người.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Lượng từ.",
+      "collocations": [
+        "口 (Khẩu (chỉ người trong gia đình))"
+      ],
+      "extraExample": "我家有四口人。 — Nhà em có bốn người."
+    },
+    {
+      "id": "v30-04-10",
+      "hanzi": "爸爸",
+      "pinyin": "bàba",
+      "pos": "Danh từ",
+      "meaning": "Bố, ba",
+      "exampleZh": "爸爸、妈妈、妹妹和我。",
+      "examplePinyin": "Bàba, māma, mèimei hé wǒ.",
+      "exampleVi": "Bố, mẹ, em gái và em.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Danh từ.",
+      "collocations": [
+        "爸爸 (Bố, ba)"
+      ],
+      "extraExample": "爸爸、妈妈、妹妹和我。 — Bố, mẹ, em gái và em."
+    },
+    {
+      "id": "v30-04-11",
+      "hanzi": "妈妈",
+      "pinyin": "māma",
+      "pos": "Danh từ",
+      "meaning": "Mẹ",
+      "exampleZh": "爸爸、妈妈、妹妹和我。",
+      "examplePinyin": "Bàba, māma, mèimei hé wǒ.",
+      "exampleVi": "Bố, mẹ, em gái và em.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Danh từ.",
+      "collocations": [
+        "妈妈 (Mẹ)"
+      ],
+      "extraExample": "爸爸、妈妈、妹妹和我。 — Bố, mẹ, em gái và em."
+    },
+    {
+      "id": "v30-04-12",
+      "hanzi": "妹妹",
+      "pinyin": "mèimei",
+      "pos": "Danh từ",
+      "meaning": "Em gái",
+      "exampleZh": "我有一个妹妹。",
+      "examplePinyin": "Wǒ yǒu yí gè mèimei.",
+      "exampleVi": "Em có một em gái.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Danh từ.",
+      "collocations": [
+        "妹妹 (Em gái)"
+      ],
+      "extraExample": "我有一个妹妹。 — Em có một em gái."
+    },
+    {
+      "id": "v30-04-13",
+      "hanzi": "和",
+      "pinyin": "hé",
+      "pos": "Liên từ",
+      "meaning": "Và",
+      "exampleZh": "妹妹和我。",
+      "examplePinyin": "Mèimei hé wǒ.",
+      "exampleVi": "Em gái và em.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Liên từ.",
+      "collocations": [
+        "和 (Và)"
+      ],
+      "extraExample": "妹妹和我。 — Em gái và em."
+    },
+    {
+      "id": "v30-04-14",
+      "hanzi": "儿子",
+      "pinyin": "érzi",
+      "pos": "Danh từ",
+      "meaning": "Con trai",
+      "exampleZh": "这是您儿子吗？",
+      "examplePinyin": "Zhè shì nín érzi ma?",
+      "exampleVi": "Đây là con trai chị phải không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Danh từ.",
+      "collocations": [
+        "儿子 (Con trai)"
+      ],
+      "extraExample": "这是您儿子吗？ — Đây là con trai chị phải không?"
+    },
+    {
+      "id": "v30-04-15",
+      "hanzi": "孩子",
+      "pinyin": "háizi",
+      "pos": "Danh từ",
+      "meaning": "Con, trẻ con",
+      "exampleZh": "我有两个孩子。",
+      "examplePinyin": "Wǒ yǒu liǎng gè háizi.",
+      "exampleVi": "Chị có hai con.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Danh từ.",
+      "collocations": [
+        "孩子 (Con, trẻ con)"
+      ],
+      "extraExample": "我有两个孩子。 — Chị có hai con."
+    },
+    {
+      "id": "v30-04-16",
+      "hanzi": "女儿",
+      "pinyin": "nǚ'ér",
+      "pos": "Danh từ",
+      "meaning": "Con gái",
+      "exampleZh": "您女儿多大？",
+      "examplePinyin": "Nín nǚ'ér duō dà?",
+      "exampleVi": "Con gái chị bao nhiêu tuổi?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Danh từ.",
+      "collocations": [
+        "女儿 (Con gái)"
+      ],
+      "extraExample": "您女儿多大？ — Con gái chị bao nhiêu tuổi?"
+    },
+    {
+      "id": "v30-04-17",
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "pos": "Lượng từ",
+      "meaning": "Tuổi",
+      "exampleZh": "他今年五岁。",
+      "examplePinyin": "Tā jīnnián wǔ suì.",
+      "exampleVi": "Cháu năm nay năm tuổi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Lượng từ.",
+      "collocations": [
+        "岁 (Tuổi)"
+      ],
+      "extraExample": "他今年五岁。 — Cháu năm nay năm tuổi."
+    },
+    {
+      "id": "v30-04-18",
+      "hanzi": "今年",
+      "pinyin": "jīnnián",
+      "pos": "Danh từ",
+      "meaning": "Năm nay",
+      "exampleZh": "她今年十二。",
+      "examplePinyin": "Tā jīnnián shí'èr.",
+      "exampleVi": "Cháu năm nay mười hai tuổi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Danh từ.",
+      "collocations": [
+        "今年 (Năm nay)"
+      ],
+      "extraExample": "她今年十二。 — Cháu năm nay mười hai tuổi."
+    },
+    {
+      "id": "v30-04-19",
+      "hanzi": "多大",
+      "pinyin": "duō dà",
+      "pos": "Cụm từ",
+      "meaning": "Bao nhiêu tuổi (cho người >10 tuổi)",
+      "exampleZh": "您女儿多大？",
+      "examplePinyin": "Nín nǚ'ér duō dà?",
+      "exampleVi": "Con gái chị bao nhiêu tuổi?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Cụm từ.",
+      "collocations": [
+        "多大 (Bao nhiêu tuổi (cho người >10 tuổi))"
+      ],
+      "extraExample": "您女儿多大？ — Con gái chị bao nhiêu tuổi?"
+    },
+    {
+      "id": "v30-04-20",
+      "hanzi": "他",
+      "pinyin": "tā",
+      "pos": "Đại từ",
+      "meaning": "Anh ấy, cậu ấy, ông ấy",
+      "exampleZh": "他今年五岁。",
+      "examplePinyin": "Tā jīnnián wǔ suì.",
+      "exampleVi": "Cháu năm nay năm tuổi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Đại từ.",
+      "collocations": [
+        "他 (Anh ấy, cậu ấy, ông ấy)"
+      ],
+      "extraExample": "他今年五岁。 — Cháu năm nay năm tuổi."
+    },
+    {
+      "id": "v30-04-21",
+      "hanzi": "多",
+      "pinyin": "duō",
+      "pos": "Đại từ",
+      "meaning": "Bao nhiêu (phó từ chỉ mức độ)",
+      "exampleZh": "您女儿多大？",
+      "examplePinyin": "Nín nǚ'ér duō dà?",
+      "exampleVi": "Con gái chị bao nhiêu tuổi?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Đại từ.",
+      "collocations": [
+        "多 (Bao nhiêu (phó từ chỉ mức độ))"
+      ],
+      "extraExample": "您女儿多大？ — Con gái chị bao nhiêu tuổi?"
+    },
+    {
+      "id": "v30-04-22",
+      "hanzi": "大",
+      "pinyin": "dà",
+      "pos": "Tính từ",
+      "meaning": "Lớn (chỉ tuổi tác)",
+      "exampleZh": "您女儿多大？",
+      "examplePinyin": "Nín nǚ'ér duō dà?",
+      "exampleVi": "Con gái chị bao nhiêu tuổi?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 4. Từ loại: Tính từ.",
+      "collocations": [
+        "大 (Lớn (chỉ tuổi tác))"
+      ],
+      "extraExample": "您女儿多大？ — Con gái chị bao nhiêu tuổi?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-04-1",
+      "title": "Bài khóa 1: Hỏi về số học sinh của cô Vương",
+      "context": "Lưu Minh và Vương Nhất Tuyết trò chuyện ở nhà.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Lưu Minh",
+          "side": "left",
+          "zh": "一飞忙吗？她有多少个学生？",
+          "pinyin": "Yīfēi máng ma? Tā yǒu duōshao gè xuésheng?",
+          "vi": "Nhất Phi có bận không? Dì ấy có bao nhiêu học sinh?"
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "right",
+          "zh": "她很忙。她有二十个学生。",
+          "pinyin": "Tā hěn máng. Tā yǒu èrshí gè xuésheng.",
+          "vi": "Dì ấy rất bận. Dì ấy có hai mươi học sinh."
+        }
+      ]
+    },
+    {
+      "id": "d30-04-2",
+      "title": "Bài khóa 2: Trò chuyện về gia đình tại công ty",
+      "context": "Vương Nhất Tuyết và đồng nghiệp Dương Đồng Lạc trò chuyện giờ nghỉ.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "我有两个哥哥，你呢？",
+          "pinyin": "Wǒ yǒu liǎng gè gēge, nǐ ne?",
+          "vi": "Chị có hai anh trai. Em thì sao?"
+        },
+        {
+          "speaker": "Dương Đồng Lạc",
+          "side": "right",
+          "zh": "我没有哥哥。",
+          "pinyin": "Wǒ méiyǒu gēge.",
+          "vi": "Em không có anh trai."
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "你家有几口人？",
+          "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+          "vi": "Nhà em có mấy người?"
+        },
+        {
+          "speaker": "Dương Đồng Lạc",
+          "side": "right",
+          "zh": "我家有四口人，爸爸、妈妈、妹妹和我。",
+          "pinyin": "Wǒ jiā yǒu sì kǒu rén, bàba, māma, mèimei hé wǒ.",
+          "vi": "Nhà em có bốn người: bố, mẹ, em gái và em."
+        }
+      ]
+    },
+    {
+      "id": "d30-04-3",
+      "title": "Bài khóa 3: Hỏi tuổi hai con",
+      "context": "Dương Đồng Lạc tình cờ gặp Vương Nhất Tuyết đi cùng con trai trên phố.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Dương Đồng Lạc",
+          "side": "left",
+          "zh": "这是您儿子吗？您儿子几岁？",
+          "pinyin": "Zhè shì nín érzi ma? Nín érzi jǐ suì?",
+          "vi": "Đây là con trai chị phải không? Cháu mấy tuổi rồi?"
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "right",
+          "zh": "是的。我有两个孩子，一个儿子，一个女儿。他今年五岁。",
+          "pinyin": "Shì de. Wǒ yǒu liǎng gè háizi, yí gè érzi, yí gè nǚ'ér. Tā jīnnián wǔ suì.",
+          "vi": "Đúng vậy. Chị có hai con, một trai một gái. Cháu năm nay 5 tuổi."
+        },
+        {
+          "speaker": "Dương Đồng Lạc",
+          "side": "left",
+          "zh": "您女儿多大？",
+          "pinyin": "Nín nǚ'ér duō dà?",
+          "vi": "Con gái chị bao nhiêu tuổi?"
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "right",
+          "zh": "她今年十二。",
+          "pinyin": "Tā jīnnián shí'èr.",
+          "vi": "Cháu năm nay mười hai."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-04-1",
+      "title": "1. Câu chữ 有 (1) và phủ định 没/没有",
+      "formula": "Chủ ngữ + 有 / 没(有) + Tân ngữ",
+      "usage": "Biểu thị sự sở hữu người hoặc vật.",
+      "explanation": "Phủ định của 有 luôn là 没 hoặc 没有 (không dùng 不有).",
+      "examples": [
+        {
+          "zh": "我有两个孩子。",
+          "pinyin": "Wǒ yǒu liǎng gè háizi.",
+          "vi": "Chị có hai con."
+        },
+        {
+          "zh": "我没/没有姐姐。",
+          "pinyin": "Wǒ méi/méiyǒu jiějie.",
+          "vi": "Tôi không có chị gái."
+        }
+      ],
+      "commonMistake": "Dùng nhầm '我不有' (SAI).",
+      "comparison": "Phủ định 是 là 不是; phủ định 有 là 没有."
+    },
+    {
+      "id": "g30-04-2",
+      "title": "2. Cách dùng số 2 (二 vs 两) và Danh lượng từ",
+      "formula": "Số thứ tự/số đếm: 二 (十二, 二十二) | Trước lượng từ: 两 (两个人, 两口人, 两本书)",
+      "usage": "Khi đếm số lượng người hoặc vật, sau số từ bắt buộc có lượng từ (口, 个).",
+      "explanation": "Hỏi tuổi trẻ dưới 10 tuổi dùng 几岁; trên 10 tuổi dùng 多大.",
+      "examples": [
+        {
+          "zh": "两个哥哥 / 四口人",
+          "pinyin": "liǎng gè gēge / sì kǒu rén",
+          "vi": "Hai anh trai / Bốn người trong nhà"
+        }
+      ],
+      "commonMistake": "Nói '二个孩子' (SAI). Đúng phải là '两个孩子'.",
+      "comparison": "几岁 (<10 tuổi) ↔ 多大 (>10 tuổi)."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "她有多少个学生？— 她有二十个学生。",
+      "pinyin": "Tā yǒu duōshao gè xuésheng? — Tā yǒu èrshí gè xuésheng.",
+      "vi": "Cô ấy có bao nhiêu học sinh? — Cô ấy có 20 học sinh."
+    },
+    {
+      "zh": "我有两个哥哥，你呢？",
+      "pinyin": "Wǒ yǒu liǎng gè gēge, nǐ ne?",
+      "vi": "Chị có hai anh trai, em thì sao?"
+    },
+    {
+      "zh": "你家有几口人？— 我家有四口人。",
+      "pinyin": "Nǐ jiā yǒu jǐ kǒu rén? — Wǒ jiā yǒu sì kǒu rén.",
+      "vi": "Nhà bạn có mấy người? — Nhà mình có 4 người."
+    },
+    {
+      "zh": "您儿子几岁？— 他今年五岁。",
+      "pinyin": "Nín érzi jǐ suì? — Tā jīnnián wǔ suì.",
+      "vi": "Con trai chị mấy tuổi? — Cháu năm nay 5 tuổi."
+    },
+    {
+      "zh": "您女儿多大？— 她今年十二。",
+      "pinyin": "Nín nǚ'ér duō dà? — Tā jīnnián shí'èr.",
+      "vi": "Con gái chị bao nhiêu tuổi? — Cháu năm nay 12 tuổi."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-4-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "yǒu",
+          "answer": "有",
+          "meaning": "Có"
+        },
+        {
+          "pinyin": "duōshao",
+          "answer": "多少",
+          "meaning": "Bao nhiêu"
+        },
+        {
+          "pinyin": "gè",
+          "answer": "个",
+          "meaning": "Cái, người (lượng từ chung)"
+        },
+        {
+          "pinyin": "gēge",
+          "answer": "哥哥",
+          "meaning": "Anh trai"
+        },
+        {
+          "pinyin": "ne",
+          "answer": "呢",
+          "meaning": "Thì sao (cuối câu hỏi tỉnh lược)"
+        },
+        {
+          "pinyin": "méiyǒu",
+          "answer": "没有",
+          "meaning": "Không có"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 4.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 4"
+    },
+    {
+      "id": "q30-4-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Mẹ"
+        },
+        {
+          "key": "B",
+          "label": "Gia đình, nhà"
+        },
+        {
+          "key": "C",
+          "label": "Em gái"
+        },
+        {
+          "key": "D",
+          "label": "Mấy"
+        },
+        {
+          "key": "E",
+          "label": "Khẩu (chỉ người trong gia đình)"
+        },
+        {
+          "key": "F",
+          "label": "Bố, ba"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "家",
+          "pinyin": "jiā",
+          "answerKey": "B"
+        },
+        {
+          "hanzi": "几",
+          "pinyin": "jǐ",
+          "answerKey": "D"
+        },
+        {
+          "hanzi": "口",
+          "pinyin": "kǒu",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "爸爸",
+          "pinyin": "bàba",
+          "answerKey": "F"
+        },
+        {
+          "hanzi": "妈妈",
+          "pinyin": "māma",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "妹妹",
+          "pinyin": "mèimei",
+          "answerKey": "C"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 4.",
+      "relatedKnowledge": "Từ mới Bài 4"
+    },
+    {
+      "id": "q30-4-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.25] 杨同乐家有四 ___ 人。(呢 / 二十 / 没 / 口 / 大)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "口"
+      ],
+      "explanation": "Lượng từ cho người trong gia đình là 「口」.",
+      "relatedKnowledge": "Danh lượng từ 口",
+      "section": "writing"
+    },
+    {
+      "id": "q30-4-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.25] 王一雪：我有两个孩子，你 ___ ？",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "呢"
+      ],
+      "explanation": "Trợ từ ngữ khí 「呢」 dùng hỏi tỉnh lược (A……，B呢？).",
+      "relatedKnowledge": "Trợ từ 呢 (1)",
+      "section": "writing"
+    },
+    {
+      "id": "q30-4-03",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.25] 杨同乐：您女儿今年多 ___ ？ 王一雪：我女儿今年十二。",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "大"
+      ],
+      "explanation": "Hỏi tuổi người trên 10 tuổi dùng 「多大」.",
+      "relatedKnowledge": "Cách hỏi tuổi",
+      "section": "writing"
+    },
+    {
+      "id": "q30-4-04",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Sổ tay HSK 3.0 tr.21] 我家有三口人，爸爸、妈妈和我。★ 说话人家里有：",
+      "options": [
+        "姐姐",
+        "三口人",
+        "四口人"
+      ],
+      "answer": "三口人",
+      "explanation": "Câu văn nêu rõ 「我家有三口人」.",
+      "relatedKnowledge": "Đọc hiểu mô phỏng HSK 3.0",
+      "section": "reading"
+    },
+    {
+      "id": "q30-4-05",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Chọn cách viết ĐÚNG cho 「2 người con」:",
+      "options": [
+        "二个孩子",
+        "两个孩子",
+        "两孩子",
+        "二口孩子"
+      ],
+      "answer": "两个孩子",
+      "explanation": "Trước lượng từ 「个」 dùng 「两」 (liǎng).",
+      "relatedKnowledge": "Phân biệt 二 và 两",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-4-06",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Khi hai âm tiết mang thanh 3 đi liền nhau (như 你好, 哪里, 很好), âm tiết thứ nhất đọc biến điệu thành thanh 2.",
+      "answer": true,
+      "explanation": "Đúng (Sổ tay tr.13: 214 + 214 → 35 + 214).",
+      "relatedKnowledge": "Biến điệu thanh 3",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-4-07",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu đúng (Tôi có hai người con):",
+      "tokens": [
+        "孩子",
+        "两个",
+        "有",
+        "我"
+      ],
+      "answer": [
+        "我",
+        "有",
+        "两个",
+        "孩子"
+      ],
+      "acceptedSequences": [
+        [
+          "我",
+          "有",
+          "两个",
+          "孩子"
+        ]
+      ],
+      "explanation": "我有两个孩子。",
+      "relatedKnowledge": "Câu chữ 有",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-4-08",
+      "type": "matching",
+      "points": 1,
+      "prompt": "[Sổ tay tr.20] Nối câu hỏi với câu trả lời tương ứng:",
+      "pairs": [
+        {
+          "left": "她是谁？",
+          "right": "我女朋友。"
+        },
+        {
+          "left": "你是法国人吗？",
+          "right": "是的。"
+        },
+        {
+          "left": "您儿子多大？",
+          "right": "他今年5岁。"
+        }
+      ],
+      "explanation": "Khớp Phần 2 Đọc hiểu Sổ tay Bài 4.",
+      "relatedKnowledge": "Nối câu HSK 3.0",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-4-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết con gái Vương Nhất Tuyết năm nay bao nhiêu tuổi:",
+      "audioText": "我有两个孩子，儿子今年五岁，女儿今年十二岁。",
+      "options": [
+        "5 tuổi",
+        "12 tuổi",
+        "20 tuổi"
+      ],
+      "answer": "12 tuổi",
+      "explanation": "女儿今年十二岁 = 12 tuổi.",
+      "relatedKnowledge": "Nghe hiểu Bài 4",
+      "section": "listening"
+    },
+    {
+      "id": "q30-4-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Nhà bạn có mấy người?\"",
+      "sampleAnswer": "你家有几口人？",
+      "acceptedAnswers": [
+        "你家有几口人",
+        "你家有几口人？"
+      ],
+      "requiredKeywords": [
+        "家",
+        "有",
+        "几",
+        "口",
+        "人"
+      ],
+      "explanation": "你家有几口人？",
+      "relatedKnowledge": "Hỏi số người trong gia đình",
+      "section": "writing"
+    },
+    {
+      "id": "q30-4-11",
+      "section": "vocab",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn phiên âm Pinyin đúng cho từ 「女儿」 (Con gái):",
+      "options": [
+        "nǚér",
+        "nǚ'ér",
+        "nǔ'ér",
+        "nǚěr"
+      ],
+      "answer": "nǚ'ér",
+      "explanation": "Khi âm tiết sau bắt đầu bằng nguyên âm a/o/e như 「ér」, cần dùng dấu cách âm (') để tránh nhầm lẫn: 「nǚ'ér」.",
+      "relatedKnowledge": "Từ mới Bài 4 – Dấu cách âm"
+    },
+    {
+      "id": "q30-4-12",
+      "section": "vocab",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho từ có nghĩa 'Năm nay' (jīnnián):",
+      "options": [
+        "今天",
+        "今年",
+        "几岁",
+        "多大"
+      ],
+      "answer": "今年",
+      "explanation": "「今年 (jīnnián)」 = năm nay; 「今天」 = hôm nay.",
+      "relatedKnowledge": "Từ mới Bài 4"
+    },
+    {
+      "id": "q30-4-13",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 3",
+      "prompt": "[Ôn Bài 3 + 4] Trong các từ chỉ người thân sau, từ nào chỉ 'Chị gái' (đã học ở Bài 3)?",
+      "options": [
+        "妹妹",
+        "姐姐",
+        "哥哥",
+        "女儿"
+      ],
+      "answer": "姐姐",
+      "explanation": "「姐姐 (jiějie)」 là chị gái (Bài 3); 「妹妹」 là em gái, 「哥哥」 là anh trai, 「女儿」 là con gái (Bài 4).",
+      "relatedKnowledge": "Ôn từ vựng gia đình Bài 3–4"
+    },
+    {
+      "id": "q30-4-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Câu nào dùng ĐÚNG từ phủ định của động từ 「有」?",
+      "options": [
+        "我不有哥哥。",
+        "我没有哥哥。",
+        "我没是有哥哥。",
+        "我不是有哥哥。"
+      ],
+      "answer": "我没有哥哥。",
+      "explanation": "Phủ định của 「有」 BẮT BUỘC dùng 「没 / 没有」, tuyệt đối không dùng 「不有」.",
+      "relatedKnowledge": "Câu chữ 有 và phủ định 没有"
+    },
+    {
+      "id": "q30-4-15",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Khi muốn hỏi tuổi một em bé khoảng 5 tuổi, ta dùng câu nào phù hợp nhất?",
+      "options": [
+        "你今年几岁？",
+        "你今年多少岁？",
+        "你有几个岁？",
+        "你叫什么岁？"
+      ],
+      "answer": "你今年几岁？",
+      "explanation": "Với trẻ nhỏ dưới 10 tuổi dùng 「几岁」; với người lớn hơn thường dùng 「多大」.",
+      "relatedKnowledge": "Phân biệt 几岁 và 多大"
+    },
+    {
+      "id": "q30-4-16",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "王一雪：我有两个哥哥，你呢？\n杨同乐：我没有哥哥。我家有四口人，爸爸、妈妈、妹妹和我。",
+      "passagePinyin": "Wáng Yīxuě: Wǒ yǒu liǎng gè gēge, nǐ ne? Yáng Tónglè: Wǒ méiyǒu gēge. Wǒ jiā yǒu sì kǒu rén, bàba, māma, mèimei hé wǒ.",
+      "prompt": "Nhà Dương Đồng Lạc có mấy người và gồm những ai?",
+      "options": [
+        "3 người: bố, mẹ và Đồng Lạc",
+        "4 người: bố, mẹ, em gái và Đồng Lạc",
+        "4 người: bố, mẹ, anh trai và Đồng Lạc",
+        "5 người: bố, mẹ, 2 anh trai và Đồng Lạc"
+      ],
+      "answer": "4 người: bố, mẹ, em gái và Đồng Lạc",
+      "explanation": "Dương Đồng Lạc nói 「我家有四口人，爸爸、妈妈、妹妹和我。」.",
+      "relatedKnowledge": "Bài khóa 2 – Gia đình"
+    },
+    {
+      "id": "q30-4-17",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "reviewTag": "Ôn Bài 1 & 3",
+      "prompt": "[Ôn Bài 1–4] Trong câu 「一飞忙吗？她有多少个学生？她有二十个学生。」, trợ từ 「吗」 và đại từ 「多少」 được dùng đúng ngữ pháp.",
+      "answer": true,
+      "explanation": "Đúng: 「一飞忙吗？」 là câu hỏi có/không dùng 「吗」 (Bài 3); 「她有多少个学生？」 dùng 「多少」 (Bài 4) với danh từ 「学生」 (Bài 1).",
+      "relatedKnowledge": "Ôn tổng hợp Bài 1, 3, 4"
+    },
+    {
+      "id": "q30-4-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu giới thiệu tuổi của con trai:",
+      "tokens": [
+        "五岁",
+        "今年",
+        "儿子",
+        "我"
+      ],
+      "answer": [
+        "我",
+        "儿子",
+        "今年",
+        "五岁"
+      ],
+      "acceptedSequences": [
+        [
+          "我",
+          "儿子",
+          "今年",
+          "五岁"
+        ],
+        [
+          "今年",
+          "我",
+          "儿子",
+          "五岁"
+        ]
+      ],
+      "explanation": "Câu vị ngữ danh từ nói tuổi không cần 「是」: 「我儿子今年五岁。」.",
+      "relatedKnowledge": "Nói tuổi trong tiếng Trung"
+    },
+    {
+      "id": "q30-4-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "我有两个孩子，一个儿子，一个女儿。儿子今年五岁，女儿今年十二岁。",
+      "prompt": "Nghe đoạn giới thiệu và chọn tuổi của cô con gái:",
+      "options": [
+        "5 tuổi",
+        "2 tuổi",
+        "12 tuổi",
+        "20 tuổi"
+      ],
+      "answer": "12 tuổi",
+      "explanation": "Lời nghe: 「儿子今年五岁，女儿今年十二岁。」 (Con trai năm nay 5 tuổi, con gái năm nay 12 tuổi).",
+      "relatedKnowledge": "Nghe hiểu Bài 4"
+    },
+    {
+      "id": "q30-4-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 3",
+      "audioText": "A：你姐姐是中国人吗？她有孩子吗？ B：对，她是中国人。她没有孩子，她工作很忙。",
+      "prompt": "[Ôn Bài 3 + 4] Nghe hội thoại và chọn đáp án đúng về chị gái của B:",
+      "options": [
+        "Chị ấy có hai người con",
+        "Chị ấy là người Pháp và không bận",
+        "Chị ấy là người Trung Quốc, chưa có con và công việc rất bận",
+        "Chị ấy có một em gái"
+      ],
+      "answer": "Chị ấy là người Trung Quốc, chưa có con và công việc rất bận",
+      "explanation": "Lời nghe kết hợp 「是中国人 / 工作很忙」 (Bài 3) với 「没有孩子」 (Bài 4).",
+      "relatedKnowledge": "Nghe tổng hợp Bài 3–4"
+    },
+    {
+      "id": "q30-4-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Chị ấy có bao nhiêu học sinh?",
+          "sampleAnswer": "她有多少个学生？",
+          "pinyin": "Tā yǒu duōshao gè xuésheng?",
+          "acceptedAnswers": [
+            "她有多少个学生",
+            "她有多少学生"
+          ],
+          "requiredKeywords": [
+            "她",
+            "有",
+            "多少",
+            "学生"
+          ]
+        },
+        {
+          "vi": "Tôi có hai người anh trai, còn bạn thì sao?",
+          "sampleAnswer": "我有两个哥哥，你呢？",
+          "pinyin": "Wǒ yǒu liǎng gè gēge, nǐ ne?",
+          "acceptedAnswers": [
+            "我有两个哥哥你呢"
+          ],
+          "requiredKeywords": [
+            "两",
+            "哥哥",
+            "你呢"
+          ]
+        },
+        {
+          "vi": "Nhà bạn có mấy người?",
+          "sampleAnswer": "你家有几口人？",
+          "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+          "acceptedAnswers": [
+            "你家有几口人",
+            "你家有几个人"
+          ],
+          "requiredKeywords": [
+            "家",
+            "有",
+            "几",
+            "人"
+          ]
+        },
+        {
+          "vi": "Con trai anh ấy năm nay 5 tuổi.",
+          "sampleAnswer": "他儿子今年五岁。",
+          "pinyin": "Tā érzi jīnnián wǔ suì.",
+          "acceptedAnswers": [
+            "他儿子今年五岁",
+            "他的儿子今年五岁",
+            "他儿子今年5岁"
+          ],
+          "requiredKeywords": [
+            "儿子",
+            "今年",
+            "岁"
+          ]
+        },
+        {
+          "vi": "[Ôn Bài 3] Tôi không có chị gái, tôi có một em gái.",
+          "sampleAnswer": "我没有姐姐，我有一个妹妹。",
+          "pinyin": "Wǒ méiyǒu jiějie, wǒ yǒu yí gè mèimei.",
+          "acceptedAnswers": [
+            "我没有姐姐我有一个妹妹"
+          ],
+          "requiredKeywords": [
+            "没有",
+            "姐姐",
+            "妹妹"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 4 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 4"
+    }
+  ]
+}

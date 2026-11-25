@@ -1,0 +1,972 @@
+{
+  "id": "hsk1-15",
+  "courseId": "hsk1",
+  "order": 15,
+  "group": "Bài 11–15",
+  "zhTitle": "大兴机场见！",
+  "pinyinTitle": "Dàxīng Jīchǎng jiàn!",
+  "viTitle": "Hẹn gặp ở sân bay Đại Hưng!",
+  "image": "images/hsk1-lesson15.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 15 Giáo trình New HSK 1 (HSK 3.0): Kế hoạch du lịch Tây An – Bắc Kinh, sân bay Đại Hưng và câu ghép đẳng lập ……，还/也…….",
+  "vocabulary": [
+    {
+      "id": "v30-15-01",
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "pos": "Động từ",
+      "meaning": "Thích, yêu thích",
+      "exampleZh": "你们爱吃哪个菜？",
+      "examplePinyin": "Nǐmen ài chī nǎge cài?",
+      "exampleVi": "Các bạn thích ăn món nào?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Động từ.",
+      "collocations": [
+        "爱 (Thích, yêu thích)"
+      ],
+      "extraExample": "你们爱吃哪个菜？ — Các bạn thích ăn món nào?"
+    },
+    {
+      "id": "v30-15-02",
+      "hanzi": "哪个",
+      "pinyin": "nǎge",
+      "pos": "Đại từ",
+      "meaning": "Cái nào, nào",
+      "exampleZh": "爱吃哪个菜？",
+      "examplePinyin": "ài chī nǎge cài?",
+      "exampleVi": "Thích ăn món nào?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Đại từ.",
+      "collocations": [
+        "哪个 (Cái nào, nào)"
+      ],
+      "extraExample": "爱吃哪个菜？ — Thích ăn món nào?"
+    },
+    {
+      "id": "v30-15-03",
+      "hanzi": "去年",
+      "pinyin": "qùnián",
+      "pos": "Danh từ",
+      "meaning": "Năm ngoái",
+      "exampleZh": "去年我和男朋友去了西安。",
+      "examplePinyin": "Qùnián wǒ hé nánpéngyou qùle Xī'ān.",
+      "exampleVi": "Năm ngoái mình và bạn trai đã đi Tây An.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Danh từ.",
+      "collocations": [
+        "去年 (Năm ngoái)"
+      ],
+      "extraExample": "去年我和男朋友去了西安。 — Năm ngoái mình và bạn trai đã đi Tây An."
+    },
+    {
+      "id": "v30-15-04",
+      "hanzi": "男朋友",
+      "pinyin": "nánpéngyou",
+      "pos": "Danh từ",
+      "meaning": "Bạn trai, người yêu",
+      "exampleZh": "我和男朋友",
+      "examplePinyin": "wǒ hé nánpéngyou",
+      "exampleVi": "Mình và bạn trai",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Danh từ.",
+      "collocations": [
+        "男朋友 (Bạn trai, người yêu)"
+      ],
+      "extraExample": "我和男朋友 — Mình và bạn trai"
+    },
+    {
+      "id": "v30-15-05",
+      "hanzi": "年",
+      "pinyin": "nián",
+      "pos": "Danh từ",
+      "meaning": "Năm",
+      "exampleZh": "前几年我去了西安。",
+      "examplePinyin": "Qián jǐ nián wǒ qùle Xī'ān.",
+      "exampleVi": "Mấy năm trước mình đã đi Tây An.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Danh từ.",
+      "collocations": [
+        "年 (Năm)"
+      ],
+      "extraExample": "前几年我去了西安。 — Mấy năm trước mình đã đi Tây An."
+    },
+    {
+      "id": "v30-15-06",
+      "hanzi": "好玩儿",
+      "pinyin": "hǎowánr",
+      "pos": "Tính từ",
+      "meaning": "Vui, thú vị",
+      "exampleZh": "西安非常好玩儿。",
+      "examplePinyin": "Xī'ān fēicháng hǎowánr.",
+      "exampleVi": "Tây An cực kỳ thú vị.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Tính từ.",
+      "collocations": [
+        "好玩儿 (Vui, thú vị)"
+      ],
+      "extraExample": "西安非常好玩儿。 — Tây An cực kỳ thú vị."
+    },
+    {
+      "id": "v30-15-07",
+      "hanzi": "西安",
+      "pinyin": "Xī'ān",
+      "pos": "Danh từ riêng",
+      "meaning": "Tây An",
+      "exampleZh": "去年去了西安。",
+      "examplePinyin": "Qùnián qùle Xī'ān.",
+      "exampleVi": "Năm ngoái đã đi Tây An.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "西安 (Tây An)"
+      ],
+      "extraExample": "去年去了西安。 — Năm ngoái đã đi Tây An."
+    },
+    {
+      "id": "v30-15-08",
+      "hanzi": "北京",
+      "pinyin": "Běijīng",
+      "pos": "Danh từ riêng",
+      "meaning": "Bắc Kinh",
+      "exampleZh": "北京非常漂亮。",
+      "examplePinyin": "Běijīng fēicháng piàoliang.",
+      "exampleVi": "Bắc Kinh rất đẹp.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "北京 (Bắc Kinh)"
+      ],
+      "extraExample": "北京非常漂亮。 — Bắc Kinh rất đẹp."
+    },
+    {
+      "id": "v30-15-09",
+      "hanzi": "飞机",
+      "pinyin": "fēijī",
+      "pos": "Danh từ",
+      "meaning": "Máy bay",
+      "exampleZh": "你们的飞机到北京要几个小时？",
+      "examplePinyin": "Nǐmen de fēijī dào Běijīng yào jǐ gè xiǎoshí?",
+      "exampleVi": "Chuyến bay đến Bắc Kinh mất mấy tiếng?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Danh từ.",
+      "collocations": [
+        "飞机 (Máy bay)"
+      ],
+      "extraExample": "你们的飞机到北京要几个小时？ — Chuyến bay đến Bắc Kinh mất mấy tiếng?"
+    },
+    {
+      "id": "v30-15-10",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "pos": "Động từ",
+      "meaning": "Cần, mất (thời gian)",
+      "exampleZh": "要九个小时。",
+      "examplePinyin": "Yào jiǔ gè xiǎoshí.",
+      "exampleVi": "Mất 9 tiếng ạ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Động từ.",
+      "collocations": [
+        "要 (Cần, mất (thời gian))"
+      ],
+      "extraExample": "要九个小时。 — Mất 9 tiếng ạ."
+    },
+    {
+      "id": "v30-15-11",
+      "hanzi": "小时",
+      "pinyin": "xiǎoshí",
+      "pos": "Danh từ",
+      "meaning": "Tiếng đồng hồ, giờ",
+      "exampleZh": "九个小时",
+      "examplePinyin": "jiǔ gè xiǎoshí",
+      "exampleVi": "9 tiếng đồng hồ",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Danh từ.",
+      "collocations": [
+        "小时 (Tiếng đồng hồ, giờ)"
+      ],
+      "extraExample": "九个小时 — 9 tiếng đồng hồ"
+    },
+    {
+      "id": "v30-15-12",
+      "hanzi": "家人",
+      "pinyin": "jiārén",
+      "pos": "Danh từ",
+      "meaning": "Người nhà",
+      "exampleZh": "我家人都在北京。",
+      "examplePinyin": "Wǒ jiārén dōu zài Běijīng.",
+      "exampleVi": "Người nhà cô đều ở Bắc Kinh.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Danh từ.",
+      "collocations": [
+        "家人 (Người nhà)"
+      ],
+      "extraExample": "我家人都在北京。 — Người nhà cô đều ở Bắc Kinh."
+    },
+    {
+      "id": "v30-15-13",
+      "hanzi": "时间",
+      "pinyin": "shíjiān",
+      "pos": "Danh từ",
+      "meaning": "Thời gian",
+      "exampleZh": "星期天我姐姐也有时间。",
+      "examplePinyin": "Xīngqītiān wǒ jiějie yě yǒu shíjiān.",
+      "exampleVi": "Chủ nhật chị gái cô cũng có thời gian.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Danh từ.",
+      "collocations": [
+        "时间 (Thời gian)"
+      ],
+      "extraExample": "星期天我姐姐也有时间。 — Chủ nhật chị gái cô cũng có thời gian."
+    },
+    {
+      "id": "v30-15-14",
+      "hanzi": "机场",
+      "pinyin": "jīchǎng",
+      "pos": "Danh từ",
+      "meaning": "Sân bay",
+      "exampleZh": "她可以去机场接你们。",
+      "examplePinyin": "Tā kěyǐ qù jīchǎng jiē nǐmen.",
+      "exampleVi": "Chị ấy có thể ra sân bay đón các em.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Danh từ.",
+      "collocations": [
+        "机场 (Sân bay)"
+      ],
+      "extraExample": "她可以去机场接你们。 — Chị ấy có thể ra sân bay đón các em."
+    },
+    {
+      "id": "v30-15-15",
+      "hanzi": "接",
+      "pinyin": "jiē",
+      "pos": "Động từ",
+      "meaning": "Đón, tiếp đón",
+      "exampleZh": "去机场接你们",
+      "examplePinyin": "qù jīchǎng jiē nǐmen",
+      "exampleVi": "Ra sân bay đón các em",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Động từ.",
+      "collocations": [
+        "接 (Đón, tiếp đón)"
+      ],
+      "extraExample": "去机场接你们 — Ra sân bay đón các em"
+    },
+    {
+      "id": "v30-15-16",
+      "hanzi": "住",
+      "pinyin": "zhù",
+      "pos": "Động từ",
+      "meaning": "Ở, lưu trú",
+      "exampleZh": "你们也可以住我家。",
+      "examplePinyin": "Nǐmen yě kěyǐ zhù wǒ jiā.",
+      "exampleVi": "Các em cũng có thể ở nhà cô.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Động từ.",
+      "collocations": [
+        "住 (Ở, lưu trú)"
+      ],
+      "extraExample": "你们也可以住我家。 — Các em cũng có thể ở nhà cô."
+    },
+    {
+      "id": "v30-15-17",
+      "hanzi": "早",
+      "pinyin": "zǎo",
+      "pos": "Tính từ",
+      "meaning": "Sớm",
+      "exampleZh": "早上八点到大兴机场，早不早？— 不早。",
+      "examplePinyin": "Zǎoshang bā diǎn dào Dàxīng Jīchǎng, zǎo bu zǎo? — Bù zǎo.",
+      "exampleVi": "8 giờ sáng đến sân bay Đại Hưng, sớm không? — Không sớm đâu.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Tính từ.",
+      "collocations": [
+        "早 (Sớm)"
+      ],
+      "extraExample": "早上八点到大兴机场，早不早？— 不早。 — 8 giờ sáng đến sân bay Đại Hưng, sớm không? — Không sớm đâu."
+    },
+    {
+      "id": "v30-15-18",
+      "hanzi": "那",
+      "pinyin": "nà",
+      "pos": "Liên từ",
+      "meaning": "Vậy thì, thế thì",
+      "exampleZh": "那我们和您姐姐在大兴机场见！",
+      "examplePinyin": "Nà wǒmen hé nín jiějie zài Dàxīng Jīchǎng jiàn!",
+      "exampleVi": "Vậy chúng em hẹn gặp chị cô ở sân bay Đại Hưng nhé!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Liên từ.",
+      "collocations": [
+        "那 (Vậy thì, thế thì)"
+      ],
+      "extraExample": "那我们和您姐姐在大兴机场见！ — Vậy chúng em hẹn gặp chị cô ở sân bay Đại Hưng nhé!"
+    },
+    {
+      "id": "v30-15-19",
+      "hanzi": "大兴机场",
+      "pinyin": "Dàxīng Jīchǎng",
+      "pos": "Danh từ riêng",
+      "meaning": "Sân bay Đại Hưng (Bắc Kinh)",
+      "exampleZh": "大兴机场见！",
+      "examplePinyin": "Dàxīng Jīchǎng jiàn!",
+      "exampleVi": "Hẹn gặp ở sân bay Đại Hưng!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Danh từ riêng.",
+      "collocations": [
+        "大兴机场 (Sân bay Đại Hưng (Bắc Kinh))"
+      ],
+      "extraExample": "大兴机场见！ — Hẹn gặp ở sân bay Đại Hưng!"
+    },
+    {
+      "id": "v30-15-20",
+      "hanzi": "几",
+      "pinyin": "jǐ",
+      "pos": "Số từ",
+      "meaning": "Vài, mấy",
+      "exampleZh": "前几年我去了西安。",
+      "examplePinyin": "Qián jǐ nián wǒ qùle Xī'ān.",
+      "exampleVi": "Mấy năm trước mình đã đi Tây An.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 15. Từ loại: Số từ.",
+      "collocations": [
+        "几 (Vài, mấy)"
+      ],
+      "extraExample": "前几年我去了西安。 — Mấy năm trước mình đã đi Tây An."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-15-1",
+      "title": "Bài khóa 1: Thưởng thức món Trung Quốc",
+      "context": "Lý Văn mời Trần Thiên Trung và Bạch Gia Nguyệt ăn cơm tại nhà.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Lý Văn",
+          "side": "left",
+          "zh": "你们爱吃哪个菜？大家多吃点儿。",
+          "pinyin": "Nǐmen ài chī nǎge cài? Dàjiā duō chī diǎnr.",
+          "vi": "Các bạn thích ăn món nào? Mọi người ăn nhiều một chút nhé."
+        },
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "right",
+          "zh": "我喜欢这个，也喜欢那个。",
+          "pinyin": "Wǒ xǐhuan zhège, yě xǐhuan nàge.",
+          "vi": "Mình thích món này, cũng thích món kia nữa."
+        },
+        {
+          "speaker": "Trần Thiên Trung",
+          "side": "left",
+          "zh": "这些菜都好吃，还很好看。",
+          "pinyin": "Zhèxiē cài dōu hǎochī, hái hěn hǎokàn.",
+          "vi": "Những món này đều ngon, còn rất đẹp mắt nữa."
+        }
+      ]
+    },
+    {
+      "id": "d30-15-2",
+      "title": "Bài khóa 2: Kế hoạch du lịch Bắc Kinh",
+      "context": "Mọi người bàn kế hoạch kỳ nghỉ đi Tây An và Bắc Kinh.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Annie",
+          "side": "left",
+          "zh": "去年我和男朋友去了西安，今年我想去北京。",
+          "pinyin": "Qùnián wǒ hé nánpéngyou qùle Xī'ān, jīnnián wǒ xiǎng qù Běijīng.",
+          "vi": "Năm ngoái mình và bạn trai đi Tây An, năm nay muốn đi Bắc Kinh."
+        },
+        {
+          "speaker": "Lý Văn",
+          "side": "right",
+          "zh": "我和王老师都是北京人，北京非常漂亮。",
+          "pinyin": "Wǒ hé Wáng lǎoshī dōu shì Běijīng rén, Běijīng fēicháng piàoliang.",
+          "vi": "Mình và cô Vương đều là người Bắc Kinh, Bắc Kinh rất đẹp."
+        }
+      ]
+    },
+    {
+      "id": "d30-15-3",
+      "title": "Bài khóa 3: Hẹn gặp ở sân bay Đại Hưng",
+      "context": "Bạch Gia Nguyệt, Annie và cô Vương bàn chuyện bay sang Bắc Kinh.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "left",
+          "zh": "你们的飞机到北京要几个小时？星期天我姐姐也有时间，她可以去机场接你们，你们也可以住我家。",
+          "pinyin": "Nǐmen de fēijī dào Běijīng yào jǐ gè xiǎoshí? Xīngqītiān wǒ jiějie yě yǒu shíjiān, tā kěyǐ qù jīchǎng jiē nǐmen, nǐmen yě kěyǐ zhù wǒ jiā.",
+          "vi": "Chuyến bay đến Bắc Kinh mất mấy tiếng? Chủ nhật chị cô rảnh, chị ra sân bay đón các em, các em ở nhà cô nhé."
+        },
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "right",
+          "zh": "九个小时。谢谢老师！那我们和您姐姐在大兴机场见！",
+          "pinyin": "Jiǔ gè xiǎoshí. Xièxie lǎoshī! Nà wǒmen hé nín jiějie zài Dàxīng Jīchǎng jiàn!",
+          "vi": "9 tiếng ạ. Cảm ơn cô! Vậy chúng em hẹn gặp chị cô ở sân bay Đại Hưng nhé!"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-15-1",
+      "title": "Câu ghép đẳng lập ……，还/也……",
+      "formula": "Vế 1，+ 还 / 也 + Vế 2",
+      "usage": "Nối hai hoặc nhiều vế câu có quan hệ song song, bổ sung thông tin cho nhau.",
+      "explanation": "Ví dụ SGK tr.114: 我喜欢这个，也喜欢那个。/ 我喜欢喝中国茶，还喜欢吃中国菜。",
+      "examples": [
+        {
+          "zh": "我喜欢喝中国茶，还喜欢吃中国菜。",
+          "pinyin": "Wǒ xǐhuan hē Zhōngguó chá, hái xǐhuan chī Zhōngguó cài.",
+          "vi": "Tôi thích uống trà Trung Quốc, còn thích ăn món Trung Quốc nữa."
+        },
+        {
+          "zh": "王老师是北京人，李文也是北京人。",
+          "pinyin": "Wáng lǎoshī shì Běijīng rén, Lǐ Wén yě shì Běijīng rén.",
+          "vi": "Cô Vương là người Bắc Kinh, Lý Văn cũng là người Bắc Kinh."
+        }
+      ],
+      "commonMistake": "Đặt 也/还 lên đầu vế câu trước chủ ngữ (SAI: 也我喜欢那个).",
+      "comparison": "Văn hóa bàn ăn Trung Quốc: Chủ nhà thường nói 「大家多吃点儿」 thể hiện sự hiếu khách."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "你们爱吃哪个菜？— 大家多吃点儿！",
+      "pinyin": "Nǐmen ài chī nǎge cài? — Dàjiā duō chī diǎnr!",
+      "vi": "Các bạn thích món nào? — Mọi người ăn nhiều một chút nhé!"
+    },
+    {
+      "zh": "我喜欢喝中国茶，还喜欢吃中国菜。",
+      "pinyin": "Wǒ xǐhuan hē Zhōngguó chá, hái xǐhuan chī Zhōngguó cài.",
+      "vi": "Tôi thích uống trà Trung Quốc, còn thích ăn món Trung Quốc nữa."
+    },
+    {
+      "zh": "去年我去了西安，今年我想去北京。",
+      "pinyin": "Qùnián wǒ qùle Xī'ān, jīnnián wǒ xiǎng qù Běijīng.",
+      "vi": "Năm ngoái mình đi Tây An, năm nay muốn đi Bắc Kinh."
+    },
+    {
+      "zh": "你们的飞机到北京要几个小时？— 九个小时。",
+      "pinyin": "Nǐmen de fēijī dào Běijīng yào jǐ gè xiǎoshí? — Jiǔ gè xiǎoshí.",
+      "vi": "Chuyến bay đến Bắc Kinh mất mấy tiếng? — 9 tiếng."
+    },
+    {
+      "zh": "那我们在大兴机场见！",
+      "pinyin": "Nà wǒmen zài Dàxīng Jīchǎng jiàn!",
+      "vi": "Vậy chúng mình hẹn gặp ở sân bay Đại Hưng nhé!"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-15-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "ài",
+          "answer": "爱",
+          "meaning": "Thích, yêu thích"
+        },
+        {
+          "pinyin": "nǎge",
+          "answer": "哪个",
+          "meaning": "Cái nào, nào"
+        },
+        {
+          "pinyin": "qùnián",
+          "answer": "去年",
+          "meaning": "Năm ngoái"
+        },
+        {
+          "pinyin": "nánpéngyou",
+          "answer": "男朋友",
+          "meaning": "Bạn trai, người yêu"
+        },
+        {
+          "pinyin": "nián",
+          "answer": "年",
+          "meaning": "Năm"
+        },
+        {
+          "pinyin": "hǎowánr",
+          "answer": "好玩儿",
+          "meaning": "Vui, thú vị"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 15.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 15"
+    },
+    {
+      "id": "q30-15-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Cần, mất (thời gian)"
+        },
+        {
+          "key": "B",
+          "label": "Người nhà"
+        },
+        {
+          "key": "C",
+          "label": "Tiếng đồng hồ, giờ"
+        },
+        {
+          "key": "D",
+          "label": "Bắc Kinh"
+        },
+        {
+          "key": "E",
+          "label": "Tây An"
+        },
+        {
+          "key": "F",
+          "label": "Máy bay"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "西安",
+          "pinyin": "Xī'ān",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "北京",
+          "pinyin": "Běijīng",
+          "answerKey": "D"
+        },
+        {
+          "hanzi": "飞机",
+          "pinyin": "fēijī",
+          "answerKey": "F"
+        },
+        {
+          "hanzi": "要",
+          "pinyin": "yào",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "小时",
+          "pinyin": "xiǎoshí",
+          "answerKey": "C"
+        },
+        {
+          "hanzi": "家人",
+          "pinyin": "jiārén",
+          "answerKey": "B"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 15.",
+      "relatedKnowledge": "Từ mới Bài 15"
+    },
+    {
+      "id": "q30-15-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.118] 这本书有15课，我们 ___ 学了。(爱 / 时间 / 早不早 / 都 / 飞机)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "都"
+      ],
+      "explanation": "我们都学了 = Chúng tôi đều đã học xong rồi.",
+      "relatedKnowledge": "Bài tập tổng hợp Bài 15",
+      "section": "writing"
+    },
+    {
+      "id": "q30-15-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.118] 我的家人都 ___ 喝茶。(爱 / 时间 / 早不早 / 都 / 飞机)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "爱"
+      ],
+      "explanation": "爱喝茶 = thích uống trà.",
+      "relatedKnowledge": "Từ mới Bài 15",
+      "section": "writing"
+    },
+    {
+      "id": "q30-15-03",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Sổ tay tr.119] 明天星期天，儿子想去看一个电影。★ 儿子明天想：",
+      "options": [
+        "买电脑",
+        "打电话",
+        "看电影"
+      ],
+      "answer": "看电影",
+      "explanation": "Câu nêu rõ 「儿子想去看一个电影」.",
+      "relatedKnowledge": "Đọc hiểu HSK 3.0",
+      "section": "reading"
+    },
+    {
+      "id": "q30-15-04",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Trong Bài khóa 3, chuyến bay của Bạch Gia Nguyệt và Annie đến Bắc Kinh mất mấy tiếng?",
+      "options": [
+        "6 tiếng",
+        "8 tiếng",
+        "9 tiếng (九个小时)"
+      ],
+      "answer": "9 tiếng (九个小时)",
+      "explanation": "Bạch Gia Nguyệt trả lời: 「九个小时。」",
+      "relatedKnowledge": "Đọc hiểu Bài khóa 3",
+      "section": "reading"
+    },
+    {
+      "id": "q30-15-05",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Câu 「我喜欢喝中国茶，还喜欢吃中国菜。」 là câu ghép đẳng lập dùng 「……，还/也……」.",
+      "answer": true,
+      "explanation": "Đúng (Lớp học của Tiểu Ngữ tr.114).",
+      "relatedKnowledge": "Câu ghép đẳng lập",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-15-06",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu đúng (Hẹn gặp ở sân bay Đại Hưng!):",
+      "tokens": [
+        "见",
+        "大兴机场",
+        "在",
+        "我们"
+      ],
+      "answer": [
+        "我们",
+        "在",
+        "大兴机场",
+        "见"
+      ],
+      "acceptedSequences": [
+        [
+          "我们",
+          "在",
+          "大兴机场",
+          "见"
+        ]
+      ],
+      "explanation": "我们在大兴机场见！",
+      "relatedKnowledge": "Tiêu đề Bài 15",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-15-07",
+      "type": "matching",
+      "points": 1,
+      "prompt": "[Sổ tay tr.118] Nối câu hỏi với câu trả lời đúng:",
+      "pairs": [
+        {
+          "left": "你会写几个汉字？",
+          "right": "十个。"
+        },
+        {
+          "left": "谁上中学了？",
+          "right": "我女儿。"
+        },
+        {
+          "left": "你爱吃什么？",
+          "right": "苹果。"
+        }
+      ],
+      "explanation": "Khớp Phần 2 Đọc hiểu Sổ tay Bài 15.",
+      "relatedKnowledge": "Nối câu HSK 3.0",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-15-08",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「机场」:",
+      "options": [
+        "jīchǎng",
+        "jǐchǎng",
+        "qīchǎng",
+        "jīcháng"
+      ],
+      "answer": "jīchǎng",
+      "explanation": "机 thanh 1 (jī) + 场 thanh 3 (chǎng).",
+      "relatedKnowledge": "Phát âm Bài 15",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-15-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết ai sẽ ra sân bay Đại Hưng đón Bạch Gia Nguyệt và Annie:",
+      "audioText": "星期天我姐姐也有时间，她可以去机场接你们。",
+      "options": [
+        "Chị gái cô Vương Nhất Phi",
+        "Lý Văn",
+        "Trần Thiên Trung"
+      ],
+      "answer": "Chị gái cô Vương Nhất Phi",
+      "explanation": "「我姐姐可以去机场接你们」.",
+      "relatedKnowledge": "Nghe hiểu Bài 15",
+      "section": "listening"
+    },
+    {
+      "id": "q30-15-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Năm nay tôi muốn đi Bắc Kinh.\"",
+      "sampleAnswer": "今年我想去北京。",
+      "acceptedAnswers": [
+        "今年我想去北京",
+        "今年我想去北京。",
+        "我今年想去北京",
+        "我今年想去北京。"
+      ],
+      "requiredKeywords": [
+        "今年",
+        "想",
+        "去",
+        "北京"
+      ],
+      "explanation": "今年我想去北京。",
+      "relatedKnowledge": "Bài khóa 2",
+      "section": "writing"
+    },
+    {
+      "id": "q30-15-11",
+      "section": "vocab",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho từ 「jīchǎng」 (Sân bay):",
+      "options": [
+        "飞机",
+        "机场",
+        "火车",
+        "小时"
+      ],
+      "answer": "机场",
+      "explanation": "「机场 (jīchǎng)」 = sân bay (như 「大兴机场」 = Sân bay Đại Hưng); 「飞机 (fēijī)」 = máy bay.",
+      "relatedKnowledge": "Từ mới Bài 15"
+    },
+    {
+      "id": "q30-15-12",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 4 & 14",
+      "prompt": "[Ôn Bài 4, 14, 15] Bộ 3 mốc năm liên tiếp 'Năm ngoái – Năm nay – Sang năm' bằng tiếng Trung là:",
+      "options": [
+        "去年 – 今年 – 明年",
+        "昨天 – 今天 – 明天",
+        "今年 – 去年 – 明年",
+        "明年 – 今年 – 去年"
+      ],
+      "answer": "去年 – 今年 – 明年",
+      "explanation": "「今年」 (Bài 4), 「明年」 (Bài 14), 「去年」 (Bài 15) ghép thành trọn bộ 3 mốc năm (tương tự 昨天/今天/明天 cho ngày).",
+      "relatedKnowledge": "Tổng hợp hệ thống mốc thời gian Bài 4, 14, 15"
+    },
+    {
+      "id": "q30-15-13",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Câu ghép đẳng lập 「这些菜都好吃，___很好看。」 điền phó từ nào để diễn tả ý 'vừa ngon lại vừa đẹp mắt'?",
+      "options": [
+        "还",
+        "不",
+        "谁",
+        "哪"
+      ],
+      "answer": "还",
+      "explanation": "Cấu trúc 「……，还/也……」 diễn tả hai đặc điểm hoặc hành động bổ sung song song nhau.",
+      "relatedKnowledge": "Câu ghép đẳng lập ……，还/也……"
+    },
+    {
+      "id": "q30-15-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 7",
+      "prompt": "[Ôn Bài 7 + 15] Phân biệt cách dùng 「点」 (Bài 7) và 「小时」 (Bài 15):",
+      "options": [
+        "「九点」 = 9 giờ (thời điểm); 「九个小时」 = 9 tiếng đồng hồ (khoảng thời gian)",
+        "「九小时」 = 9 giờ đúng; 「九个点」 = 9 tiếng",
+        "Hai từ hoàn toàn giống nhau",
+        "「小时」 không cần lượng từ 「个」"
+      ],
+      "answer": "「九点」 = 9 giờ (thời điểm); 「九个小时」 = 9 tiếng đồng hồ (khoảng thời gian)",
+      "explanation": "Giống cặp 「分 / 分钟」 ở Bài 7, 「点」 chỉ thời điểm trên đồng hồ, còn 「个小时」 chỉ độ dài thời gian (như 「飞机到北京要九个小时」).",
+      "relatedKnowledge": "Phân biệt 点 (B7) và 小时 (B15)"
+    },
+    {
+      "id": "q30-15-15",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "王一飞：你们的飞机到北京要几个小时？星期天我姐姐也有时间，她可以去机场接你们，你们也可以住我家。\n白家月：九个小时。谢谢老师！那我们和您姐姐在大兴机场见！",
+      "passagePinyin": "Wáng Yīfēi: Nǐmen de fēijī dào Běijīng yào jǐ gè xiǎoshí? Xīngqītiān wǒ jiějie yě yǒu shíjiān, tā kěyǐ qù jīchǎng jiē nǐmen, nǐmen yě kěyǐ zhù wǒ jiā. Bái Jiāyuè: Jiǔ gè xiǎoshí. Xièxie lǎoshī! Nà wǒmen hé nín jiějie zài Dàxīng Jīchǎng jiàn!",
+      "prompt": "Ai sẽ ra sân bay Đại Hưng đón nhóm Bạch Gia Nguyệt vào Chủ nhật và chuyến bay mất mấy tiếng?",
+      "options": [
+        "Cô Vương đi đón, chuyến bay mất 7 tiếng",
+        "Chị gái của cô Vương đi đón, chuyến bay mất 9 tiếng",
+        "Bố của Lý Văn đi đón, chuyến bay mất 2 tiếng",
+        "Trần Thiên Trung đi đón, chuyến bay mất 9 tiếng"
+      ],
+      "answer": "Chị gái của cô Vương đi đón, chuyến bay mất 9 tiếng",
+      "explanation": "Cô Vương nói 「星期天我姐姐也有时间，她可以去机场接你们」 và Bạch Gia Nguyệt trả lời 「九个小时」.",
+      "relatedKnowledge": "Bài khóa 3 – Hẹn gặp ở sân bay Đại Hưng"
+    },
+    {
+      "id": "q30-15-16",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "reviewTag": "Ôn tổng hợp Bài 1–15",
+      "prompt": "[Ôn tổng hợp Bài 1–15] Trong câu 「去年我和男朋友去了西安，今年我想去北京。」, người nói đã kết hợp chính xác mốc thời gian quá khứ + 「了」 (Bài 14) và động từ năng nguyện 「想」 cho dự định năm nay (Bài 6).",
+      "answer": true,
+      "explanation": "Đúng! Đây là câu mẫu tổng hợp cực hay kết nối kiến thức xuyên suốt từ Bài 4 (今年), Bài 6 (想), Bài 14 (去了) đến Bài 15 (去年, 男朋友, 西安, 北京).",
+      "relatedKnowledge": "Tổng hợp ngữ pháp New HSK 1"
+    },
+    {
+      "id": "q30-15-17",
+      "section": "writing",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 1 chữ Hán nghĩa là 'đón (người ở sân bay/ga)': 星期天我姐姐可以去机场___你们。(Chủ nhật chị gái cô có thể ra sân bay đón các em.)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "接"
+      ],
+      "explanation": "「接 (jiē)」 = đón (người), kết hợp với 「去机场接你们」.",
+      "relatedKnowledge": "Từ mới Bài 15 – Động từ 接"
+    },
+    {
+      "id": "q30-15-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "reviewTag": "Ôn Bài 9 & 14",
+      "prompt": "[Ôn Bài 9, 14, 15] Sắp xếp thành câu giới thiệu quê quán của hai người:",
+      "tokens": [
+        "北京人",
+        "都是",
+        "王老师",
+        "我和"
+      ],
+      "answer": [
+        "我和",
+        "王老师",
+        "都是",
+        "北京人"
+      ],
+      "acceptedSequences": [
+        [
+          "我和",
+          "王老师",
+          "都是",
+          "北京人"
+        ]
+      ],
+      "explanation": "「我和王老师都是北京人。」 — tổng hợp 「和」 (Bài 4), 「都」 (Bài 14), 「是…人」 (Bài 3) và 「北京」 (Bài 15).",
+      "relatedKnowledge": "Tổng hợp ngữ pháp Bài 3, 4, 14, 15"
+    },
+    {
+      "id": "q30-15-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "去年我和男朋友去了西安，西安非常好玩儿。今年我想和家人去北京。",
+      "prompt": "Nghe đoạn chia sẻ và cho biết năm nay người nói muốn đi đâu, cùng ai?",
+      "options": [
+        "Đi Tây An cùng bạn trai",
+        "Đi Bắc Kinh cùng người nhà",
+        "Đi Pháp cùng cô giáo Vương",
+        "Ở nhà nghỉ ngơi"
+      ],
+      "answer": "Đi Bắc Kinh cùng người nhà",
+      "explanation": "Lời nghe: 「去年我和男朋友去了西安…今年我想和家人去北京。」.",
+      "relatedKnowledge": "Nghe hiểu Bài 15"
+    },
+    {
+      "id": "q30-15-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn tổng hợp Bài 1–15",
+      "audioText": "A：请问，飞机到北京要几个小时？ B：要九个小时。星期天我姐姐在大兴机场接你们，你们可以住我家。",
+      "prompt": "[Ôn tổng hợp Bài 1–15] Nghe hội thoại và chọn thông tin KHÔNG ĐÚNG:",
+      "options": [
+        "Chuyến bay đến Bắc Kinh mất 9 tiếng đồng hồ",
+        "Chủ nhật chị gái của B sẽ đón họ ở sân bay Đại Hưng",
+        "Họ có thể ở lại nhà của B",
+        "Họ sẽ đi tàu hỏa đến Tây An vào thứ Hai"
+      ],
+      "answer": "Họ sẽ đi tàu hỏa đến Tây An vào thứ Hai",
+      "explanation": "Lời nghe nói đi máy bay (飞机) đến Bắc Kinh (北京) mất 9 tiếng và gặp ở sân bay Đại Hưng vào Chủ nhật, không phải đi tàu hỏa đến Tây An.",
+      "relatedKnowledge": "Nghe tổng hợp toàn khóa HSK 1"
+    },
+    {
+      "id": "q30-15-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Những món này đều ngon, lại còn rất đẹp mắt.",
+          "sampleAnswer": "这些菜都好吃，还很好看。",
+          "pinyin": "Zhèxiē cài dōu hǎochī, hái hěn hǎokàn.",
+          "acceptedAnswers": [
+            "这些菜都好吃还很好看"
+          ],
+          "requiredKeywords": [
+            "这些菜",
+            "好吃",
+            "好看"
+          ]
+        },
+        {
+          "vi": "Năm ngoái tôi và bạn trai đã đi Tây An, năm nay tôi muốn đi Bắc Kinh.",
+          "sampleAnswer": "去年我和男朋友去了西安，今年我想去北京。",
+          "pinyin": "Qùnián wǒ hé nánpéngyou qù le Xī'ān, jīnnián wǒ xiǎng qù Běijīng.",
+          "acceptedAnswers": [
+            "去年我和男朋友去了西安今年我想去北京"
+          ],
+          "requiredKeywords": [
+            "去年",
+            "西安",
+            "今年",
+            "北京"
+          ]
+        },
+        {
+          "vi": "Máy bay của các bạn đến Bắc Kinh mất mấy tiếng?",
+          "sampleAnswer": "你们的飞机到北京要几个小时？",
+          "pinyin": "Nǐmen de fēijī dào Běijīng yào jǐ gè xiǎoshí?",
+          "acceptedAnswers": [
+            "你们的飞机到北京要几个小时",
+            "你们飞机到北京要几个小时"
+          ],
+          "requiredKeywords": [
+            "飞机",
+            "北京",
+            "小时"
+          ]
+        },
+        {
+          "vi": "Chị gái cô có thể ra sân bay đón các em.",
+          "sampleAnswer": "我姐姐可以去机场接你们。",
+          "pinyin": "Wǒ jiějie kěyǐ qù jīchǎng jiē nǐmen.",
+          "acceptedAnswers": [
+            "我姐姐可以去机场接你们"
+          ],
+          "requiredKeywords": [
+            "姐姐",
+            "机场",
+            "接"
+          ]
+        },
+        {
+          "vi": "[Ôn tổng hợp] Vậy chúng em hẹn gặp chị gái cô ở sân bay Đại Hưng!",
+          "sampleAnswer": "那我们和您姐姐在大兴机场见！",
+          "pinyin": "Nà wǒmen hé nín jiějie zài Dàxīng Jīchǎng jiàn!",
+          "acceptedAnswers": [
+            "那我们和您姐姐在大兴机场见",
+            "那我们和您姐姐大兴机场见"
+          ],
+          "requiredKeywords": [
+            "大兴机场",
+            "见"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 15 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 15"
+    }
+  ]
+}

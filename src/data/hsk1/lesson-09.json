@@ -1,0 +1,1051 @@
+{
+  "id": "hsk1-09",
+  "courseId": "hsk1",
+  "order": 9,
+  "group": "Bài 06–10",
+  "zhTitle": "我明天上午在学校学习",
+  "pinyinTitle": "Wǒ míngtiān shàngwǔ zài xuéxiào xuéxí",
+  "viTitle": "Sáng mai mình học ở trường",
+  "image": "images/hsk1-lesson09.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 9 Giáo trình New HSK 1 (HSK 3.0): Câu tồn hiện (1) (有/是), trật tự trạng ngữ Thời gian trước Nơi chốn và tiền tố số thứ tự 第.",
+  "vocabulary": [
+    {
+      "id": "v30-09-01",
+      "hanzi": "前边",
+      "pinyin": "qiánbian",
+      "pos": "Danh từ",
+      "meaning": "Phía trước",
+      "exampleZh": "学校前边有一家电影院。",
+      "examplePinyin": "Xuéxiào qiánbian yǒu yì jiā diànyǐngyuàn.",
+      "exampleVi": "Phía trước trường có một rạp chiếu phim.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Danh từ.",
+      "collocations": [
+        "前边 (Phía trước)"
+      ],
+      "extraExample": "学校前边有一家电影院。 — Phía trước trường có một rạp chiếu phim."
+    },
+    {
+      "id": "v30-09-02",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "pos": "Lượng từ",
+      "meaning": "Cái, chiếc (cho cửa hàng, rạp, cơ quan)",
+      "exampleZh": "一家电影院",
+      "examplePinyin": "yì jiā diànyǐngyuàn",
+      "exampleVi": "Một rạp chiếu phim",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Lượng từ.",
+      "collocations": [
+        "家 (Cái, chiếc (cho cửa hàng, rạp, cơ quan))"
+      ],
+      "extraExample": "一家电影院 — Một rạp chiếu phim"
+    },
+    {
+      "id": "v30-09-03",
+      "hanzi": "那个",
+      "pinyin": "nàge",
+      "pos": "Đại từ",
+      "meaning": "Đó, cái đó",
+      "exampleZh": "我们晚上去那个电影院看电影吧。",
+      "examplePinyin": "Wǒmen wǎnshang qù nàge diànyǐngyuàn kàn diànyǐng ba.",
+      "exampleVi": "Tối mình đến rạp đó xem phim nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Đại từ.",
+      "collocations": [
+        "那个 (Đó, cái đó)"
+      ],
+      "extraExample": "我们晚上去那个电影院看电影吧。 — Tối mình đến rạp đó xem phim nhé."
+    },
+    {
+      "id": "v30-09-04",
+      "hanzi": "外边",
+      "pinyin": "wàibian",
+      "pos": "Danh từ",
+      "meaning": "Phía ngoài, bên ngoài",
+      "exampleZh": "在电影院外边见。",
+      "examplePinyin": "Zài diànyǐngyuàn wàibian jiàn.",
+      "exampleVi": "Gặp bên ngoài rạp chiếu phim.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Danh từ.",
+      "collocations": [
+        "外边 (Phía ngoài, bên ngoài)"
+      ],
+      "extraExample": "在电影院外边见。 — Gặp bên ngoài rạp chiếu phim."
+    },
+    {
+      "id": "v30-09-05",
+      "hanzi": "椅子",
+      "pinyin": "yǐzi",
+      "pos": "Danh từ",
+      "meaning": "Ghế",
+      "exampleZh": "椅子上有一本中文书。",
+      "examplePinyin": "Yǐzi shang yǒu yì běn Zhōngwén shū.",
+      "exampleVi": "Trên ghế có một quyển sách tiếng Trung.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Danh từ.",
+      "collocations": [
+        "椅子 (Ghế)"
+      ],
+      "extraExample": "椅子上有一本中文书。 — Trên ghế có một quyển sách tiếng Trung."
+    },
+    {
+      "id": "v30-09-06",
+      "hanzi": "上",
+      "pinyin": "shang / shàng",
+      "pos": "Danh từ",
+      "meaning": "Trên (sau danh từ đọc thanh nhẹ)",
+      "exampleZh": "椅子上",
+      "examplePinyin": "yǐzi shang",
+      "exampleVi": "Trên ghế",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Danh từ.",
+      "collocations": [
+        "上 (Trên (sau danh từ đọc thanh nhẹ))"
+      ],
+      "extraExample": "椅子上 — Trên ghế"
+    },
+    {
+      "id": "v30-09-07",
+      "hanzi": "本",
+      "pinyin": "běn",
+      "pos": "Lượng từ",
+      "meaning": "Quyển, cuốn",
+      "exampleZh": "这是我的第二本中文书。",
+      "examplePinyin": "Zhè shì wǒ de dì-èr běn Zhōngwén shū.",
+      "exampleVi": "Đây là quyển sách tiếng Trung thứ hai của mình.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Lượng từ.",
+      "collocations": [
+        "本 (Quyển, cuốn)"
+      ],
+      "extraExample": "这是我的第二本中文书。 — Đây là quyển sách tiếng Trung thứ hai của mình."
+    },
+    {
+      "id": "v30-09-08",
+      "hanzi": "书",
+      "pinyin": "shū",
+      "pos": "Danh từ",
+      "meaning": "Sách",
+      "exampleZh": "那是谁的书？",
+      "examplePinyin": "Nà shì shéi de shū?",
+      "exampleVi": "Đó là sách của ai vậy?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Danh từ.",
+      "collocations": [
+        "书 (Sách)"
+      ],
+      "extraExample": "那是谁的书？ — Đó là sách của ai vậy?"
+    },
+    {
+      "id": "v30-09-09",
+      "hanzi": "第",
+      "pinyin": "dì",
+      "pos": "Tiền tố",
+      "meaning": "Thứ (biểu thị số thứ tự)",
+      "exampleZh": "第一、第二、第三",
+      "examplePinyin": "dì-yī, dì-èr, dì-sān",
+      "exampleVi": "Thứ nhất, thứ hai, thứ ba",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Tiền tố.",
+      "collocations": [
+        "第 (Thứ (biểu thị số thứ tự))"
+      ],
+      "extraExample": "第一、第二、第三 — Thứ nhất, thứ hai, thứ ba"
+    },
+    {
+      "id": "v30-09-10",
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "pos": "Động từ",
+      "meaning": "Học, học tập",
+      "exampleZh": "我明天上午在学校学习。",
+      "examplePinyin": "Wǒ míngtiān shàngwǔ zài xuéxiào xuéxí.",
+      "exampleVi": "Sáng mai mình học ở trường.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Động từ.",
+      "collocations": [
+        "学习 (Học, học tập)"
+      ],
+      "extraExample": "我明天上午在学校学习。 — Sáng mai mình học ở trường."
+    },
+    {
+      "id": "v30-09-11",
+      "hanzi": "白天",
+      "pinyin": "báitiān",
+      "pos": "Danh từ",
+      "meaning": "Ban ngày",
+      "exampleZh": "我白天在家里读书。",
+      "examplePinyin": "Wǒ báitiān zài jiā li dúshū.",
+      "exampleVi": "Ban ngày em ở nhà đọc sách.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Danh từ.",
+      "collocations": [
+        "白天 (Ban ngày)"
+      ],
+      "extraExample": "我白天在家里读书。 — Ban ngày em ở nhà đọc sách."
+    },
+    {
+      "id": "v30-09-12",
+      "hanzi": "读书",
+      "pinyin": "dúshū",
+      "pos": "Động từ",
+      "meaning": "Đọc sách, học bài",
+      "exampleZh": "在家里读书",
+      "examplePinyin": "zài jiā li dúshū",
+      "exampleVi": "Ở nhà đọc sách",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Động từ.",
+      "collocations": [
+        "读书 (Đọc sách, học bài)"
+      ],
+      "extraExample": "在家里读书 — Ở nhà đọc sách"
+    },
+    {
+      "id": "v30-09-13",
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "pos": "Danh từ",
+      "meaning": "Bạn, bạn bè",
+      "exampleZh": "和朋友们去外边唱歌。",
+      "examplePinyin": "Hé péngyoumen qù wàibian chàng gē.",
+      "exampleVi": "Ra ngoài hát cùng bạn bè.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Danh từ.",
+      "collocations": [
+        "朋友 (Bạn, bạn bè)"
+      ],
+      "extraExample": "和朋友们去外边唱歌。 — Ra ngoài hát cùng bạn bè."
+    },
+    {
+      "id": "v30-09-14",
+      "hanzi": "唱",
+      "pinyin": "chàng",
+      "pos": "Động từ",
+      "meaning": "Hát",
+      "exampleZh": "你唱歌很好听。",
+      "examplePinyin": "Nǐ chàng gē hěn hǎotīng.",
+      "exampleVi": "Em hát rất hay.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Động từ.",
+      "collocations": [
+        "唱 (Hát)"
+      ],
+      "extraExample": "你唱歌很好听。 — Em hát rất hay."
+    },
+    {
+      "id": "v30-09-15",
+      "hanzi": "歌",
+      "pinyin": "gē",
+      "pos": "Danh từ",
+      "meaning": "Bài hát",
+      "exampleZh": "唱歌",
+      "examplePinyin": "chàng gē",
+      "exampleVi": "Hát",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Danh từ.",
+      "collocations": [
+        "歌 (Bài hát)"
+      ],
+      "extraExample": "唱歌 — Hát"
+    },
+    {
+      "id": "v30-09-16",
+      "hanzi": "好听",
+      "pinyin": "hǎotīng",
+      "pos": "Tính từ",
+      "meaning": "Hay, nghe hay",
+      "exampleZh": "你唱歌很好听。",
+      "examplePinyin": "Nǐ chàng gē hěn hǎotīng.",
+      "exampleVi": "Em hát rất hay.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Tính từ.",
+      "collocations": [
+        "好听 (Hay, nghe hay)"
+      ],
+      "extraExample": "你唱歌很好听。 — Em hát rất hay."
+    },
+    {
+      "id": "v30-09-17",
+      "hanzi": "电视",
+      "pinyin": "diànshì",
+      "pos": "Danh từ",
+      "meaning": "Tivi",
+      "exampleZh": "看电视",
+      "examplePinyin": "kàn diànshì",
+      "exampleVi": "Xem tivi",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Danh từ.",
+      "collocations": [
+        "电视 (Tivi)"
+      ],
+      "extraExample": "看电视 — Xem tivi"
+    },
+    {
+      "id": "v30-09-18",
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "pos": "Danh từ",
+      "meaning": "Chó",
+      "exampleZh": "我也有一只小狗。",
+      "examplePinyin": "Wǒ yě yǒu yì zhī xiǎo gǒu.",
+      "exampleVi": "Em cũng có một con chó nhỏ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Danh từ.",
+      "collocations": [
+        "狗 (Chó)"
+      ],
+      "extraExample": "我也有一只小狗。 — Em cũng có một con chó nhỏ."
+    },
+    {
+      "id": "v30-09-19",
+      "hanzi": "玩",
+      "pinyin": "wán",
+      "pos": "Động từ",
+      "meaning": "Chơi (khẩu ngữ: 玩儿)",
+      "exampleZh": "和孩子们、小狗玩。",
+      "examplePinyin": "Hé háizimen, xiǎo gǒu wán.",
+      "exampleVi": "Chơi với các con và chú chó nhỏ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Động từ.",
+      "collocations": [
+        "玩 (Chơi (khẩu ngữ: 玩儿))"
+      ],
+      "extraExample": "和孩子们、小狗玩。 — Chơi với các con và chú chó nhỏ."
+    },
+    {
+      "id": "v30-09-20",
+      "hanzi": "边",
+      "pinyin": "bian / biān",
+      "pos": "Hậu tố / Danh từ",
+      "meaning": "Phía, bên",
+      "exampleZh": "前边 / 外边",
+      "examplePinyin": "qiánbian / wàibian",
+      "exampleVi": "Phía trước / Bên ngoài",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Hậu tố / Danh từ.",
+      "collocations": [
+        "边 (Phía, bên)"
+      ],
+      "extraExample": "前边 / 外边 — Phía trước / Bên ngoài"
+    },
+    {
+      "id": "v30-09-21",
+      "hanzi": "那",
+      "pinyin": "nà",
+      "pos": "Đại từ",
+      "meaning": "Kia, đó",
+      "exampleZh": "那是谁的书？",
+      "examplePinyin": "Nà shì shéi de shū?",
+      "exampleVi": "Đó là sách của ai vậy?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Đại từ.",
+      "collocations": [
+        "那 (Kia, đó)"
+      ],
+      "extraExample": "那是谁的书？ — Đó là sách của ai vậy?"
+    },
+    {
+      "id": "v30-09-22",
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "pos": "Động từ",
+      "meaning": "Làm",
+      "exampleZh": "明天星期六，你做什么？",
+      "examplePinyin": "Míngtiān Xīngqīliù, nǐ zuò shénme?",
+      "exampleVi": "Mai thứ Bảy em định làm gì?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Động từ.",
+      "collocations": [
+        "做 (Làm)"
+      ],
+      "extraExample": "明天星期六，你做什么？ — Mai thứ Bảy em định làm gì?"
+    },
+    {
+      "id": "v30-09-23",
+      "hanzi": "和",
+      "pinyin": "hé",
+      "pos": "Giới từ",
+      "meaning": "Với, cùng",
+      "exampleZh": "和朋友们去外边唱歌。",
+      "examplePinyin": "Hé péngyoumen qù wàibian chàng gē.",
+      "exampleVi": "Ra ngoài hát cùng bạn bè.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 9. Từ loại: Giới từ.",
+      "collocations": [
+        "和 (Với, cùng)"
+      ],
+      "extraExample": "和朋友们去外边唱歌。 — Ra ngoài hát cùng bạn bè."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-09-1",
+      "title": "Bài khóa 1: Hẹn xem phim trước trường",
+      "context": "Lý Văn và Bạch Gia Nguyệt hẹn giờ đi rạp chiếu phim.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Lý Văn",
+          "side": "left",
+          "zh": "学校前边有一家电影院。",
+          "pinyin": "Xuéxiào qiánbian yǒu yì jiā diànyǐngyuàn.",
+          "vi": "Phía trước trường học có một rạp chiếu phim."
+        },
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "right",
+          "zh": "对。我们晚上去那个电影院看电影吧。",
+          "pinyin": "Duì. Wǒmen wǎnshang qù nàge diànyǐngyuàn kàn diànyǐng ba.",
+          "vi": "Đúng vậy. Tối chúng mình đến rạp đó xem phim nhé."
+        },
+        {
+          "speaker": "Lý Văn",
+          "side": "left",
+          "zh": "好！我们七点在电影院外边见，好吗？",
+          "pinyin": "Hǎo! Wǒmen qī diǎn zài diànyǐngyuàn wàibian jiàn, hǎo ma?",
+          "vi": "Được! 7 giờ gặp ở ngoài rạp chiếu phim nhé?"
+        }
+      ]
+    },
+    {
+      "id": "d30-09-2",
+      "title": "Bài khóa 2: Quyển sách thứ hai trên ghế",
+      "context": "Bạch Gia Nguyệt và Trần Thiên Trung trò chuyện trong lớp.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "left",
+          "zh": "椅子上有一本中文书，那是谁的书？",
+          "pinyin": "Yǐzi shang yǒu yì běn Zhōngwén shū, nà shì shéi de shū?",
+          "vi": "Trên ghế có một quyển sách tiếng Trung, sách của ai vậy?"
+        },
+        {
+          "speaker": "Trần Thiên Trung",
+          "side": "right",
+          "zh": "是我的书，谢谢。这是我的第二本中文书。我明天上午在学校学习。",
+          "pinyin": "Shì wǒ de shū, xièxie. Zhè shì wǒ de dì-èr běn Zhōngwén shū. Wǒ míngtiān shàngwǔ zài xuéxiào xuéxí.",
+          "vi": "Sách của mình, cảm ơn. Đây là quyển sách tiếng Trung thứ hai của mình. Sáng mai mình học ở trường."
+        }
+      ]
+    },
+    {
+      "id": "d30-09-3",
+      "title": "Bài khóa 3: Kế hoạch cuối tuần",
+      "context": "Vương Nhất Tuyết và Dương Đồng Lạc kể về lịch thứ Bảy.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Dương Đồng Lạc",
+          "side": "left",
+          "zh": "我白天在家里读书，晚上和朋友们去外边唱歌。",
+          "pinyin": "Wǒ báitiān zài jiā li dúshū, wǎnshang hé péngyoumen qù wàibian chàng gē.",
+          "vi": "Ban ngày em ở nhà đọc sách, tối ra ngoài hát cùng bạn bè."
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "right",
+          "zh": "你唱歌很好听。我在家里做饭、看电视，和孩子们、小狗玩。",
+          "pinyin": "Nǐ chàng gē hěn hǎotīng. Wǒ zài jiā li zuò fàn, kàn diànshì, hé háizimen, xiǎo gǒu wán.",
+          "vi": "Em hát hay lắm. Chị ở nhà nấu ăn, xem tivi, chơi với các con và cún con."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-09-1",
+      "title": "1. Câu tồn hiện (1) & Trật tự Thời gian trước Nơi chốn",
+      "formula": "Địa điểm + 有/是 + Người/Vật | Chủ ngữ + Thời gian + Nơi chốn + Động từ",
+      "usage": "Khi trạng ngữ thời gian và nơi chốn cùng xuất hiện, THỜI GIAN luôn đứng TRƯỚC NƠI CHỐN.",
+      "explanation": "Ví dụ: 安妮下午在家里学中文。/ 我们七点在电影院外边见。",
+      "examples": [
+        {
+          "zh": "学校前边有一家电影院。",
+          "pinyin": "Xuéxiào qiánbian yǒu yì jiā diànyǐngyuàn.",
+          "vi": "Trước trường có một rạp chiếu phim."
+        },
+        {
+          "zh": "陈天中明天中午在学校吃午饭。",
+          "pinyin": "Chén Tiānzhōng míngtiān zhōngwǔ zài xuéxiào chī wǔfàn.",
+          "vi": "Trưa mai Trần Thiên Trung ăn trưa ở trường."
+        }
+      ],
+      "commonMistake": "Đặt nơi chốn trước thời gian: '我在学校明天上午学习' (SAI).",
+      "comparison": "Phủ định câu tồn hiện không dùng số lượng từ: 桌子上没有小猫."
+    },
+    {
+      "id": "g30-09-2",
+      "title": "2. Tiền tố 第 biểu thị số thứ tự",
+      "formula": "第 + Số nguyên (+ Lượng từ + Danh từ)",
+      "usage": "Dùng để tạo số thứ tự: 第一, 第二, 第三, 第一个学生, 第一本书.",
+      "explanation": "Lưu ý: Trong số thứ tự luôn dùng 二 (第二), không dùng 两.",
+      "examples": [
+        {
+          "zh": "这是我的第二本中文书。",
+          "pinyin": "Zhè shì wǒ de dì-èr běn Zhōngwén shū.",
+          "vi": "Đây là quyển sách tiếng Trung thứ hai của mình."
+        }
+      ],
+      "commonMistake": "Viết '第两本' (SAI). Đúng phải là '第二本'.",
+      "comparison": "两个 (số lượng 2) ↔ 第二个 (thứ hai)."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "学校前边有一家电影院。",
+      "pinyin": "Xuéxiào qiánbian yǒu yì jiā diànyǐngyuàn.",
+      "vi": "Phía trước trường học có một rạp chiếu phim."
+    },
+    {
+      "zh": "我们七点在电影院外边见。",
+      "pinyin": "Wǒmen qī diǎn zài diànyǐngyuàn wàibian jiàn.",
+      "vi": "Chúng mình 7 giờ gặp nhau ở ngoài rạp chiếu phim."
+    },
+    {
+      "zh": "这是我的第二本中文书。",
+      "pinyin": "Zhè shì wǒ de dì-èr běn Zhōngwén shū.",
+      "vi": "Đây là quyển sách tiếng Trung thứ hai của mình."
+    },
+    {
+      "zh": "我明天上午在学校学习。",
+      "pinyin": "Wǒ míngtiān shàngwǔ zài xuéxiào xuéxí.",
+      "vi": "Sáng mai mình học ở trường."
+    },
+    {
+      "zh": "你唱歌很好听！",
+      "pinyin": "Nǐ chàng gē hěn hǎotīng!",
+      "vi": "Bạn hát nghe hay lắm!"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-9-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "qiánbian",
+          "answer": "前边",
+          "meaning": "Phía trước"
+        },
+        {
+          "pinyin": "jiā",
+          "answer": "家",
+          "meaning": "Cái, chiếc (cho cửa hàng, rạp, cơ quan)"
+        },
+        {
+          "pinyin": "nàge",
+          "answer": "那个",
+          "meaning": "Đó, cái đó"
+        },
+        {
+          "pinyin": "wàibian",
+          "answer": "外边",
+          "meaning": "Phía ngoài, bên ngoài"
+        },
+        {
+          "pinyin": "yǐzi",
+          "answer": "椅子",
+          "meaning": "Ghế"
+        },
+        {
+          "pinyin": "shang / shàng",
+          "answer": "上",
+          "meaning": "Trên (sau danh từ đọc thanh nhẹ)"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 9.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 9"
+    },
+    {
+      "id": "q30-9-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Ban ngày"
+        },
+        {
+          "key": "B",
+          "label": "Sách"
+        },
+        {
+          "key": "C",
+          "label": "Đọc sách, học bài"
+        },
+        {
+          "key": "D",
+          "label": "Quyển, cuốn"
+        },
+        {
+          "key": "E",
+          "label": "Thứ (biểu thị số thứ tự)"
+        },
+        {
+          "key": "F",
+          "label": "Học, học tập"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "本",
+          "pinyin": "běn",
+          "answerKey": "D"
+        },
+        {
+          "hanzi": "书",
+          "pinyin": "shū",
+          "answerKey": "B"
+        },
+        {
+          "hanzi": "第",
+          "pinyin": "dì",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "学习",
+          "pinyin": "xuéxí",
+          "answerKey": "F"
+        },
+        {
+          "hanzi": "白天",
+          "pinyin": "báitiān",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "读书",
+          "pinyin": "dúshū",
+          "answerKey": "C"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 9.",
+      "relatedKnowledge": "Từ mới Bài 9"
+    },
+    {
+      "id": "q30-9-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.67] 王一雪：你唱歌很 ___ 。(是 / 好听 / 在学校 / 今天上午 / 椅子)",
+      "placeholder": "Nhập 2 chữ Hán...",
+      "acceptedAnswers": [
+        "好听"
+      ],
+      "explanation": "唱歌很好听 = hát rất hay.",
+      "relatedKnowledge": "Bài khóa 3",
+      "section": "writing"
+    },
+    {
+      "id": "q30-9-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.67] 她 ___ 在家里学习。(是 / 好听 / 在学校 / 今天上午 / 椅子)",
+      "placeholder": "Nhập cụm thời gian...",
+      "acceptedAnswers": [
+        "今天上午"
+      ],
+      "explanation": "Thời gian (今天上午) đứng trước nơi chốn (在家里).",
+      "relatedKnowledge": "Trật tự thời gian & nơi chốn",
+      "section": "writing"
+    },
+    {
+      "id": "q30-9-03",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Sổ tay tr.65] 星期天中午妈妈在做饭，我和妹妹在房间里玩。★ 说话人和妹妹在哪儿？",
+      "options": [
+        "外边",
+        "房间里",
+        "超市里"
+      ],
+      "answer": "房间里",
+      "explanation": "Câu nêu rõ 「我和妹妹在房间里玩」.",
+      "relatedKnowledge": "Đọc hiểu HSK 3.0",
+      "section": "reading"
+    },
+    {
+      "id": "q30-9-04",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "「Quyển sách thứ hai」 viết đúng là:",
+      "options": [
+        "第两本书",
+        "第二本书",
+        "二第本书",
+        "两本书第"
+      ],
+      "answer": "第二本书",
+      "explanation": "Số thứ tự dùng 「第二」.",
+      "relatedKnowledge": "Tiền tố 第",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-9-05",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Khi thời gian và nơi chốn cùng làm trạng ngữ, từ ngữ chỉ thời gian luôn đứng trước từ ngữ chỉ nơi chốn.",
+      "answer": true,
+      "explanation": "Đúng (Lớp học của Tiểu Ngữ tr.63).",
+      "relatedKnowledge": "Trật tự trạng ngữ",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-9-06",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu đúng (Sáng mai mình học ở trường):",
+      "tokens": [
+        "学习",
+        "在学校",
+        "明天上午",
+        "我"
+      ],
+      "answer": [
+        "我",
+        "明天上午",
+        "在学校",
+        "学习"
+      ],
+      "acceptedSequences": [
+        [
+          "我",
+          "明天上午",
+          "在学校",
+          "学习"
+        ],
+        [
+          "明天上午",
+          "我",
+          "在学校",
+          "学习"
+        ]
+      ],
+      "explanation": "Thời gian (明天上午) đứng trước nơi chốn (在学校).",
+      "relatedKnowledge": "Tiêu đề Bài 9",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-9-07",
+      "type": "matching",
+      "points": 1,
+      "prompt": "[Sổ tay tr.64] Nối câu hỏi với câu trả lời tương ứng:",
+      "pairs": [
+        {
+          "left": "桌子上有什么？",
+          "right": "一只小猫。"
+        },
+        {
+          "left": "你今天下午在哪儿？",
+          "right": "在家里。"
+        },
+        {
+          "left": "你和谁在超市呢？",
+          "right": "我女朋友。"
+        }
+      ],
+      "explanation": "Khớp Phần 2 Đọc hiểu Sổ tay Bài 9.",
+      "relatedKnowledge": "Nối câu HSK 3.0",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-9-08",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「好听」:",
+      "options": [
+        "hǎotīng",
+        "hǎodīng",
+        "hàotīng",
+        "hǎotíng"
+      ],
+      "answer": "hǎotīng",
+      "explanation": "好 thanh 3 (hǎo) + 听 thanh 1 (tīng).",
+      "relatedKnowledge": "Phát âm Bài 9",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-9-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết tối thứ Bảy Dương Đồng Lạc làm gì:",
+      "audioText": "我白天在家里读书，晚上和朋友们去外边唱歌。",
+      "options": [
+        "Ở nhà nấu ăn",
+        "Đi hát cùng bạn bè",
+        "Đi xem phim"
+      ],
+      "answer": "Đi hát cùng bạn bè",
+      "explanation": "「晚上和朋友们去外边唱歌」.",
+      "relatedKnowledge": "Nghe hiểu Bài 9",
+      "section": "listening"
+    },
+    {
+      "id": "q30-9-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Phía trước trường có một rạp chiếu phim.\"",
+      "sampleAnswer": "学校前边有一家电影院。",
+      "acceptedAnswers": [
+        "学校前边有一家电影院",
+        "学校前边有一家电影院。",
+        "学校前面有一家电影院",
+        "学校前面有一家电影院。"
+      ],
+      "requiredKeywords": [
+        "学校",
+        "有",
+        "电影院"
+      ],
+      "explanation": "学校前边有一家电影院。",
+      "relatedKnowledge": "Câu tồn hiện",
+      "section": "writing"
+    },
+    {
+      "id": "q30-9-11",
+      "section": "vocab",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho từ 「hǎotīng」 (Hay, nghe hay – dùng cho giọng hát, âm nhạc):",
+      "options": [
+        "好看",
+        "好吃",
+        "好听",
+        "好玩儿"
+      ],
+      "answer": "好听",
+      "explanation": "「好听 (hǎotīng)」 = nghe hay (Bài 9); 「好看」 = đẹp mắt (Bài 5); 「好吃」 = ăn ngon (Bài 6).",
+      "relatedKnowledge": "Phân biệt nhóm tính từ 好 + Động từ (Bài 5, 6, 9)"
+    },
+    {
+      "id": "q30-9-12",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 4 & 8",
+      "prompt": "[Ôn Bài 4, 8, 9] Chọn đúng bộ lượng từ tương ứng cho: 「一___电影院 · 一___中文书 · 一___小狗」:",
+      "options": [
+        "家 · 本 · 只",
+        "本 · 家 · 只",
+        "个 · 口 · 家",
+        "只 · 本 · 个"
+      ],
+      "answer": "家 · 本 · 只",
+      "explanation": "「家」 dùng cho rạp phim/cửa hàng/công ty (Bài 9), 「本」 dùng cho sách (Bài 9), 「只」 dùng cho động vật nhỏ như chó/mèo (Bài 8).",
+      "relatedKnowledge": "Tổng hợp lượng từ Bài 4, 8, 9"
+    },
+    {
+      "id": "q30-9-13",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Khi trong cùng một câu có cả trạng ngữ THỜI GIAN và NƠI CHỐN, trật tự nào ĐÚNG chuẩn tiếng Trung?",
+      "options": [
+        "我在学校明天上午学习。",
+        "我明天上午在学校学习。",
+        "我学习明天上午在学校。",
+        "在学校我明天上午学习。"
+      ],
+      "answer": "我明天上午在学校学习。",
+      "explanation": "Quy tắc vàng: Chủ ngữ + Thời gian (明天上午) + Nơi chốn (在学校) + Động từ (学习) — thời gian luôn đứng trước nơi chốn.",
+      "relatedKnowledge": "Trật tự Thời gian trước Nơi chốn"
+    },
+    {
+      "id": "q30-9-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 4",
+      "prompt": "[Ôn Bài 4 + 9] Phân biệt số đếm 「两本中文书」 và số thứ tự 「第二本中文书」:",
+      "options": [
+        "Số thứ tự dùng 「第 + 二」 (第二本), còn số lượng dùng 「两」 (两本)",
+        "Số thứ tự dùng 「第两本」, còn số lượng dùng 「二本」",
+        "Cả hai đều bắt buộc dùng 「二」",
+        "Cả hai đều bắt buộc dùng 「两」"
+      ],
+      "answer": "Số thứ tự dùng 「第 + 二」 (第二本), còn số lượng dùng 「两」 (两本)",
+      "explanation": "Trong số thứ tự luôn dùng 「二」 sau 「第」 → 「第二本」 (quyển thứ hai); còn đếm số lượng 2 quyển dùng 「两本」 (Bài 4).",
+      "relatedKnowledge": "Ôn Bài 4 (二/两) + Bài 9 (Tiền tố 第)"
+    },
+    {
+      "id": "q30-9-15",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "杨同乐：我白天在家里读书，晚上和朋友们去外边唱歌。\n王一雪：你唱歌很好听。我在家里做饭、看电视，和孩子们、小狗玩。",
+      "passagePinyin": "Yáng Tónglè: Wǒ báitiān zài jiālǐ dúshū, wǎnshang hé péngyoumen qù wàibian chànggē. Wáng Yīxuě: Nǐ chànggē hěn hǎotīng. Wǒ zài jiālǐ zuòfàn, kàn diànshì, hé háizimen, xiǎogǒu wán.",
+      "prompt": "Buổi tối Dương Đồng Lạc làm gì?",
+      "options": [
+        "Ở nhà nấu ăn và xem tivi",
+        "Đi ra ngoài hát cùng bạn bè",
+        "Ở trường học tiếng Trung",
+        "Chơi cùng các con và chú chó nhỏ"
+      ],
+      "answer": "Đi ra ngoài hát cùng bạn bè",
+      "explanation": "Dương Đồng Lạc nói 「晚上和朋友们去外边唱歌。」; còn ở nhà nấu ăn, xem tivi, chơi với con và chó nhỏ là Vương Nhất Tuyết.",
+      "relatedKnowledge": "Bài khóa 3 – Kế hoạch cuối tuần"
+    },
+    {
+      "id": "q30-9-16",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "reviewTag": "Ôn Bài 8",
+      "prompt": "[Ôn Bài 8 + 9] Trong câu tồn hiện 「椅子上有一本中文书。」, nơi chốn 「椅子上」 đứng đầu câu làm chủ ngữ, tiếp theo là 「有」 rồi đến vật tồn tại.",
+      "answer": true,
+      "explanation": "Đúng! Mẫu câu tồn hiện chuẩn: 「Nơi chốn + 有 + Số lượng + Danh từ」 (giống 「房间外有一只小猫」 ở Bài 8 và 「学校前边有一家电影院」 ở Bài 9).",
+      "relatedKnowledge": "Câu tồn hiện với 有 (Bài 8–9)"
+    },
+    {
+      "id": "q30-9-17",
+      "section": "writing",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 1 chữ Hán tạo số thứ tự: 这是我的___二本中文书。(Đây là quyển sách tiếng Trung thứ hai của tôi.)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "第"
+      ],
+      "explanation": "Tiền tố 「第 (dì)」 đứng trước số từ tạo số thứ tự: 「第二本」.",
+      "relatedKnowledge": "Số thứ tự với 第"
+    },
+    {
+      "id": "q30-9-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "reviewTag": "Ôn Bài 7",
+      "prompt": "[Ôn Bài 7 + 9] Sắp xếp thành câu hẹn gặp lúc 7 giờ ngoài rạp chiếu phim:",
+      "tokens": [
+        "七点",
+        "电影院外边",
+        "我们",
+        "见",
+        "在"
+      ],
+      "answer": [
+        "我们",
+        "七点",
+        "在",
+        "电影院外边",
+        "见"
+      ],
+      "acceptedSequences": [
+        [
+          "我们",
+          "七点",
+          "在",
+          "电影院外边",
+          "见"
+        ],
+        [
+          "七点",
+          "我们",
+          "在",
+          "电影院外边",
+          "见"
+        ]
+      ],
+      "explanation": "Thời gian 「七点」 (Bài 7) đặt trước nơi chốn 「在电影院外边」 (Bài 9).",
+      "relatedKnowledge": "Ôn Bài 7 + Bài 9 (Thời gian trước Nơi chốn)"
+    },
+    {
+      "id": "q30-9-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "椅子上有一本中文书，那是陈天中的第二本中文书。",
+      "prompt": "Nghe câu trên và chọn đáp án ĐÚNG:",
+      "options": [
+        "Trên bàn có hai quyển sách tiếng Pháp",
+        "Trên ghế có quyển sách tiếng Trung thứ hai của Trần Thiên Trung",
+        "Dưới ghế có một chú chó nhỏ",
+        "Trần Thiên Trung không có sách tiếng Trung"
+      ],
+      "answer": "Trên ghế có quyển sách tiếng Trung thứ hai của Trần Thiên Trung",
+      "explanation": "Lời nghe: 「椅子上有一本中文书，那是陈天中的第二本中文书。」.",
+      "relatedKnowledge": "Nghe hiểu Bài 9"
+    },
+    {
+      "id": "q30-9-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 5 & 7",
+      "audioText": "A：你星期天白天做什么？ B：我白天在家读书，晚上七点在学校前边的电影院看电影。",
+      "prompt": "[Ôn Bài 5, 7, 9] Nghe hội thoại và cho biết Chủ nhật lúc 7 giờ tối B làm gì?",
+      "options": [
+        "Đọc sách ở nhà",
+        "Đi hát với bạn bè",
+        "Xem phim ở rạp chiếu phim phía trước trường học",
+        "Đi siêu thị mua đồ"
+      ],
+      "answer": "Xem phim ở rạp chiếu phim phía trước trường học",
+      "explanation": "B nói 「晚上七点在学校前边的电影院看电影。」 — kết hợp kiến thức Bài 5, 7 và 9.",
+      "relatedKnowledge": "Nghe tổng hợp Bài 5, 7, 9"
+    },
+    {
+      "id": "q30-9-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Phía trước trường có một rạp chiếu phim.",
+          "sampleAnswer": "学校前边有一家电影院。",
+          "pinyin": "Xuéxiào qiánbian yǒu yì jiā diànyǐngyuàn.",
+          "acceptedAnswers": [
+            "学校前边有一家电影院",
+            "学校前面有一家电影院"
+          ],
+          "requiredKeywords": [
+            "学校",
+            "有",
+            "电影院"
+          ]
+        },
+        {
+          "vi": "Trên ghế có một quyển sách tiếng Trung.",
+          "sampleAnswer": "椅子上有一本中文书。",
+          "pinyin": "Yǐzi shàng yǒu yì běn Zhōngwén shū.",
+          "acceptedAnswers": [
+            "椅子上有一本中文书"
+          ],
+          "requiredKeywords": [
+            "椅子",
+            "有",
+            "中文书"
+          ]
+        },
+        {
+          "vi": "Đây là quyển sách tiếng Trung thứ hai của tôi.",
+          "sampleAnswer": "这是我的第二本中文书。",
+          "pinyin": "Zhè shì wǒ de dì-èr běn Zhōngwén shū.",
+          "acceptedAnswers": [
+            "这是我的第二本中文书"
+          ],
+          "requiredKeywords": [
+            "第二",
+            "中文书"
+          ]
+        },
+        {
+          "vi": "Sáng mai tôi học ở trường.",
+          "sampleAnswer": "我明天上午在学校学习。",
+          "pinyin": "Wǒ míngtiān shàngwǔ zài xuéxiào xuéxí.",
+          "acceptedAnswers": [
+            "我明天上午在学校学习",
+            "明天上午我在学校学习"
+          ],
+          "requiredKeywords": [
+            "明天",
+            "上午",
+            "在学校",
+            "学习"
+          ]
+        },
+        {
+          "vi": "[Ôn Bài 5] Ban ngày tôi đọc sách ở nhà, buổi tối đi hát cùng bạn bè.",
+          "sampleAnswer": "我白天在家里读书，晚上和朋友们去外边唱歌。",
+          "pinyin": "Wǒ báitiān zài jiālǐ dúshū, wǎnshang hé péngyoumen qù wàibian chànggē.",
+          "acceptedAnswers": [
+            "我白天在家里读书晚上和朋友们去外边唱歌",
+            "我白天在家读书晚上和朋友去唱歌"
+          ],
+          "requiredKeywords": [
+            "白天",
+            "读书",
+            "晚上",
+            "唱歌"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 9 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 9"
+    }
+  ]
+}

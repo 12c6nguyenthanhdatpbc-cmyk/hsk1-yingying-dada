@@ -1,0 +1,229 @@
+[
+  {
+    "id": "L30-01",
+    "courseId": "hsk1",
+    "lessonId": "hsk1-01",
+    "lessonLabel": "Bài 1 · AI小语，你好！",
+    "type": "listen_picture",
+    "typeLabel": "Nghe & Chọn tranh",
+    "prompt": "Nghe câu sau và chọn tình huống minh họa đúng:",
+    "audioFile": "",
+    "audioText": "老师，您好！同学们，再见！",
+    "transcriptPinyin": "Lǎoshī, nín hǎo! Tóngxuémen, zàijiàn!",
+    "transcriptVi": "Em chào cô ạ! Tạm biệt các em!",
+    "options": [
+      {
+        "id": "A",
+        "label": "A. Học sinh chào cô giáo ở lớp",
+        "icon": "teacher"
+      },
+      {
+        "id": "B",
+        "label": "B. Bác sĩ ở bệnh viện",
+        "icon": "hospital"
+      },
+      {
+        "id": "C",
+        "label": "C. Bữa cơm trưa",
+        "icon": "meal"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Câu chào thầy cô và tạm biệt học sinh trong Bài 1."
+  },
+  {
+    "id": "L30-02",
+    "courseId": "hsk1",
+    "lessonId": "hsk1-02",
+    "lessonLabel": "Bài 2 · 我叫李文",
+    "type": "listen_response",
+    "typeLabel": "Nghe & Chọn câu trả lời",
+    "prompt": "Nghe câu nói và chọn lời đáp tự nhiên nhất:",
+    "audioFile": "",
+    "audioText": "对不起！我认错人了。",
+    "transcriptPinyin": "Duìbuqǐ!",
+    "transcriptVi": "Xin lỗi bạn!",
+    "options": [
+      {
+        "id": "A",
+        "label": "A. 没关系！(Méi guānxi!)"
+      },
+      {
+        "id": "B",
+        "label": "B. 不客气！(Bú kèqi!)"
+      },
+      {
+        "id": "C",
+        "label": "C. 我叫李文。(Wǒ jiào Lǐ Wén.)"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Đáp lại 「对不起」 dùng 「没关系」 hoặc 「没事」."
+  },
+  {
+    "id": "L30-03",
+    "courseId": "hsk1",
+    "lessonId": "hsk1-04",
+    "lessonLabel": "Bài 4 · 我有两个孩子",
+    "type": "listen_dialogue",
+    "typeLabel": "Nghe hội thoại & Trả lời",
+    "prompt": "Nghe hội thoại và cho biết nhà Dương Đồng Lạc có mấy người:",
+    "audioFile": "",
+    "audioText": "女：你家有几口人？ 男：我家有四口人，爸爸、妈妈、妹妹和我。",
+    "transcriptPinyin": "Nǚ: Nǐ jiā yǒu jǐ kǒu rén? Nán: Wǒ jiā yǒu sì kǒu rén, bàba, māma, mèimei hé wǒ.",
+    "transcriptVi": "Nữ: Nhà em có mấy người? Nam: Nhà em có 4 người.",
+    "options": [
+      {
+        "id": "A",
+        "label": "A. 2 người"
+      },
+      {
+        "id": "B",
+        "label": "B. 4 người (四口人)"
+      },
+      {
+        "id": "C",
+        "label": "C. 5 người"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Dương Đồng Lạc trả lời 「我家有四口人」."
+  },
+  {
+    "id": "L30-04",
+    "courseId": "hsk1",
+    "lessonId": "hsk1-06",
+    "lessonLabel": "Bài 6 · 你的手机号是多少？",
+    "type": "listen_dialogue",
+    "typeLabel": "Nghe hội thoại & Trả lời",
+    "prompt": "Nghe và cho biết gia đình Vương Nhất Tuyết đến nhà hàng Tây An bằng cách nào:",
+    "audioFile": "",
+    "audioText": "女：我们怎么去西安饭店？ 男：坐出租车去。",
+    "transcriptPinyin": "Nǚ: Wǒmen zěnme qù Xī'ān Fàndiàn? Nán: Zuò chūzūchē qù.",
+    "transcriptVi": "Nữ: Chúng ta đi nhà hàng Tây An thế nào? Nam: Đi taxi.",
+    "options": [
+      {
+        "id": "A",
+        "label": "A. Đi taxi (坐出租车)"
+      },
+      {
+        "id": "B",
+        "label": "B. Đi tàu hỏa"
+      },
+      {
+        "id": "C",
+        "label": "C. Đi máy bay"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Lưu Minh nói 「坐出租车去」."
+  },
+  {
+    "id": "L30-05",
+    "courseId": "hsk1",
+    "lessonId": "hsk1-07",
+    "lessonLabel": "Bài 7 · 我晚上六点半下班",
+    "type": "listen_picture",
+    "typeLabel": "Nghe & Chọn tranh",
+    "prompt": "Nghe câu sau và chọn hình phù hợp:",
+    "audioFile": "",
+    "audioText": "现在早上八点四十，我晚上六点半下班。",
+    "transcriptPinyin": "Xiànzài zǎoshang bā diǎn sìshí, wǒ wǎnshang liù diǎn bàn xiàbān.",
+    "transcriptVi": "Bây giờ 8:40 sáng, em tan làm lúc 6:30 tối.",
+    "options": [
+      {
+        "id": "A",
+        "label": "A. Đồng hồ chỉ giờ",
+        "icon": "clock"
+      },
+      {
+        "id": "B",
+        "label": "B. Bệnh viện",
+        "icon": "hospital"
+      },
+      {
+        "id": "C",
+        "label": "C. Gia đình",
+        "icon": "family"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Nội dung nói về mốc giờ trong ngày."
+  },
+  {
+    "id": "L30-06",
+    "courseId": "hsk1",
+    "lessonId": "hsk1-10",
+    "lessonLabel": "Bài 10 · 这儿的苹果真便宜！",
+    "type": "listen_pinyin",
+    "typeLabel": "Nghe & Chọn Pinyin",
+    "prompt": "Nghe từ vựng và chọn đúng phiên âm Pinyin:",
+    "audioFile": "",
+    "audioText": "便宜",
+    "transcriptPinyin": "piányi",
+    "transcriptVi": "rẻ",
+    "options": [
+      {
+        "id": "A",
+        "label": "A. piányi"
+      },
+      {
+        "id": "B",
+        "label": "B. biànyí"
+      },
+      {
+        "id": "C",
+        "label": "C. piānyí"
+      }
+    ],
+    "answer": "A",
+    "explanation": "便宜 (rẻ) đọc là piányi."
+  },
+  {
+    "id": "L30-07",
+    "courseId": "hsk1",
+    "lessonId": "hsk1-12",
+    "lessonLabel": "Bài 12 · 昨天下雪了",
+    "type": "listen_hanzi",
+    "typeLabel": "Nghe & Chọn chữ Hán",
+    "prompt": "Nghe từ vựng và chọn đúng chữ Hán:",
+    "audioFile": "",
+    "audioText": "生病",
+    "transcriptPinyin": "shēngbìng",
+    "transcriptVi": "bị ốm",
+    "options": [
+      {
+        "id": "A",
+        "label": "A. 看病"
+      },
+      {
+        "id": "B",
+        "label": "B. 生病"
+      },
+      {
+        "id": "C",
+        "label": "C. 下雪"
+      }
+    ],
+    "answer": "B",
+    "explanation": "生病 (shēngbìng) = bị ốm."
+  },
+  {
+    "id": "L30-08",
+    "courseId": "hsk1",
+    "lessonId": "hsk1-15",
+    "lessonLabel": "Bài 15 · 大兴机场见！",
+    "type": "listen_fill",
+    "typeLabel": "Nghe đoạn văn & Điền từ",
+    "prompt": "Nghe câu sau và điền 2 chữ Hán còn thiếu: 「她可以去 ____ 接你们。」",
+    "audioFile": "",
+    "audioText": "她可以去机场接你们。",
+    "transcriptPinyin": "Tā kěyǐ qù jīchǎng jiē nǐmen.",
+    "transcriptVi": "Chị ấy có thể ra sân bay đón các em.",
+    "acceptedAnswers": [
+      "机场"
+    ],
+    "answer": "机场",
+    "explanation": "Từ nghe được là 「机场」 (jīchǎng – sân bay)."
+  }
+]

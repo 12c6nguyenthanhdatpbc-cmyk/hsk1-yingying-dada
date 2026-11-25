@@ -1,0 +1,1045 @@
+{
+  "id": "hsk1-10",
+  "courseId": "hsk1",
+  "order": 10,
+  "group": "Bài 06–10",
+  "zhTitle": "这儿的苹果真便宜！",
+  "pinyinTitle": "Zhèr de píngguǒ zhēn piányi!",
+  "viTitle": "Táo ở đây rẻ thật!",
+  "image": "images/hsk1-lesson10.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 10 Giáo trình New HSK 1 (HSK 3.0): Cách đọc tiền Nhân dân tệ (元/块, 角/毛, 分), câu vị ngữ tính từ và đại từ nghi vấn 怎么样.",
+  "vocabulary": [
+    {
+      "id": "v30-10-01",
+      "hanzi": "杯子",
+      "pinyin": "bēizi",
+      "pos": "Danh từ",
+      "meaning": "Cốc, ly",
+      "exampleZh": "请问，有杯子吗？",
+      "examplePinyin": "Qǐngwèn, yǒu bēizi ma?",
+      "exampleVi": "Xin hỏi, ở đây có bán cốc không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Danh từ.",
+      "collocations": [
+        "杯子 (Cốc, ly)"
+      ],
+      "extraExample": "请问，有杯子吗？ — Xin hỏi, ở đây có bán cốc không?"
+    },
+    {
+      "id": "v30-10-02",
+      "hanzi": "售货员",
+      "pinyin": "shòuhuòyuán",
+      "pos": "Danh từ",
+      "meaning": "Nhân viên bán hàng",
+      "exampleZh": "售货员说五块钱一个。",
+      "examplePinyin": "Shòuhuòyuán shuō wǔ kuài qián yí gè.",
+      "exampleVi": "Nhân viên bán hàng nói 5 đồng một cái.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Danh từ.",
+      "collocations": [
+        "售货员 (Nhân viên bán hàng)"
+      ],
+      "extraExample": "售货员说五块钱一个。 — Nhân viên bán hàng nói 5 đồng một cái."
+    },
+    {
+      "id": "v30-10-03",
+      "hanzi": "这边",
+      "pinyin": "zhèbiān",
+      "pos": "Đại từ",
+      "meaning": "Bên này, phía này",
+      "exampleZh": "杯子在这边。",
+      "examplePinyin": "Bēizi zài zhèbiān.",
+      "exampleVi": "Cốc ở phía bên này.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Đại từ.",
+      "collocations": [
+        "这边 (Bên này, phía này)"
+      ],
+      "extraExample": "杯子在这边。 — Cốc ở phía bên này."
+    },
+    {
+      "id": "v30-10-04",
+      "hanzi": "钱",
+      "pinyin": "qián",
+      "pos": "Danh từ",
+      "meaning": "Tiền",
+      "exampleZh": "多少钱一个？",
+      "examplePinyin": "Duōshao qián yí gè?",
+      "exampleVi": "Bao nhiêu tiền một chiếc?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Danh từ.",
+      "collocations": [
+        "钱 (Tiền)"
+      ],
+      "extraExample": "多少钱一个？ — Bao nhiêu tiền một chiếc?"
+    },
+    {
+      "id": "v30-10-05",
+      "hanzi": "这些",
+      "pinyin": "zhèxiē",
+      "pos": "Đại từ",
+      "meaning": "Những cái này",
+      "exampleZh": "这些五块钱一个。",
+      "examplePinyin": "Zhèxiē wǔ kuài qián yí gè.",
+      "exampleVi": "Những chiếc này 5 đồng một cái.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Đại từ.",
+      "collocations": [
+        "这些 (Những cái này)"
+      ],
+      "extraExample": "这些五块钱一个。 — Những chiếc này 5 đồng một cái."
+    },
+    {
+      "id": "v30-10-06",
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "pos": "Lượng từ",
+      "meaning": "Đồng (khẩu ngữ)",
+      "exampleZh": "七块钱吧。",
+      "examplePinyin": "Qī kuài qián ba.",
+      "exampleVi": "Lấy 7 đồng nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Lượng từ.",
+      "collocations": [
+        "块 (Đồng (khẩu ngữ))"
+      ],
+      "extraExample": "七块钱吧。 — Lấy 7 đồng nhé."
+    },
+    {
+      "id": "v30-10-07",
+      "hanzi": "那些",
+      "pinyin": "nàxiē",
+      "pos": "Đại từ",
+      "meaning": "Những cái kia",
+      "exampleZh": "那些十块钱一个。",
+      "examplePinyin": "Nàxiē shí kuài qián yí gè.",
+      "exampleVi": "Những chiếc kia 10 đồng một cái.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Đại từ.",
+      "collocations": [
+        "那些 (Những cái kia)"
+      ],
+      "extraExample": "那些十块钱一个。 — Những chiếc kia 10 đồng một cái."
+    },
+    {
+      "id": "v30-10-08",
+      "hanzi": "这儿",
+      "pinyin": "zhèr",
+      "pos": "Đại từ",
+      "meaning": "Ở đây, chỗ này",
+      "exampleZh": "这儿的水果真不少！",
+      "examplePinyin": "Zhèr de shuǐguǒ zhēn bùshǎo!",
+      "exampleVi": "Hoa quả ở đây nhiều nhỉ!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Đại từ.",
+      "collocations": [
+        "这儿 (Ở đây, chỗ này)"
+      ],
+      "extraExample": "这儿的水果真不少！ — Hoa quả ở đây nhiều nhỉ!"
+    },
+    {
+      "id": "v30-10-09",
+      "hanzi": "水果",
+      "pinyin": "shuǐguǒ",
+      "pos": "Danh từ",
+      "meaning": "Hoa quả, trái cây",
+      "exampleZh": "这儿的水果真不少！",
+      "examplePinyin": "Zhèr de shuǐguǒ zhēn bùshǎo!",
+      "exampleVi": "Hoa quả ở đây nhiều thật!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Danh từ.",
+      "collocations": [
+        "水果 (Hoa quả, trái cây)"
+      ],
+      "extraExample": "这儿的水果真不少！ — Hoa quả ở đây nhiều thật!"
+    },
+    {
+      "id": "v30-10-10",
+      "hanzi": "少",
+      "pinyin": "shǎo",
+      "pos": "Tính từ",
+      "meaning": "Ít",
+      "exampleZh": "真不少！",
+      "examplePinyin": "Zhēn bùshǎo!",
+      "exampleVi": "Nhiều thật! (không ít chút nào)",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Tính từ.",
+      "collocations": [
+        "少 (Ít)"
+      ],
+      "extraExample": "真不少！ — Nhiều thật! (không ít chút nào)"
+    },
+    {
+      "id": "v30-10-11",
+      "hanzi": "斤",
+      "pinyin": "jīn",
+      "pos": "Lượng từ",
+      "meaning": "Cân Trung Quốc (= 0,5 kg)",
+      "exampleZh": "我想买两斤苹果。",
+      "examplePinyin": "Wǒ xiǎng mǎi liǎng jīn píngguǒ.",
+      "exampleVi": "Tôi muốn mua hai cân táo.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Lượng từ.",
+      "collocations": [
+        "斤 (Cân Trung Quốc (= 0,5 kg))"
+      ],
+      "extraExample": "我想买两斤苹果。 — Tôi muốn mua hai cân táo."
+    },
+    {
+      "id": "v30-10-12",
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "pos": "Danh từ",
+      "meaning": "Táo",
+      "exampleZh": "苹果三块五一斤。",
+      "examplePinyin": "Píngguǒ sān kuài wǔ yì jīn.",
+      "exampleVi": "Táo 3 đồng rưỡi một cân.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Danh từ.",
+      "collocations": [
+        "苹果 (Táo)"
+      ],
+      "extraExample": "苹果三块五一斤。 — Táo 3 đồng rưỡi một cân."
+    },
+    {
+      "id": "v30-10-13",
+      "hanzi": "便宜",
+      "pinyin": "piányi",
+      "pos": "Tính từ",
+      "meaning": "Rẻ",
+      "exampleZh": "这儿的苹果真便宜！",
+      "examplePinyin": "Zhèr de píngguǒ zhēn piányi!",
+      "exampleVi": "Táo ở đây rẻ thật!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Tính từ.",
+      "collocations": [
+        "便宜 (Rẻ)"
+      ],
+      "extraExample": "这儿的苹果真便宜！ — Táo ở đây rẻ thật!"
+    },
+    {
+      "id": "v30-10-14",
+      "hanzi": "商店",
+      "pinyin": "shāngdiàn",
+      "pos": "Danh từ",
+      "meaning": "Cửa hàng",
+      "exampleZh": "这家商店衣服真多！",
+      "examplePinyin": "Zhè jiā shāngdiàn yīfu zhēn duō!",
+      "exampleVi": "Cửa hàng này nhiều quần áo thật!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Danh từ.",
+      "collocations": [
+        "商店 (Cửa hàng)"
+      ],
+      "extraExample": "这家商店衣服真多！ — Cửa hàng này nhiều quần áo thật!"
+    },
+    {
+      "id": "v30-10-15",
+      "hanzi": "衣服",
+      "pinyin": "yīfu",
+      "pos": "Danh từ",
+      "meaning": "Quần áo",
+      "exampleZh": "这件一百元，怎么样？",
+      "examplePinyin": "Zhè jiàn yìbǎi yuán, zěnmeyàng?",
+      "exampleVi": "Chiếc này 100 đồng, thế nào?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Danh từ.",
+      "collocations": [
+        "衣服 (Quần áo)"
+      ],
+      "extraExample": "这件一百元，怎么样？ — Chiếc này 100 đồng, thế nào?"
+    },
+    {
+      "id": "v30-10-16",
+      "hanzi": "件",
+      "pinyin": "jiàn",
+      "pos": "Lượng từ",
+      "meaning": "Chiếc, cái (cho quần áo)",
+      "exampleZh": "买一件吧。",
+      "examplePinyin": "Mǎi yí jiàn ba.",
+      "exampleVi": "Mua một chiếc nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Lượng từ.",
+      "collocations": [
+        "件 (Chiếc, cái (cho quần áo))"
+      ],
+      "extraExample": "买一件吧。 — Mua một chiếc nhé."
+    },
+    {
+      "id": "v30-10-17",
+      "hanzi": "元",
+      "pinyin": "yuán",
+      "pos": "Lượng từ",
+      "meaning": "Đồng (Nhân dân tệ – văn viết)",
+      "exampleZh": "这件一百元。",
+      "examplePinyin": "Zhè jiàn yìbǎi yuán.",
+      "exampleVi": "Chiếc này 100 tệ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Lượng từ.",
+      "collocations": [
+        "元 (Đồng (Nhân dân tệ – văn viết))"
+      ],
+      "extraExample": "这件一百元。 — Chiếc này 100 tệ."
+    },
+    {
+      "id": "v30-10-18",
+      "hanzi": "怎么样",
+      "pinyin": "zěnmeyàng",
+      "pos": "Đại từ",
+      "meaning": "Thế nào, như thế nào",
+      "exampleZh": "这件衣服怎么样？",
+      "examplePinyin": "Zhè jiàn yīfu zěnmeyàng?",
+      "exampleVi": "Chiếc áo này thế nào?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Đại từ.",
+      "collocations": [
+        "怎么样 (Thế nào, như thế nào)"
+      ],
+      "extraExample": "这件衣服怎么样？ — Chiếc áo này thế nào?"
+    },
+    {
+      "id": "v30-10-19",
+      "hanzi": "贵",
+      "pinyin": "guì",
+      "pos": "Tính từ",
+      "meaning": "Đắt",
+      "exampleZh": "好看，也不贵。",
+      "examplePinyin": "Hǎokàn, yě bú guì.",
+      "exampleVi": "Đẹp đấy, mà cũng không đắt.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Tính từ.",
+      "collocations": [
+        "贵 (Đắt)"
+      ],
+      "extraExample": "好看，也不贵。 — Đẹp đấy, mà cũng không đắt."
+    },
+    {
+      "id": "v30-10-20",
+      "hanzi": "穿",
+      "pinyin": "chuān",
+      "pos": "Động từ",
+      "meaning": "Mặc",
+      "exampleZh": "小雪能穿。",
+      "examplePinyin": "Xiǎoxuě néng chuān.",
+      "exampleVi": "Tiểu Tuyết mặc được đấy.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Động từ.",
+      "collocations": [
+        "穿 (Mặc)"
+      ],
+      "extraExample": "小雪能穿。 — Tiểu Tuyết mặc được đấy."
+    },
+    {
+      "id": "v30-10-21",
+      "hanzi": "女",
+      "pinyin": "nǚ",
+      "pos": "Tính từ",
+      "meaning": "Nữ, con gái",
+      "exampleZh": "这些是女孩子穿的衣服。",
+      "examplePinyin": "Zhèxiē shì nǚ háizi chuān de yīfu.",
+      "exampleVi": "Những cái này là quần áo bé gái mặc.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Tính từ.",
+      "collocations": [
+        "女 (Nữ, con gái)"
+      ],
+      "extraExample": "这些是女孩子穿的衣服。 — Những cái này là quần áo bé gái mặc."
+    },
+    {
+      "id": "v30-10-22",
+      "hanzi": "男",
+      "pinyin": "nán",
+      "pos": "Tính từ",
+      "meaning": "Nam, con trai",
+      "exampleZh": "男孩子的衣服在那儿。",
+      "examplePinyin": "Nán háizi de yīfu zài nàr.",
+      "exampleVi": "Quần áo bé trai ở đằng kia.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Tính từ.",
+      "collocations": [
+        "男 (Nam, con trai)"
+      ],
+      "extraExample": "男孩子的衣服在那儿。 — Quần áo bé trai ở đằng kia."
+    },
+    {
+      "id": "v30-10-23",
+      "hanzi": "那儿",
+      "pinyin": "nàr",
+      "pos": "Đại từ",
+      "meaning": "Ở kia, chỗ đó",
+      "exampleZh": "男孩子的衣服在那儿。",
+      "examplePinyin": "Nán háizi de yīfu zài nàr.",
+      "exampleVi": "Quần áo bé trai ở đằng kia.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 10. Từ loại: Đại từ.",
+      "collocations": [
+        "那儿 (Ở kia, chỗ đó)"
+      ],
+      "extraExample": "男孩子的衣服在那儿。 — Quần áo bé trai ở đằng kia."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-10-1",
+      "title": "Bài khóa 1: Mua cốc ở cửa hàng nhỏ",
+      "context": "Vương Nhất Tuyết hỏi mua cốc.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "请问，有杯子吗？多少钱一个？",
+          "pinyin": "Qǐngwèn, yǒu bēizi ma? Duōshao qián yí gè?",
+          "vi": "Xin hỏi ở đây có cốc không? Bao nhiêu tiền một chiếc?"
+        },
+        {
+          "speaker": "Nhân viên",
+          "side": "right",
+          "zh": "有，杯子在这边。这些五块钱一个，那些十块钱一个。",
+          "pinyin": "Yǒu, bēizi zài zhèbiān. Zhèxiē wǔ kuài qián yí gè, nàxiē shí kuài qián yí gè.",
+          "vi": "Có ạ, cốc ở bên này. Mấy cái này 5 đồng, mấy cái kia 10 đồng."
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "我买这个吧。",
+          "pinyin": "Wǒ mǎi zhège ba.",
+          "vi": "Tôi lấy chiếc này."
+        }
+      ]
+    },
+    {
+      "id": "d30-10-2",
+      "title": "Bài khóa 2: Mua táo ở chợ",
+      "context": "Vương Nhất Tuyết mua hoa quả ở chợ.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "这儿的水果真不少！我想买两斤苹果。",
+          "pinyin": "Zhèr de shuǐguǒ zhēn bùshǎo! Wǒ xiǎng mǎi liǎng jīn píngguǒ.",
+          "vi": "Hoa quả ở đây nhiều nhỉ! Tôi muốn mua 2 cân táo."
+        },
+        {
+          "speaker": "Nhân viên",
+          "side": "right",
+          "zh": "苹果三块五一斤。这些七块二，七块钱吧。",
+          "pinyin": "Píngguǒ sān kuài wǔ yì jīn. Zhèxiē qī kuài èr, qī kuài qián ba.",
+          "vi": "Táo 3 đồng rưỡi một cân. Chỗ này 7,2 đồng, lấy chị 7 đồng nhé."
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "好的，这儿的苹果真便宜！",
+          "pinyin": "Hǎo de, zhèr de píngguǒ zhēn piányi!",
+          "vi": "Vâng, táo ở đây rẻ thật!"
+        }
+      ]
+    },
+    {
+      "id": "d30-10-3",
+      "title": "Bài khóa 3: Mua quần áo cho con",
+      "context": "Lưu Minh và Vương Nhất Tuyết chọn quần áo ở trung tâm thương mại.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "这家商店衣服真多！这件一百元，怎么样？",
+          "pinyin": "Zhè jiā shāngdiàn yīfu zhēn duō! Zhè jiàn yìbǎi yuán, zěnmeyàng?",
+          "vi": "Cửa hàng này nhiều áo thật! Chiếc này 100 tệ, anh thấy thế nào?"
+        },
+        {
+          "speaker": "Lưu Minh",
+          "side": "right",
+          "zh": "好看，也不贵。小明能穿吗？",
+          "pinyin": "Hǎokàn, yě bú guì. Xiǎomíng néng chuān ma?",
+          "vi": "Đẹp đấy, không đắt. Tiểu Minh có mặc được không?"
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "left",
+          "zh": "不能。这些是女孩子穿的衣服，男孩子的衣服在那儿。",
+          "pinyin": "Bù néng. Zhèxiē shì nǚ háizi chuān de yīfu, nán háizi de yīfu zài nàr.",
+          "vi": "Không được. Đây là áo bé gái, áo bé trai ở đằng kia cơ."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-10-1",
+      "title": "1. Cách diễn đạt số tiền Nhân dân tệ (RMB)",
+      "formula": "元/块 → 角/毛 → 分",
+      "usage": "Văn viết dùng 元, 角, 分; văn nói dùng 块, 毛, 分. Nếu chỉ có 2 bậc liền kề, có thể lược tên đơn vị nhỏ (3.2元 = 三块二).",
+      "explanation": "Ví dụ tr.72: 6.02元 = 六块零两分; 202.2元 = 二百零二块两毛.",
+      "examples": [
+        {
+          "zh": "3.2元 → 三块二",
+          "pinyin": "sān kuài èr",
+          "vi": "3 tệ 2 hào"
+        },
+        {
+          "zh": "6.02元 → 六块零两分",
+          "pinyin": "liù kuài líng liǎng fēn",
+          "vi": "6 tệ 02 xu"
+        }
+      ],
+      "commonMistake": "Quên đọc 「零」 khi khuyết hàng 角/毛 (như 6.02元).",
+      "comparison": "1 斤 (cân Trung Quốc) = 0,5 kg."
+    },
+    {
+      "id": "g30-10-2",
+      "title": "2. Câu vị ngữ tính từ & Đại từ nghi vấn 怎么样",
+      "formula": "Chủ ngữ + (Phó từ mức độ / 不) + Tính từ | ……怎么样？",
+      "usage": "Tính từ làm vị ngữ trực tiếp không cần 是. 怎么样 dùng hỏi ý kiến hoặc tình trạng.",
+      "explanation": "Ví dụ: 我的房间不大。/ 这个杯子怎么样？",
+      "examples": [
+        {
+          "zh": "这个杯子怎么样？— 我很喜欢，也不贵。",
+          "pinyin": "Zhège bēizi zěnmeyàng? — Wǒ hěn xǐhuan, yě bú guì.",
+          "vi": "Cái cốc này thế nào? — Mình rất thích, cũng không đắt."
+        }
+      ],
+      "commonMistake": "Thêm thừa 是 trước tính từ (SAI).",
+      "comparison": "怎么 (hỏi cách làm) ↔ 怎么样 (hỏi nhận xét)."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "请问，这个杯子多少钱一个？",
+      "pinyin": "Qǐngwèn, zhège bēizi duōshao qián yí gè?",
+      "vi": "Xin hỏi cái cốc này bao nhiêu tiền một chiếc?"
+    },
+    {
+      "zh": "我想买两斤苹果。",
+      "pinyin": "Wǒ xiǎng mǎi liǎng jīn píngguǒ.",
+      "vi": "Tôi muốn mua hai cân táo."
+    },
+    {
+      "zh": "这儿的苹果真便宜！",
+      "pinyin": "Zhèr de píngguǒ zhēn piányi!",
+      "vi": "Táo ở đây rẻ thật!"
+    },
+    {
+      "zh": "这件衣服怎么样？— 好看，也不贵。",
+      "pinyin": "Zhè jiàn yīfu zěnmeyàng? — Hǎokàn, yě bú guì.",
+      "vi": "Chiếc áo này thế nào? — Đẹp, cũng không đắt."
+    },
+    {
+      "zh": "这些是女孩子穿的衣服。",
+      "pinyin": "Zhèxiē shì nǚ háizi chuān de yīfu.",
+      "vi": "Những chiếc này là quần áo bé gái mặc."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-10-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "bēizi",
+          "answer": "杯子",
+          "meaning": "Cốc, ly"
+        },
+        {
+          "pinyin": "shòuhuòyuán",
+          "answer": "售货员",
+          "meaning": "Nhân viên bán hàng"
+        },
+        {
+          "pinyin": "zhèbiān",
+          "answer": "这边",
+          "meaning": "Bên này, phía này"
+        },
+        {
+          "pinyin": "qián",
+          "answer": "钱",
+          "meaning": "Tiền"
+        },
+        {
+          "pinyin": "zhèxiē",
+          "answer": "这些",
+          "meaning": "Những cái này"
+        },
+        {
+          "pinyin": "kuài",
+          "answer": "块",
+          "meaning": "Đồng (khẩu ngữ)"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 10.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 10"
+    },
+    {
+      "id": "q30-10-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Ít"
+        },
+        {
+          "key": "B",
+          "label": "Ở đây, chỗ này"
+        },
+        {
+          "key": "C",
+          "label": "Những cái kia"
+        },
+        {
+          "key": "D",
+          "label": "Hoa quả, trái cây"
+        },
+        {
+          "key": "E",
+          "label": "Cân Trung Quốc (= 0,5 kg)"
+        },
+        {
+          "key": "F",
+          "label": "Táo"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "那些",
+          "pinyin": "nàxiē",
+          "answerKey": "C"
+        },
+        {
+          "hanzi": "这儿",
+          "pinyin": "zhèr",
+          "answerKey": "B"
+        },
+        {
+          "hanzi": "水果",
+          "pinyin": "shuǐguǒ",
+          "answerKey": "D"
+        },
+        {
+          "hanzi": "少",
+          "pinyin": "shǎo",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "斤",
+          "pinyin": "jīn",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "苹果",
+          "pinyin": "píngguǒ",
+          "answerKey": "F"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 10.",
+      "relatedKnowledge": "Từ mới Bài 10"
+    },
+    {
+      "id": "q30-10-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.76] 请问，这本书 ___ 钱？(杯子 / 怎么样 / 多少 / 这些 / 块)",
+      "placeholder": "Nhập 2 chữ Hán...",
+      "acceptedAnswers": [
+        "多少"
+      ],
+      "explanation": "Hỏi giá tiền dùng 「多少钱」.",
+      "relatedKnowledge": "Hỏi giá tiền",
+      "section": "writing"
+    },
+    {
+      "id": "q30-10-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.76] 安妮：这件衣服 ___ ？ 白家月：很好看。",
+      "placeholder": "Nhập 3 chữ Hán...",
+      "acceptedAnswers": [
+        "怎么样"
+      ],
+      "explanation": "Dùng 「怎么样」 để hỏi ý kiến nhận xét.",
+      "relatedKnowledge": "Đại từ nghi vấn 怎么样",
+      "section": "writing"
+    },
+    {
+      "id": "q30-10-03",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Sổ tay tr.74] 我没有手机，今天想去商店买一个。★ 说话人想买什么？",
+      "options": [
+        "杯子",
+        "手机",
+        "水果"
+      ],
+      "answer": "手机",
+      "explanation": "Người nói không có điện thoại nên muốn đi mua một chiếc.",
+      "relatedKnowledge": "Đọc hiểu HSK 3.0",
+      "section": "reading"
+    },
+    {
+      "id": "q30-10-04",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Theo SGK tr.72, số tiền 「6.02元」 đọc chuẩn trong khẩu ngữ là:",
+      "options": [
+        "六块两分",
+        "六块零两分",
+        "六元二毛",
+        "六块二"
+      ],
+      "answer": "六块零两分",
+      "explanation": "Khuyết hàng hào (角/毛) phải đọc 「零」 -> 六块零两分.",
+      "relatedKnowledge": "Cách đọc số tiền",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-10-05",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "1 「斤」 (cân Trung Quốc) tương đương 0,5 kg.",
+      "answer": true,
+      "explanation": "Đúng (bảng từ mới tr.73).",
+      "relatedKnowledge": "Đơn vị đo lường Trung Quốc",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-10-06",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu đúng (Táo ở đây rẻ thật!):",
+      "tokens": [
+        "真便宜",
+        "苹果",
+        "这儿的"
+      ],
+      "answer": [
+        "这儿的",
+        "苹果",
+        "真便宜"
+      ],
+      "acceptedSequences": [
+        [
+          "这儿的",
+          "苹果",
+          "真便宜"
+        ]
+      ],
+      "explanation": "这儿的苹果真便宜！",
+      "relatedKnowledge": "Tiêu đề Bài 10",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-10-07",
+      "type": "matching",
+      "points": 1,
+      "prompt": "[Sổ tay tr.72–73] Nối câu hỏi với câu trả lời đúng:",
+      "pairs": [
+        {
+          "left": "女孩子的衣服在哪儿？",
+          "right": "在那边。"
+        },
+        {
+          "left": "杯子多少钱一个？",
+          "right": "十块钱。"
+        },
+        {
+          "left": "请问这儿有牛奶吗？",
+          "right": "对不起，没有。"
+        }
+      ],
+      "explanation": "Khớp Phần 2 Đọc hiểu Sổ tay Bài 10.",
+      "relatedKnowledge": "Nối câu HSK 3.0",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-10-08",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「便宜」:",
+      "options": [
+        "piányi",
+        "biànyí",
+        "piānyí",
+        "biányi"
+      ],
+      "answer": "piányi",
+      "explanation": "便 đọc pián (thanh 2) + 宜 thanh nhẹ (yi).",
+      "relatedKnowledge": "Phát âm Bài 10",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-10-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết táo giá bao nhiêu một cân:",
+      "audioText": "苹果三块五一斤，这儿的苹果真便宜！",
+      "options": [
+        "3 tệ",
+        "3,5 tệ (三块五)",
+        "7 tệ"
+      ],
+      "answer": "3,5 tệ (三块五)",
+      "explanation": "「三块五一斤」 = 3 đồng rưỡi một cân.",
+      "relatedKnowledge": "Nghe hiểu Bài 10",
+      "section": "listening"
+    },
+    {
+      "id": "q30-10-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Chiếc áo này thế nào?\"",
+      "sampleAnswer": "这件衣服怎么样？",
+      "acceptedAnswers": [
+        "这件衣服怎么样",
+        "这件衣服怎么样？"
+      ],
+      "requiredKeywords": [
+        "这件",
+        "衣服",
+        "怎么样"
+      ],
+      "explanation": "这件衣服怎么样？",
+      "relatedKnowledge": "Hỏi ý kiến 怎么样",
+      "section": "writing"
+    },
+    {
+      "id": "q30-10-11",
+      "section": "vocab",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho từ 「piányi」 (Rẻ – trái nghĩa với 贵):",
+      "options": [
+        "便宜",
+        "漂亮",
+        "苹果",
+        "衣服"
+      ],
+      "answer": "便宜",
+      "explanation": "「便宜 (piányi)」 = rẻ (lưu ý âm 「便」 đọc là pián, không đọc biàn); trái nghĩa là 「贵 (guì)」 = đắt.",
+      "relatedKnowledge": "Từ mới Bài 10"
+    },
+    {
+      "id": "q30-10-12",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Ở Trung Quốc, 「两斤苹果」 tương đương với bao nhiêu kilôgam (kg) táo?",
+      "options": [
+        "0,5 kg",
+        "1 kg",
+        "2 kg",
+        "4 kg"
+      ],
+      "answer": "1 kg",
+      "explanation": "1 cân Trung Quốc (1 斤) = 0,5 kg, nên 「两斤苹果」 = 1 kg táo.",
+      "relatedKnowledge": "Đơn vị đo lường 斤 (Bài 10)"
+    },
+    {
+      "id": "q30-10-13",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Cách nói giá tiền 「3,5 tệ」 tự nhiên nhất trong khẩu ngữ tiếng Trung là:",
+      "options": [
+        "三块五",
+        "三元五块",
+        "三个五钱",
+        "五块三"
+      ],
+      "answer": "三块五",
+      "explanation": "Trong khẩu ngữ dùng 「块」 (tệ) và 「毛」 (hào), có thể lược 「毛」 ở cuối khi đứng sau 「块」: 「三块五」 (= 3,5 tệ).",
+      "relatedKnowledge": "Cách diễn đạt tiền Nhân dân tệ"
+    },
+    {
+      "id": "q30-10-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 6",
+      "prompt": "[Ôn Bài 6 + 10] Phân biệt đại từ nghi vấn 「怎么」 (Bài 6) và 「怎么样」 (Bài 10):",
+      "options": [
+        "「怎么 + Động từ」 hỏi cách làm; 「Danh từ + 怎么样」 hỏi chất lượng/ý kiến ('thế nào?')",
+        "「怎么样」 đứng trước động từ hỏi phương tiện; 「怎么」 đứng cuối câu hỏi giá",
+        "Hai từ hoàn toàn giống nhau và đổi chỗ mọi vị trí",
+        "Cả hai đều chỉ dùng để hỏi giá tiền"
+      ],
+      "answer": "「怎么 + Động từ」 hỏi cách làm; 「Danh từ + 怎么样」 hỏi chất lượng/ý kiến ('thế nào?')",
+      "explanation": "Ví dụ: 「怎么去？」 (Đi bằng cách nào? – Bài 6) vs 「这件衣服怎么样？」 (Chiếc áo này thế nào? – Bài 10).",
+      "relatedKnowledge": "Phân biệt 怎么 (B6) và 怎么样 (B10)"
+    },
+    {
+      "id": "q30-10-15",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "王一雪：这家商店衣服真多！这件一百元，怎么样？\n刘明：好看，也不贵。小明能穿吗？\n王一雪：不能。这些是女孩子穿的衣服，男孩子的衣服在那儿。",
+      "passagePinyin": "Wáng Yīxuě: Zhè jiā shāngdiàn yīfu zhēn duō! Zhè jiàn yìbǎi yuán, zěnmeyàng? Liú Míng: Hǎokàn, yě bú guì. Xiǎomíng néng chuān ma? Wáng Yīxuě: Bù néng. Zhèxiē shì nǚháizi chuān de yīfu, nánháizi de yīfu zài nàr.",
+      "prompt": "Vì sao Lưu Tiểu Minh không thể mặc chiếc áo giá 100 tệ đó?",
+      "options": [
+        "Vì chiếc áo quá đắt",
+        "Vì chiếc áo không đẹp",
+        "Vì đó là quần áo dành cho bé gái, còn quần áo bé trai ở đằng kia",
+        "Vì cửa hàng đã hết hàng"
+      ],
+      "answer": "Vì đó là quần áo dành cho bé gái, còn quần áo bé trai ở đằng kia",
+      "explanation": "Vương Nhất Tuyết giải thích: 「这些是女孩子穿的衣服，男孩子的衣服在那儿。」.",
+      "relatedKnowledge": "Bài khóa 3 – Mua quần áo"
+    },
+    {
+      "id": "q30-10-16",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "reviewTag": "Ôn Bài 8",
+      "prompt": "[Ôn Bài 8 + 10] Trong câu 「小明能穿吗？— 不能。」, động từ năng nguyện 「能」 (Bài 8) được dùng để hỏi khả năng phù hợp (có mặc được không).",
+      "answer": true,
+      "explanation": "Đúng! Câu hỏi dùng 「能 + Động từ + 吗?」 trả lời bằng 「能」 hoặc 「不能」.",
+      "relatedKnowledge": "Ôn Bài 8 (能) trong Bài 10"
+    },
+    {
+      "id": "q30-10-17",
+      "section": "writing",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 1 chữ Hán lượng từ cho quần áo: 这___衣服一百元，不贵。(Chiếc áo này 100 tệ, không đắt.)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "件"
+      ],
+      "explanation": "「件 (jiàn)」 là lượng từ chuyên dùng cho quần áo (áo sơ mi, áo khoác...): 「一件衣服」.",
+      "relatedKnowledge": "Lượng từ 件"
+    },
+    {
+      "id": "q30-10-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "reviewTag": "Ôn Bài 5",
+      "prompt": "[Ôn Bài 5 + 10] Sắp xếp thành câu khen táo ở đây thật rẻ:",
+      "tokens": [
+        "便宜",
+        "这儿的",
+        "真",
+        "苹果"
+      ],
+      "answer": [
+        "这儿的",
+        "苹果",
+        "真",
+        "便宜"
+      ],
+      "acceptedSequences": [
+        [
+          "这儿的",
+          "苹果",
+          "真",
+          "便宜"
+        ]
+      ],
+      "explanation": "「这儿的苹果真便宜！」 kết hợp phó từ cảm thán 「真」 (Bài 5) với câu vị ngữ tính từ (Bài 10).",
+      "relatedKnowledge": "Câu vị ngữ tính từ & Phó từ 真"
+    },
+    {
+      "id": "q30-10-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "请问，杯子多少钱一个？这些五块钱一个，那些十块钱一个。",
+      "prompt": "Nghe đoạn hội thoại và chọn giá của những chiếc cốc ở gần người bán (「这些」):",
+      "options": [
+        "3,5 tệ một chiếc",
+        "5 tệ một chiếc",
+        "10 tệ một chiếc",
+        "100 tệ một chiếc"
+      ],
+      "answer": "5 tệ một chiếc",
+      "explanation": "Lời nghe: 「这些五块钱一个，那些十块钱一个。」.",
+      "relatedKnowledge": "Nghe hiểu Bài 10"
+    },
+    {
+      "id": "q30-10-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 6",
+      "audioText": "A：明天我想去商店买水果和衣服。 B：这家商店的苹果三块五一斤，非常便宜！",
+      "prompt": "[Ôn Bài 6 + 10] Nghe hội thoại và chọn thông tin ĐÚNG:",
+      "options": [
+        "A muốn đi bệnh viện khám bệnh",
+        "Táo ở cửa hàng này giá 3,5 tệ một cân (0,5 kg), rất rẻ",
+        "A chỉ muốn mua cốc và sữa",
+        "Táo ở đây rất đắt"
+      ],
+      "answer": "Táo ở cửa hàng này giá 3,5 tệ một cân (0,5 kg), rất rẻ",
+      "explanation": "Kết hợp 「明天我想去...买...」 (Bài 6) với 「商店 / 水果 / 三块五一斤 / 便宜」 (Bài 10).",
+      "relatedKnowledge": "Nghe tổng hợp Bài 6 & 10"
+    },
+    {
+      "id": "q30-10-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Xin hỏi, có cốc không?",
+          "sampleAnswer": "请问，有杯子吗？",
+          "pinyin": "Qǐngwèn, yǒu bēizi ma?",
+          "acceptedAnswers": [
+            "请问有杯子吗"
+          ],
+          "requiredKeywords": [
+            "请问",
+            "有",
+            "杯子",
+            "吗"
+          ]
+        },
+        {
+          "vi": "Một cái bao nhiêu tiền?",
+          "sampleAnswer": "多少钱一个？",
+          "pinyin": "Duōshao qián yí gè?",
+          "acceptedAnswers": [
+            "多少钱一个",
+            "一个多少钱"
+          ],
+          "requiredKeywords": [
+            "多少钱",
+            "一个"
+          ]
+        },
+        {
+          "vi": "Những cái này 5 đồng một cái, những cái kia 10 đồng một cái.",
+          "sampleAnswer": "这些五块钱一个，那些十块钱一个。",
+          "pinyin": "Zhèxiē wǔ kuài qián yí gè, nàxiē shí kuài qián yí gè.",
+          "acceptedAnswers": [
+            "这些五块钱一个那些十块钱一个",
+            "这些5块钱一个那些10块钱一个",
+            "这些五元一个那些十元一个"
+          ],
+          "requiredKeywords": [
+            "这些",
+            "那些"
+          ]
+        },
+        {
+          "vi": "Tôi muốn mua hai cân táo.",
+          "sampleAnswer": "我想买两斤苹果。",
+          "pinyin": "Wǒ xiǎng mǎi liǎng jīn píngguǒ.",
+          "acceptedAnswers": [
+            "我想买两斤苹果",
+            "我想买2斤苹果"
+          ],
+          "requiredKeywords": [
+            "想",
+            "买",
+            "斤",
+            "苹果"
+          ]
+        },
+        {
+          "vi": "[Ôn Bài 5] Chiếc áo này 100 tệ, đẹp mà lại không đắt!",
+          "sampleAnswer": "这件衣服一百元，好看，也不贵！",
+          "pinyin": "Zhè jiàn yīfu yìbǎi yuán, hǎokàn, yě bú guì!",
+          "acceptedAnswers": [
+            "这件衣服一百元好看也不贵",
+            "这件衣服100元好看也不贵",
+            "这件衣服一百块好看也不贵"
+          ],
+          "requiredKeywords": [
+            "衣服",
+            "好看",
+            "不贵"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 10 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 10"
+    }
+  ]
+}

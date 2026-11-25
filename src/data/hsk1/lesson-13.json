@@ -1,0 +1,990 @@
+{
+  "id": "hsk1-13",
+  "courseId": "hsk1",
+  "order": 13,
+  "group": "Bài 11–15",
+  "zhTitle": "请给我一杯茶",
+  "pinyinTitle": "Qǐng gěi wǒ yì bēi chá",
+  "viTitle": "Cho tôi một cốc trà",
+  "image": "images/hsk1-lesson13.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 13 Giáo trình New HSK 1 (HSK 3.0): Gọi món ăn uống, động từ năng nguyện 可以, cấu trúc Động từ + 一下 và câu hai tân ngữ (给, 问).",
+  "vocabulary": [
+    {
+      "id": "v30-13-01",
+      "hanzi": "可以",
+      "pinyin": "kěyǐ",
+      "pos": "Động từ năng nguyện",
+      "meaning": "Có thể, được (cho phép)",
+      "exampleZh": "我可以再问您一个问题吗？",
+      "examplePinyin": "Wǒ kěyǐ zài wèn nín yí gè wèntí ma?",
+      "exampleVi": "Em có thể hỏi thêm cô một câu nữa không ạ?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Động từ năng nguyện.",
+      "collocations": [
+        "可以 (Có thể, được (cho phép))"
+      ],
+      "extraExample": "我可以再问您一个问题吗？ — Em có thể hỏi thêm cô một câu nữa không ạ?"
+    },
+    {
+      "id": "v30-13-02",
+      "hanzi": "再",
+      "pinyin": "zài",
+      "pos": "Phó từ",
+      "meaning": "Lại, thêm lần nữa",
+      "exampleZh": "再要这个面包。",
+      "examplePinyin": "Zài yào zhège miànbāo.",
+      "exampleVi": "Lấy thêm cái bánh mì này.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Phó từ.",
+      "collocations": [
+        "再 (Lại, thêm lần nữa)"
+      ],
+      "extraExample": "再要这个面包。 — Lấy thêm cái bánh mì này."
+    },
+    {
+      "id": "v30-13-03",
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "pos": "Danh từ",
+      "meaning": "Câu hỏi, vấn đề",
+      "exampleZh": "你有什么问题？",
+      "examplePinyin": "Nǐ yǒu shénme wèntí?",
+      "exampleVi": "Em có vấn đề gì nào?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Danh từ.",
+      "collocations": [
+        "问题 (Câu hỏi, vấn đề)"
+      ],
+      "extraExample": "你有什么问题？ — Em có vấn đề gì nào?"
+    },
+    {
+      "id": "v30-13-04",
+      "hanzi": "卖",
+      "pinyin": "mài",
+      "pos": "Động từ",
+      "meaning": "Bán",
+      "exampleZh": "那个小店卖不卖手机？",
+      "examplePinyin": "Nàge xiǎo diàn mài bu mài shǒujī?",
+      "exampleVi": "Cửa hàng nhỏ kia có bán điện thoại không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Động từ.",
+      "collocations": [
+        "卖 (Bán)"
+      ],
+      "extraExample": "那个小店卖不卖手机？ — Cửa hàng nhỏ kia có bán điện thoại không?"
+    },
+    {
+      "id": "v30-13-05",
+      "hanzi": "打电话",
+      "pinyin": "dǎ diànhuà",
+      "pos": "Cụm động từ",
+      "meaning": "Gọi điện thoại",
+      "exampleZh": "你可以打电话问一下。",
+      "examplePinyin": "Nǐ kěyǐ dǎ diànhuà wèn yíxià.",
+      "exampleVi": "Em có thể gọi điện hỏi xem.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Cụm động từ.",
+      "collocations": [
+        "打电话 (Gọi điện thoại)"
+      ],
+      "extraExample": "你可以打电话问一下。 — Em có thể gọi điện hỏi xem."
+    },
+    {
+      "id": "v30-13-06",
+      "hanzi": "一下",
+      "pinyin": "yíxià",
+      "pos": "Số lượng từ",
+      "meaning": "Một chút, thử (sau động từ)",
+      "exampleZh": "我看一下。",
+      "examplePinyin": "Wǒ kàn yíxià.",
+      "exampleVi": "Để tôi xem một chút.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Số lượng từ.",
+      "collocations": [
+        "一下 (Một chút, thử (sau động từ))"
+      ],
+      "extraExample": "我看一下。 — Để tôi xem một chút."
+    },
+    {
+      "id": "v30-13-07",
+      "hanzi": "服务员",
+      "pinyin": "fúwùyuán",
+      "pos": "Danh từ",
+      "meaning": "Nhân viên phục vụ",
+      "exampleZh": "服务员，请给我一杯茶。",
+      "examplePinyin": "Fúwùyuán, qǐng gěi wǒ yì bēi chá.",
+      "exampleVi": "Phục vụ ơi, cho tôi một cốc trà.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Danh từ.",
+      "collocations": [
+        "服务员 (Nhân viên phục vụ)"
+      ],
+      "extraExample": "服务员，请给我一杯茶。 — Phục vụ ơi, cho tôi một cốc trà."
+    },
+    {
+      "id": "v30-13-08",
+      "hanzi": "女士",
+      "pinyin": "nǚshì",
+      "pos": "Danh từ",
+      "meaning": "Bà, cô, quý cô",
+      "exampleZh": "女士，请坐！",
+      "examplePinyin": "Nǚshì, qǐng zuò!",
+      "exampleVi": "Mời cô ngồi!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Danh từ.",
+      "collocations": [
+        "女士 (Bà, cô, quý cô)"
+      ],
+      "extraExample": "女士，请坐！ — Mời cô ngồi!"
+    },
+    {
+      "id": "v30-13-09",
+      "hanzi": "请",
+      "pinyin": "qǐng",
+      "pos": "Động từ",
+      "meaning": "Mời, xin, hãy",
+      "exampleZh": "请给我一杯牛奶。",
+      "examplePinyin": "Qǐng gěi wǒ yì bēi niúnǎi.",
+      "exampleVi": "Cho tôi một cốc sữa.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Động từ.",
+      "collocations": [
+        "请 (Mời, xin, hãy)"
+      ],
+      "extraExample": "请给我一杯牛奶。 — Cho tôi một cốc sữa."
+    },
+    {
+      "id": "v30-13-10",
+      "hanzi": "给",
+      "pinyin": "gěi",
+      "pos": "Động từ",
+      "meaning": "Đưa cho, cho",
+      "exampleZh": "请给我一杯茶吧。",
+      "examplePinyin": "Qǐng gěi wǒ yì bēi chá ba.",
+      "exampleVi": "Cho tôi một cốc trà nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Động từ.",
+      "collocations": [
+        "给 (Đưa cho, cho)"
+      ],
+      "extraExample": "请给我一杯茶吧。 — Cho tôi một cốc trà nhé."
+    },
+    {
+      "id": "v30-13-11",
+      "hanzi": "杯",
+      "pinyin": "bēi",
+      "pos": "Danh từ / Lượng từ",
+      "meaning": "Ly, cốc, tách",
+      "exampleZh": "一杯茶",
+      "examplePinyin": "yì bēi chá",
+      "exampleVi": "Một cốc trà",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Danh từ / Lượng từ.",
+      "collocations": [
+        "杯 (Ly, cốc, tách)"
+      ],
+      "extraExample": "一杯茶 — Một cốc trà"
+    },
+    {
+      "id": "v30-13-12",
+      "hanzi": "早饭",
+      "pinyin": "zǎofàn",
+      "pos": "Danh từ",
+      "meaning": "Bữa sáng",
+      "exampleZh": "我还没吃早饭。",
+      "examplePinyin": "Wǒ hái méi chī zǎofàn.",
+      "exampleVi": "Tôi vẫn chưa ăn sáng.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Danh từ.",
+      "collocations": [
+        "早饭 (Bữa sáng)"
+      ],
+      "extraExample": "我还没吃早饭。 — Tôi vẫn chưa ăn sáng."
+    },
+    {
+      "id": "v30-13-13",
+      "hanzi": "面包",
+      "pinyin": "miànbāo",
+      "pos": "Danh từ",
+      "meaning": "Bánh mì",
+      "exampleZh": "再要这个面包和鸡蛋吧。",
+      "examplePinyin": "Zài yào zhège miànbāo hé jīdàn ba.",
+      "exampleVi": "Cho thêm cái bánh mì này và trứng nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Danh từ.",
+      "collocations": [
+        "面包 (Bánh mì)"
+      ],
+      "extraExample": "再要这个面包和鸡蛋吧。 — Cho thêm cái bánh mì này và trứng nhé."
+    },
+    {
+      "id": "v30-13-14",
+      "hanzi": "鸡蛋",
+      "pinyin": "jīdàn",
+      "pos": "Danh từ",
+      "meaning": "Trứng gà",
+      "exampleZh": "面包和鸡蛋",
+      "examplePinyin": "miànbāo hé jīdàn",
+      "exampleVi": "Bánh mì và trứng gà",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Danh từ.",
+      "collocations": [
+        "鸡蛋 (Trứng gà)"
+      ],
+      "extraExample": "面包和鸡蛋 — Bánh mì và trứng gà"
+    },
+    {
+      "id": "v30-13-15",
+      "hanzi": "先生",
+      "pinyin": "xiānsheng",
+      "pos": "Danh từ",
+      "meaning": "Anh, ông, quý ông",
+      "exampleZh": "先生，请坐！",
+      "examplePinyin": "Xiānsheng, qǐng zuò!",
+      "exampleVi": "Mời anh ngồi!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Danh từ.",
+      "collocations": [
+        "先生 (Anh, ông, quý ông)"
+      ],
+      "extraExample": "先生，请坐！ — Mời anh ngồi!"
+    },
+    {
+      "id": "v30-13-16",
+      "hanzi": "一半",
+      "pinyin": "yíbàn",
+      "pos": "Số từ",
+      "meaning": "Một nửa",
+      "exampleZh": "40个太多了，我要一半吧。",
+      "examplePinyin": "Sìshí gè tài duō le, wǒ yào yíbàn ba.",
+      "exampleVi": "40 cái nhiều quá, tôi lấy nửa thôi nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Số từ.",
+      "collocations": [
+        "一半 (Một nửa)"
+      ],
+      "extraExample": "40个太多了，我要一半吧。 — 40 cái nhiều quá, tôi lấy nửa thôi nhé."
+    },
+    {
+      "id": "v30-13-17",
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "pos": "Danh từ",
+      "meaning": "Trà, chè",
+      "exampleZh": "请给我一杯茶吧。",
+      "examplePinyin": "Qǐng gěi wǒ yì bēi chá ba.",
+      "exampleVi": "Cho tôi một cốc trà nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Danh từ.",
+      "collocations": [
+        "茶 (Trà, chè)"
+      ],
+      "extraExample": "请给我一杯茶吧。 — Cho tôi một cốc trà nhé."
+    },
+    {
+      "id": "v30-13-18",
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "pos": "Động từ",
+      "meaning": "Ngồi",
+      "exampleZh": "女士，请坐！",
+      "examplePinyin": "Nǚshì, qǐng zuò!",
+      "exampleVi": "Mời cô ngồi!",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Động từ.",
+      "collocations": [
+        "坐 (Ngồi)"
+      ],
+      "extraExample": "女士，请坐！ — Mời cô ngồi!"
+    },
+    {
+      "id": "v30-13-19",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "pos": "Động từ",
+      "meaning": "Cần, muốn (gọi món)",
+      "exampleZh": "您还要什么？",
+      "examplePinyin": "Nín hái yào shénme?",
+      "exampleVi": "Cô còn dùng thêm gì không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Động từ.",
+      "collocations": [
+        "要 (Cần, muốn (gọi món))"
+      ],
+      "extraExample": "您还要什么？ — Cô còn dùng thêm gì không?"
+    },
+    {
+      "id": "v30-13-20",
+      "hanzi": "这个",
+      "pinyin": "zhège",
+      "pos": "Đại từ",
+      "meaning": "Cái này",
+      "exampleZh": "再要这个面包吧。",
+      "examplePinyin": "Zài yào zhège miànbāo ba.",
+      "exampleVi": "Lấy thêm cái bánh mì này nhé.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 13. Từ loại: Đại từ.",
+      "collocations": [
+        "这个 (Cái này)"
+      ],
+      "extraExample": "再要这个面包吧。 — Lấy thêm cái bánh mì này nhé."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-13-1",
+      "title": "Bài khóa 1: Hỏi bài sau giờ học",
+      "context": "Bạch Gia Nguyệt hỏi cô Vương Nhất Phi về cửa hàng bán điện thoại.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Bạch Gia Nguyệt",
+          "side": "left",
+          "zh": "王老师，我可以再问您一个问题吗？那个小店卖不卖手机？",
+          "pinyin": "Wáng lǎoshī, wǒ kěyǐ zài wèn nín yí gè wèntí ma? Nàge xiǎo diàn mài bu mài shǒujī?",
+          "vi": "Thưa cô Vương, em hỏi thêm một câu được không ạ? Cửa hàng nhỏ kia có bán điện thoại không ạ?"
+        },
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "right",
+          "zh": "可以。我不知道。你可以打电话问一下。",
+          "pinyin": "Kěyǐ. Wǒ bù zhīdào. Nǐ kěyǐ dǎ diànhuà wèn yíxià.",
+          "vi": "Được chứ. Cô không biết. Em có thể gọi điện hỏi xem."
+        }
+      ]
+    },
+    {
+      "id": "d30-13-2",
+      "title": "Bài khóa 2: Gọi bữa sáng ở quán cà phê",
+      "context": "Vương Nhất Tuyết gọi đồ ăn sáng.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Phục vụ",
+          "side": "left",
+          "zh": "女士，请坐！您喝什么？您还要什么？",
+          "pinyin": "Nǚshì, qǐng zuò! Nín hē shénme? Nín hái yào shénme?",
+          "vi": "Mời cô ngồi! Cô uống gì ạ? Cô dùng thêm gì không?"
+        },
+        {
+          "speaker": "Vương Nhất Tuyết",
+          "side": "right",
+          "zh": "我看一下。请给我一杯牛奶。我还没吃早饭，再要这个面包和鸡蛋吧。",
+          "pinyin": "Wǒ kàn yíxià. Qǐng gěi wǒ yì bēi niúnǎi. Wǒ hái méi chī zǎofàn, zài yào zhège miànbāo hé jīdàn ba.",
+          "vi": "Để tôi xem chút. Cho tôi cốc sữa. Tôi chưa ăn sáng, lấy thêm bánh mì và trứng gà nhé."
+        }
+      ]
+    },
+    {
+      "id": "d30-13-3",
+      "title": "Bài khóa 3: Gọi sủi cảo và trà",
+      "context": "Lưu Minh gọi món ăn ở nhà hàng.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Lưu Minh",
+          "side": "left",
+          "zh": "我要一斤饺子。",
+          "pinyin": "Wǒ yào yì jīn jiǎozi.",
+          "vi": "Cho tôi một cân sủi cảo."
+        },
+        {
+          "speaker": "Phục vụ",
+          "side": "right",
+          "zh": "好的。一斤饺子40个。",
+          "pinyin": "Hǎo de. Yì jīn jiǎozi sìshí gè.",
+          "vi": "Vâng, một cân sủi cảo có 40 cái."
+        },
+        {
+          "speaker": "Lưu Minh",
+          "side": "left",
+          "zh": "40个太多了，我要一半吧。请给我一杯茶吧。",
+          "pinyin": "Sìshí gè tài duō le, wǒ yào yíbàn ba. Qǐng gěi wǒ yì bēi chá ba.",
+          "vi": "40 cái nhiều quá, tôi lấy nửa thôi nhé. Cho tôi một cốc trà nhé."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-13-1",
+      "title": "1. Động từ năng nguyện 可以 & Cấu trúc Động từ + 一下",
+      "formula": "Chủ ngữ + 可以 + V | Động từ + 一下",
+      "usage": "可以 biểu thị sự cho phép hoặc khả năng. Động từ + 一下 biểu thị hành động diễn ra nhanh, thử làm hoặc giúp câu nói mềm mại hơn.",
+      "explanation": "Ví dụ: 我可以坐吗？— 可以，请坐！ / 请休息一下。",
+      "examples": [
+        {
+          "zh": "你可以打电话问一下。",
+          "pinyin": "Nǐ kěyǐ dǎ diànhuà wèn yíxià.",
+          "vi": "Em có thể gọi điện hỏi thử xem."
+        },
+        {
+          "zh": "我看一下。",
+          "pinyin": "Wǒ kàn yíxià.",
+          "vi": "Để tôi xem một chút."
+        }
+      ],
+      "commonMistake": "Đặt 一下 trước động từ (SAI).",
+      "comparison": "买 (mǎi – mua) ↔ 卖 (mài – bán, có thêm chữ 十 trên đầu)."
+    },
+    {
+      "id": "g30-13-2",
+      "title": "2. Câu có hai tân ngữ (双宾语句 1)",
+      "formula": "Chủ ngữ + 给 / 问 + Tân ngữ 1 (Người) + Tân ngữ 2 (Vật/Nội dung)",
+      "usage": "Động từ 给 và 问 nhận trực tiếp 2 tân ngữ: người nhận đứng trước, sự vật đứng sau.",
+      "explanation": "Ví dụ: 请给我一杯牛奶。/ 我问老师两个问题。",
+      "examples": [
+        {
+          "zh": "请给我一杯茶。",
+          "pinyin": "Qǐng gěi wǒ yì bēi chá.",
+          "vi": "Cho tôi một cốc trà."
+        },
+        {
+          "zh": "白家月给安妮一个苹果。",
+          "pinyin": "Bái Jiāyuè gěi Ānnī yí gè píngguǒ.",
+          "vi": "Bạch Gia Nguyệt đưa cho Annie một quả táo."
+        }
+      ],
+      "commonMistake": "Đảo vật lên trước người: '给我一杯茶' đúng, không nói '给一杯茶我'.",
+      "comparison": "Nhớ công thức: 给/问 + Ai + Cái gì."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "我可以再问您一个问题吗？— 可以。",
+      "pinyin": "Wǒ kěyǐ zài wèn nín yí gè wèntí ma? — Kěyǐ.",
+      "vi": "Em có thể hỏi thêm cô một câu không ạ? — Được chứ."
+    },
+    {
+      "zh": "你可以打电话问一下。",
+      "pinyin": "Nǐ kěyǐ dǎ diànhuà wèn yíxià.",
+      "vi": "Bạn có thể gọi điện hỏi thử xem."
+    },
+    {
+      "zh": "请给我一杯茶 / 一杯牛奶。",
+      "pinyin": "Qǐng gěi wǒ yì bēi chá / yì bēi niúnǎi.",
+      "vi": "Cho tôi một cốc trà / một cốc sữa."
+    },
+    {
+      "zh": "再要这个面包和鸡蛋吧。",
+      "pinyin": "Zài yào zhège miànbāo hé jīdàn ba.",
+      "vi": "Cho thêm cái bánh mì này và trứng gà nhé."
+    },
+    {
+      "zh": "40个太多了，我要一半吧。",
+      "pinyin": "Sìshí gè tài duō le, wǒ yào yíbàn ba.",
+      "vi": "40 cái nhiều quá, tôi lấy một nửa thôi."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-13-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "kěyǐ",
+          "answer": "可以",
+          "meaning": "Có thể, được (cho phép)"
+        },
+        {
+          "pinyin": "zài",
+          "answer": "再",
+          "meaning": "Lại, thêm lần nữa"
+        },
+        {
+          "pinyin": "wèntí",
+          "answer": "问题",
+          "meaning": "Câu hỏi, vấn đề"
+        },
+        {
+          "pinyin": "mài",
+          "answer": "卖",
+          "meaning": "Bán"
+        },
+        {
+          "pinyin": "dǎ diànhuà",
+          "answer": "打电话",
+          "meaning": "Gọi điện thoại"
+        },
+        {
+          "pinyin": "yíxià",
+          "answer": "一下",
+          "meaning": "Một chút, thử (sau động từ)"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 13.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 13"
+    },
+    {
+      "id": "q30-13-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Mời, xin, hãy"
+        },
+        {
+          "key": "B",
+          "label": "Bữa sáng"
+        },
+        {
+          "key": "C",
+          "label": "Ly, cốc, tách"
+        },
+        {
+          "key": "D",
+          "label": "Bà, cô, quý cô"
+        },
+        {
+          "key": "E",
+          "label": "Đưa cho, cho"
+        },
+        {
+          "key": "F",
+          "label": "Nhân viên phục vụ"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "服务员",
+          "pinyin": "fúwùyuán",
+          "answerKey": "F"
+        },
+        {
+          "hanzi": "女士",
+          "pinyin": "nǚshì",
+          "answerKey": "D"
+        },
+        {
+          "hanzi": "请",
+          "pinyin": "qǐng",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "给",
+          "pinyin": "gěi",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "杯",
+          "pinyin": "bēi",
+          "answerKey": "C"
+        },
+        {
+          "hanzi": "早饭",
+          "pinyin": "zǎofàn",
+          "answerKey": "B"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 13.",
+      "relatedKnowledge": "Từ mới Bài 13"
+    },
+    {
+      "id": "q30-13-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.101] 请 ___ 我一杯热水。(一下 / 可以 / 给 / 问题 / 要)",
+      "placeholder": "Nhập 1 chữ Hán...",
+      "acceptedAnswers": [
+        "给"
+      ],
+      "explanation": "Câu hai tân ngữ: 请给我一杯热水。",
+      "relatedKnowledge": "Câu hai tân ngữ 给",
+      "section": "writing"
+    },
+    {
+      "id": "q30-13-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.101] A: 我 ___ 坐这儿吗？ B: 没问题，请坐。",
+      "placeholder": "Nhập 2 chữ Hán...",
+      "acceptedAnswers": [
+        "可以"
+      ],
+      "explanation": "Dùng 「可以」 để xin phép.",
+      "relatedKnowledge": "Động từ năng nguyện 可以",
+      "section": "writing"
+    },
+    {
+      "id": "q30-13-03",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Sổ tay tr.101] 爸爸今天在家里工作，我们不要去他的房间。★ 爸爸今天：",
+      "options": [
+        "在家里工作",
+        "做了面条儿",
+        "不能去公司"
+      ],
+      "answer": "在家里工作",
+      "explanation": "Câu nêu rõ 「爸爸今天在家里工作」.",
+      "relatedKnowledge": "Đọc hiểu HSK 3.0",
+      "section": "reading"
+    },
+    {
+      "id": "q30-13-04",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Trong tiếng Trung, chữ 「卖」 (mài – bán) khác chữ 「买」 (mǎi – mua) ở nét chữ 「十」 phía trên.",
+      "answer": true,
+      "explanation": "Đúng. 买 = mua, 卖 = bán.",
+      "relatedKnowledge": "Phân biệt mặt chữ 买/卖",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-13-05",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu hai tân ngữ đúng (Cho tôi một cốc trà):",
+      "tokens": [
+        "一杯茶",
+        "我",
+        "请给"
+      ],
+      "answer": [
+        "请给",
+        "我",
+        "一杯茶"
+      ],
+      "acceptedSequences": [
+        [
+          "请给",
+          "我",
+          "一杯茶"
+        ]
+      ],
+      "explanation": "请给我一杯茶。",
+      "relatedKnowledge": "Câu hai tân ngữ",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-13-06",
+      "type": "matching",
+      "points": 1,
+      "prompt": "[Sổ tay tr.100] Nối câu hỏi với câu trả lời đúng:",
+      "pairs": [
+        {
+          "left": "那里卖不卖手机？",
+          "right": "不知道。"
+        },
+        {
+          "left": "我会写了，谢谢老师。",
+          "right": "不客气。"
+        },
+        {
+          "left": "你要什么？",
+          "right": "一个面包。"
+        }
+      ],
+      "explanation": "Khớp Phần 2 Đọc hiểu Sổ tay Bài 13.",
+      "relatedKnowledge": "Nối câu HSK 3.0",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-13-07",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「服务员」:",
+      "options": [
+        "fúwùyuán",
+        "fǔwùyuán",
+        "fúwūyuán",
+        "húwùyuán"
+      ],
+      "answer": "fúwùyuán",
+      "explanation": "服 (fú) + 务 (wù) + 员 (yuán).",
+      "relatedKnowledge": "Phát âm Bài 13",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-13-08",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho 「jīdàn」:",
+      "options": [
+        "鸡蛋",
+        "面包",
+        "早饭",
+        "问题"
+      ],
+      "answer": "鸡蛋",
+      "explanation": "鸡蛋 (jīdàn) = trứng gà.",
+      "relatedKnowledge": "Mặt chữ Bài 13",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-13-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết Lưu Minh cuối cùng gọi bao nhiêu chiếc sủi cảo:",
+      "audioText": "一斤饺子40个。40个太多了，我要一半吧。",
+      "options": [
+        "40 cái",
+        "20 cái (nửa cân)",
+        "10 cái"
+      ],
+      "answer": "20 cái (nửa cân)",
+      "explanation": "Một nửa của 40 cái là 20 cái (半斤20个).",
+      "relatedKnowledge": "Nghe hiểu Bài 13",
+      "section": "listening"
+    },
+    {
+      "id": "q30-13-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Để tôi xem một chút.\"",
+      "sampleAnswer": "我看一下。",
+      "acceptedAnswers": [
+        "我看一下",
+        "我看一下。"
+      ],
+      "requiredKeywords": [
+        "我",
+        "看",
+        "一下"
+      ],
+      "explanation": "我看一下。",
+      "relatedKnowledge": "Cấu trúc V + 一下",
+      "section": "writing"
+    },
+    {
+      "id": "q30-13-11",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 6",
+      "prompt": "[Ôn Bài 6 + 13] Phân biệt cặp chữ Hán gần giống nhau 「买 (mǎi)」 và 「卖 (mài)」:",
+      "options": [
+        "买 = Mua (thanh 3); 卖 = Bán (thanh 4)",
+        "买 = Bán (thanh 4); 卖 = Mua (thanh 3)",
+        "Cả hai đều có nghĩa là Mua",
+        "买 = Uống; 卖 = Ăn"
+      ],
+      "answer": "买 = Mua (thanh 3); 卖 = Bán (thanh 4)",
+      "explanation": "「买 (mǎi)」 (Bài 6) = mua; 「卖 (mài)」 (Bài 13, thêm bộ thập 十 ở trên) = bán (như 「那个小店卖不卖手机？」).",
+      "relatedKnowledge": "Phân biệt cặp từ 买 (B6) – 卖 (B13)"
+    },
+    {
+      "id": "q30-13-12",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 6 & 8",
+      "prompt": "[Ôn Bài 6, 8, 13] Hệ thống đủ 3 bữa ăn trong ngày bằng tiếng Trung là:",
+      "options": [
+        "早饭 (sáng) – 午饭 (trưa) – 晚饭 (tối)",
+        "晚饭 (sáng) – 早饭 (trưa) – 午饭 (tối)",
+        "午饭 (sáng) – 晚饭 (trưa) – 早饭 (tối)",
+        "早饭 (tối) – 午饭 (chiều) – 晚饭 (sáng)"
+      ],
+      "answer": "早饭 (sáng) – 午饭 (trưa) – 晚饭 (tối)",
+      "explanation": "「晚饭」 (Bài 6), 「午饭」 (Bài 8), 「早饭」 (Bài 13) ghép thành đủ 3 bữa ăn trong ngày.",
+      "relatedKnowledge": "Tổng hợp từ vựng 3 bữa ăn (Bài 6, 8, 13)"
+    },
+    {
+      "id": "q30-13-13",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Cấu trúc câu có hai tân ngữ (双宾语句) với động từ 「给」 nào sau đây viết ĐÚNG trật tự?",
+      "options": [
+        "请给一杯茶我。",
+        "请给我一杯茶。",
+        "我一杯茶请给。",
+        "请一杯茶给我。"
+      ],
+      "answer": "请给我一杯茶。",
+      "explanation": "Động từ 「给」 nhận tân ngữ chỉ NGƯỜI (我) trước, tân ngữ chỉ VẬT (一杯茶) sau: 「请给我一杯茶。」.",
+      "relatedKnowledge": "Câu hai tân ngữ (双宾语句)"
+    },
+    {
+      "id": "q30-13-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Trong câu 「你可以打电话问一下。」, thêm 「一下」 sau động từ 「问」 mang tác dụng gì?",
+      "options": [
+        "Chỉ hành động kéo dài nhiều giờ",
+        "Làm cho ngữ khí nhẹ nhàng, tự nhiên, mang nghĩa 'một chút / thử xem'",
+        "Biến câu thành câu phủ định",
+        "Biểu thị hành động xảy ra hôm qua"
+      ],
+      "answer": "Làm cho ngữ khí nhẹ nhàng, tự nhiên, mang nghĩa 'một chút / thử xem'",
+      "explanation": "「Động từ + 一下」 (我看一下, 问一下) giúp lời nói lịch sự, mềm mại hơn, diễn tả động tác ngắn.",
+      "relatedKnowledge": "Cấu trúc Động từ + 一下"
+    },
+    {
+      "id": "q30-13-15",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "刘明：我要一斤饺子。\n服务员：好的。一斤饺子40个。\n刘明：40个太多了，我要一半吧。请给我一杯茶吧。",
+      "passagePinyin": "Liú Míng: Wǒ yào yì jīn jiǎozi. Fúwùyuán: Hǎo de. Yì jīn jiǎozi sìshí gè. Liú Míng: Sìshí gè tài duō le, wǒ yào yíbàn ba. Qǐng gěi wǒ yì bēi chá ba.",
+      "prompt": "Cuối cùng Lưu Minh gọi bao nhiêu chiếc sủi cảo và đồ uống gì?",
+      "options": [
+        "40 chiếc sủi cảo và 1 cốc sữa",
+        "20 chiếc sủi cảo (một nửa cân) và 1 cốc trà",
+        "10 chiếc sủi cảo và 1 cốc nước nóng",
+        "40 chiếc sủi cảo và 1 cốc trà"
+      ],
+      "answer": "20 chiếc sủi cảo (một nửa cân) và 1 cốc trà",
+      "explanation": "1 cân là 40 chiếc, Lưu Minh nói 「40个太多了，我要一半吧」 (một nửa = 20 chiếc) và 「请给我一杯茶吧」.",
+      "relatedKnowledge": "Bài khóa 3 – Gọi món tại quán ăn"
+    },
+    {
+      "id": "q30-13-16",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "reviewTag": "Ôn Bài 11",
+      "prompt": "[Ôn Bài 11 + 13] Trong câu 「那个小店卖不卖手机？」, người nói đã sử dụng câu hỏi chính phản (Bài 11) với động từ 「卖」 (Bài 13).",
+      "answer": true,
+      "explanation": "Đúng! 「卖不卖」 là dạng câu hỏi chính phản (V不V) đã học ở Bài 11, kết hợp với 「手机」 (Bài 6) và 「小店」 (Bài 7).",
+      "relatedKnowledge": "Ôn Bài 11 (正反问) trong Bài 13"
+    },
+    {
+      "id": "q30-13-17",
+      "section": "writing",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 2 chữ Hán xin phép lịch sự: 王老师，我___再问您一个问题吗？(Thưa cô Vương, em có thể hỏi cô thêm một câu nữa không?)",
+      "placeholder": "Nhập 2 chữ Hán...",
+      "acceptedAnswers": [
+        "可以"
+      ],
+      "explanation": "「可以 (kěyǐ)」 dùng để xin phép hoặc cho phép ('có thể / được phép').",
+      "relatedKnowledge": "Động từ năng nguyện 可以"
+    },
+    {
+      "id": "q30-13-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "reviewTag": "Ôn Bài 6",
+      "prompt": "[Ôn Bài 6 + 13] Sắp xếp thành câu gọi bữa sáng tại quán:",
+      "tokens": [
+        "牛奶",
+        "请",
+        "一杯",
+        "给我"
+      ],
+      "answer": [
+        "请",
+        "给我",
+        "一杯",
+        "牛奶"
+      ],
+      "acceptedSequences": [
+        [
+          "请",
+          "给我",
+          "一杯",
+          "牛奶"
+        ]
+      ],
+      "explanation": "「请给我一杯牛奶。」 (Làm ơn cho tôi một cốc sữa.) — ôn từ 「牛奶」 (Bài 6) với câu hai tân ngữ Bài 13.",
+      "relatedKnowledge": "Ôn Bài 6 (牛奶) + Bài 13 (请给我...)"
+    },
+    {
+      "id": "q30-13-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "女士，请坐！您喝什么？请给我一杯牛奶，再要这个面包和鸡蛋吧。",
+      "prompt": "Nghe đoạn gọi món và chọn những thứ vị khách nữ gọi:",
+      "options": [
+        "Trà và sủi cảo",
+        "Một cốc sữa, bánh mì và trứng gà",
+        "Nước nóng và cơm trắng",
+        "Bánh bao và mì sợi"
+      ],
+      "answer": "Một cốc sữa, bánh mì và trứng gà",
+      "explanation": "Lời nghe: 「请给我一杯牛奶，再要这个面包和鸡蛋吧。」.",
+      "relatedKnowledge": "Nghe hiểu Bài 13"
+    },
+    {
+      "id": "q30-13-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 10 & 12",
+      "audioText": "A：先生，您还没吃早饭吧？天气太冷了，喝一杯热茶吧！ B：谢谢！请再给我一半饺子。",
+      "prompt": "[Ôn Bài 10, 12, 13] Nghe hội thoại và chọn thông tin ĐÚNG:",
+      "options": [
+        "Vị khách đã ăn sáng rồi",
+        "Trời rất lạnh, nhân viên mời trà nóng và vị khách gọi thêm nửa suất sủi cảo",
+        "Vị khách muốn mua táo và quần áo",
+        "Vị khách bị ốm cần uống thuốc"
+      ],
+      "answer": "Trời rất lạnh, nhân viên mời trà nóng và vị khách gọi thêm nửa suất sủi cảo",
+      "explanation": "Kết hợp 「天气太冷了 / 热」 (Bài 12), 「饺子」 (Bài 5) và 「先生 / 早饭 / 一杯茶 / 一半」 (Bài 13).",
+      "relatedKnowledge": "Nghe tổng hợp Bài 10, 12, 13"
+    },
+    {
+      "id": "q30-13-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Thưa cô Vương, em có thể hỏi cô thêm một câu hỏi nữa không?",
+          "sampleAnswer": "王老师，我可以再问您一个问题吗？",
+          "pinyin": "Wáng lǎoshī, wǒ kěyǐ zài wèn nín yí gè wèntí ma?",
+          "acceptedAnswers": [
+            "王老师我可以再问您一个问题吗",
+            "王老师我可以再问你一个问题吗"
+          ],
+          "requiredKeywords": [
+            "可以",
+            "问",
+            "问题"
+          ]
+        },
+        {
+          "vi": "Bạn có thể gọi điện thoại hỏi thử một chút.",
+          "sampleAnswer": "你可以打电话问一下。",
+          "pinyin": "Nǐ kěyǐ dǎ diànhuà wèn yíxià.",
+          "acceptedAnswers": [
+            "你可以打电话问一下"
+          ],
+          "requiredKeywords": [
+            "可以",
+            "打电话",
+            "问一下"
+          ]
+        },
+        {
+          "vi": "Làm ơn cho tôi một cốc trà.",
+          "sampleAnswer": "请给我一杯茶。",
+          "pinyin": "Qǐng gěi wǒ yì bēi chá.",
+          "acceptedAnswers": [
+            "请给我一杯茶",
+            "请给我一杯茶吧"
+          ],
+          "requiredKeywords": [
+            "请",
+            "给我",
+            "一杯茶"
+          ]
+        },
+        {
+          "vi": "Tôi vẫn chưa ăn sáng, cho thêm bánh mì và trứng gà nhé.",
+          "sampleAnswer": "我还没吃早饭，再要面包和鸡蛋吧。",
+          "pinyin": "Wǒ hái méi chī zǎofàn, zài yào miànbāo hé jīdàn ba.",
+          "acceptedAnswers": [
+            "我还没吃早饭再要面包和鸡蛋吧",
+            "我还没吃早饭再要这个面包和鸡蛋吧"
+          ],
+          "requiredKeywords": [
+            "早饭",
+            "面包",
+            "鸡蛋"
+          ]
+        },
+        {
+          "vi": "[Ôn Bài 5 & 12] 40 chiếc sủi cảo nhiều quá rồi, tôi lấy một nửa thôi.",
+          "sampleAnswer": "40个饺子太多了，我要一半吧。",
+          "pinyin": "Sìshí gè jiǎozi tài duō le, wǒ yào yíbàn ba.",
+          "acceptedAnswers": [
+            "40个饺子太多了我要一半吧",
+            "四十个饺子太多了我要一半吧",
+            "40个太多了我要一半吧"
+          ],
+          "requiredKeywords": [
+            "太多了",
+            "一半"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 13 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 13"
+    }
+  ]
+}

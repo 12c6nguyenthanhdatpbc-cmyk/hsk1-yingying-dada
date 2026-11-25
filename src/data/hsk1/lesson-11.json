@@ -1,0 +1,1060 @@
+{
+  "id": "hsk1-11",
+  "courseId": "hsk1",
+  "order": 11,
+  "group": "Bài 11–15",
+  "zhTitle": "我读大学呢",
+  "pinyinTitle": "Wǒ dú dàxué ne",
+  "viTitle": "Em đang học đại học",
+  "image": "images/hsk1-lesson11.jpg",
+  "estimatedMinutes": 40,
+  "summary": "Bài 11 Giáo trình New HSK 1 (HSK 3.0): Câu hỏi chính phản (X不/没X), 3 dạng tiếp diễn (在/正在 + V + 呢) và động từ năng nguyện 要.",
+  "vocabulary": [
+    {
+      "id": "v30-11-01",
+      "hanzi": "时候",
+      "pinyin": "shíhou",
+      "pos": "Danh từ",
+      "meaning": "Lúc, khi",
+      "exampleZh": "你什么时候能到饭店？",
+      "examplePinyin": "Nǐ shénme shíhou néng dào fàndiàn?",
+      "exampleVi": "Khi nào em đến được nhà hàng?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Danh từ.",
+      "collocations": [
+        "时候 (Lúc, khi)"
+      ],
+      "extraExample": "你什么时候能到饭店？ — Khi nào em đến được nhà hàng?"
+    },
+    {
+      "id": "v30-11-02",
+      "hanzi": "饭店",
+      "pinyin": "fàndiàn",
+      "pos": "Danh từ",
+      "meaning": "Nhà hàng, khách sạn",
+      "exampleZh": "在饭店里",
+      "examplePinyin": "zài fàndiàn li",
+      "exampleVi": "Trong nhà hàng",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Danh từ.",
+      "collocations": [
+        "饭店 (Nhà hàng, khách sạn)"
+      ],
+      "extraExample": "在饭店里 — Trong nhà hàng"
+    },
+    {
+      "id": "v30-11-03",
+      "hanzi": "知道",
+      "pinyin": "zhīdào",
+      "pos": "Động từ",
+      "meaning": "Biết, nhận ra",
+      "exampleZh": "还不知道。",
+      "examplePinyin": "Hái bù zhīdào.",
+      "exampleVi": "Cũng chưa biết ạ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Động từ.",
+      "collocations": [
+        "知道 (Biết, nhận ra)"
+      ],
+      "extraExample": "还不知道。 — Cũng chưa biết ạ."
+    },
+    {
+      "id": "v30-11-04",
+      "hanzi": "正在",
+      "pinyin": "zhèngzài",
+      "pos": "Phó từ",
+      "meaning": "Đang (làm gì)",
+      "exampleZh": "正在找呢。",
+      "examplePinyin": "Zhèngzài zhǎo ne.",
+      "exampleVi": "Đang tìm đây ạ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Phó từ.",
+      "collocations": [
+        "正在 (Đang (làm gì))"
+      ],
+      "extraExample": "正在找呢。 — Đang tìm đây ạ."
+    },
+    {
+      "id": "v30-11-05",
+      "hanzi": "找",
+      "pinyin": "zhǎo",
+      "pos": "Động từ",
+      "meaning": "Tìm, kiếm",
+      "exampleZh": "李文在找饭店。",
+      "examplePinyin": "Lǐ Wén zài zhǎo fàndiàn.",
+      "exampleVi": "Lý Văn đang tìm nhà hàng.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Động từ.",
+      "collocations": [
+        "找 (Tìm, kiếm)"
+      ],
+      "extraExample": "李文在找饭店。 — Lý Văn đang tìm nhà hàng."
+    },
+    {
+      "id": "v30-11-06",
+      "hanzi": "开车",
+      "pinyin": "kāichē",
+      "pos": "Động từ",
+      "meaning": "Lái xe (ô tô)",
+      "exampleZh": "你开车没开车？",
+      "examplePinyin": "Nǐ kāichē méi kāichē?",
+      "exampleVi": "Em có lái xe không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Động từ.",
+      "collocations": [
+        "开车 (Lái xe (ô tô))"
+      ],
+      "extraExample": "你开车没开车？ — Em có lái xe không?"
+    },
+    {
+      "id": "v30-11-07",
+      "hanzi": "车",
+      "pinyin": "chē",
+      "pos": "Danh từ",
+      "meaning": "Xe",
+      "exampleZh": "我没开车，坐车呢。",
+      "examplePinyin": "Wǒ méi kāichē, zuò chē ne.",
+      "exampleVi": "Em không lái xe, đang đi xe đây.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Danh từ.",
+      "collocations": [
+        "车 (Xe)"
+      ],
+      "extraExample": "我没开车，坐车呢。 — Em không lái xe, đang đi xe đây."
+    },
+    {
+      "id": "v30-11-08",
+      "hanzi": "读",
+      "pinyin": "dú",
+      "pos": "Động từ",
+      "meaning": "Học, đọc",
+      "exampleZh": "我读大学呢。",
+      "examplePinyin": "Wǒ dú dàxué ne.",
+      "exampleVi": "Em đang học đại học.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Động từ.",
+      "collocations": [
+        "读 (Học, đọc)"
+      ],
+      "extraExample": "我读大学呢。 — Em đang học đại học."
+    },
+    {
+      "id": "v30-11-09",
+      "hanzi": "大学",
+      "pinyin": "dàxué",
+      "pos": "Danh từ",
+      "meaning": "Đại học",
+      "exampleZh": "你还在读大学吗？",
+      "examplePinyin": "Nǐ hái zài dú dàxué ma?",
+      "exampleVi": "Em vẫn đang học đại học à?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Danh từ.",
+      "collocations": [
+        "大学 (Đại học)"
+      ],
+      "extraExample": "你还在读大学吗？ — Em vẫn đang học đại học à?"
+    },
+    {
+      "id": "v30-11-10",
+      "hanzi": "大学生",
+      "pinyin": "dàxuéshēng",
+      "pos": "Danh từ",
+      "meaning": "Sinh viên",
+      "exampleZh": "还是大学生。",
+      "examplePinyin": "Hái shì dàxuéshēng.",
+      "exampleVi": "Vẫn là sinh viên.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Danh từ.",
+      "collocations": [
+        "大学生 (Sinh viên)"
+      ],
+      "extraExample": "还是大学生。 — Vẫn là sinh viên."
+    },
+    {
+      "id": "v30-11-11",
+      "hanzi": "学",
+      "pinyin": "xué",
+      "pos": "Động từ",
+      "meaning": "Học",
+      "exampleZh": "我学医。",
+      "examplePinyin": "Wǒ xué yī.",
+      "exampleVi": "Em học ngành y.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Động từ.",
+      "collocations": [
+        "学 (Học)"
+      ],
+      "extraExample": "我学医。 — Em học ngành y."
+    },
+    {
+      "id": "v30-11-12",
+      "hanzi": "弟弟",
+      "pinyin": "dìdi",
+      "pos": "Danh từ",
+      "meaning": "Em trai",
+      "exampleZh": "弟弟起床没起床呢？",
+      "examplePinyin": "Dìdi qǐchuáng méi qǐchuáng ne?",
+      "exampleVi": "Em trai đã thức dậy chưa?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Danh từ.",
+      "collocations": [
+        "弟弟 (Em trai)"
+      ],
+      "extraExample": "弟弟起床没起床呢？ — Em trai đã thức dậy chưa?"
+    },
+    {
+      "id": "v30-11-13",
+      "hanzi": "起床",
+      "pinyin": "qǐchuáng",
+      "pos": "Động từ",
+      "meaning": "Thức dậy, ngủ dậy",
+      "exampleZh": "没起床呢。",
+      "examplePinyin": "Méi qǐchuáng ne.",
+      "exampleVi": "Chưa thức dậy ạ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Động từ.",
+      "collocations": [
+        "起床 (Thức dậy, ngủ dậy)"
+      ],
+      "extraExample": "没起床呢。 — Chưa thức dậy ạ."
+    },
+    {
+      "id": "v30-11-14",
+      "hanzi": "睡觉",
+      "pinyin": "shuìjiào",
+      "pos": "Động từ",
+      "meaning": "Ngủ",
+      "exampleZh": "还在睡觉。",
+      "examplePinyin": "Hái zài shuìjiào.",
+      "exampleVi": "Vẫn còn đang ngủ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Động từ.",
+      "collocations": [
+        "睡觉 (Ngủ)"
+      ],
+      "extraExample": "还在睡觉。 — Vẫn còn đang ngủ."
+    },
+    {
+      "id": "v30-11-15",
+      "hanzi": "哪里",
+      "pinyin": "nǎlǐ",
+      "pos": "Đại từ",
+      "meaning": "Đâu, chỗ nào",
+      "exampleZh": "去哪里？",
+      "examplePinyin": "Qù nǎlǐ?",
+      "exampleVi": "Đi đâu ạ?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Đại từ.",
+      "collocations": [
+        "哪里 (Đâu, chỗ nào)"
+      ],
+      "extraExample": "去哪里？ — Đi đâu ạ?"
+    },
+    {
+      "id": "v30-11-16",
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "pos": "Danh từ",
+      "meaning": "Hôm qua",
+      "exampleZh": "我昨天问他。",
+      "examplePinyin": "Wǒ zuótiān wèn tā.",
+      "exampleVi": "Hôm qua con hỏi em rồi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Danh từ.",
+      "collocations": [
+        "昨天 (Hôm qua)"
+      ],
+      "extraExample": "我昨天问他。 — Hôm qua con hỏi em rồi."
+    },
+    {
+      "id": "v30-11-17",
+      "hanzi": "问",
+      "pinyin": "wèn",
+      "pos": "Động từ",
+      "meaning": "Hỏi",
+      "exampleZh": "我昨天问他。",
+      "examplePinyin": "Wǒ zuótiān wèn tā.",
+      "exampleVi": "Hôm qua con hỏi em.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Động từ.",
+      "collocations": [
+        "问 (Hỏi)"
+      ],
+      "extraExample": "我昨天问他。 — Hôm qua con hỏi em."
+    },
+    {
+      "id": "v30-11-18",
+      "hanzi": "说",
+      "pinyin": "shuō",
+      "pos": "Động từ",
+      "meaning": "Nói",
+      "exampleZh": "他对我说，他不去。",
+      "examplePinyin": "Tā duì wǒ shuō, tā bú qù.",
+      "exampleVi": "Em nói với con là em không đi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Động từ.",
+      "collocations": [
+        "说 (Nói)"
+      ],
+      "extraExample": "他对我说，他不去。 — Em nói với con là em không đi."
+    },
+    {
+      "id": "v30-11-19",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "pos": "Động từ năng nguyện",
+      "meaning": "Cần, muốn, phải, dự định",
+      "exampleZh": "他今天要和小朋友玩。",
+      "examplePinyin": "Tā jīntiān yào hé xiǎopéngyǒu wán.",
+      "exampleVi": "Hôm nay em muốn chơi với các bạn nhỏ.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Động từ năng nguyện.",
+      "collocations": [
+        "要 (Cần, muốn, phải, dự định)"
+      ],
+      "extraExample": "他今天要和小朋友玩。 — Hôm nay em muốn chơi với các bạn nhỏ."
+    },
+    {
+      "id": "v30-11-20",
+      "hanzi": "小朋友",
+      "pinyin": "xiǎopéngyǒu",
+      "pos": "Danh từ",
+      "meaning": "Bạn nhỏ",
+      "exampleZh": "和小朋友玩",
+      "examplePinyin": "hé xiǎopéngyǒu wán",
+      "exampleVi": "Chơi với các bạn nhỏ",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Danh từ.",
+      "collocations": [
+        "小朋友 (Bạn nhỏ)"
+      ],
+      "extraExample": "和小朋友玩 — Chơi với các bạn nhỏ"
+    },
+    {
+      "id": "v30-11-21",
+      "hanzi": "在",
+      "pinyin": "zài",
+      "pos": "Phó từ",
+      "meaning": "Đang (tiếp diễn)",
+      "exampleZh": "你还在读大学吗？",
+      "examplePinyin": "Nǐ hái zài dú dàxué ma?",
+      "exampleVi": "Em vẫn đang học đại học à?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Phó từ.",
+      "collocations": [
+        "在 (Đang (tiếp diễn))"
+      ],
+      "extraExample": "你还在读大学吗？ — Em vẫn đang học đại học à?"
+    },
+    {
+      "id": "v30-11-22",
+      "hanzi": "医",
+      "pinyin": "yī",
+      "pos": "Danh từ",
+      "meaning": "Y, y học, y khoa",
+      "exampleZh": "我学医。",
+      "examplePinyin": "Wǒ xué yī.",
+      "exampleVi": "Em học ngành y.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Danh từ.",
+      "collocations": [
+        "医 (Y, y học, y khoa)"
+      ],
+      "extraExample": "我学医。 — Em học ngành y."
+    },
+    {
+      "id": "v30-11-23",
+      "hanzi": "睡",
+      "pinyin": "shuì",
+      "pos": "Động từ",
+      "meaning": "Ngủ",
+      "exampleZh": "还睡呢？",
+      "examplePinyin": "Hái shuì ne?",
+      "exampleVi": "Vẫn còn ngủ à?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Động từ.",
+      "collocations": [
+        "睡 (Ngủ)"
+      ],
+      "extraExample": "还睡呢？ — Vẫn còn ngủ à?"
+    },
+    {
+      "id": "v30-11-24",
+      "hanzi": "那里",
+      "pinyin": "nàlǐ",
+      "pos": "Đại từ",
+      "meaning": "Ở kia, chỗ đó",
+      "exampleZh": "他今天去不去那里？",
+      "examplePinyin": "Tā jīntiān qù bu qù nàlǐ?",
+      "exampleVi": "Hôm nay em có đi đến đó không?",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Đại từ.",
+      "collocations": [
+        "那里 (Ở kia, chỗ đó)"
+      ],
+      "extraExample": "他今天去不去那里？ — Hôm nay em có đi đến đó không?"
+    },
+    {
+      "id": "v30-11-25",
+      "hanzi": "对",
+      "pinyin": "duì",
+      "pos": "Giới từ",
+      "meaning": "Với, đối với",
+      "exampleZh": "他对我说，他不去。",
+      "examplePinyin": "Tā duì wǒ shuō, tā bú qù.",
+      "exampleVi": "Em nói với con là em không đi.",
+      "explanation": "Từ vựng chuẩn Giáo trình New HSK 1 (HSK 3.0) – Bài 11. Từ loại: Giới từ.",
+      "collocations": [
+        "对 (Với, đối với)"
+      ],
+      "extraExample": "他对我说，他不去。 — Em nói với con là em không đi."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d30-11-1",
+      "title": "Bài khóa 1: Đang tìm nhà hàng",
+      "context": "Cô Vương Nhất Phi gọi điện hỏi Lý Văn đã đến nhà hàng chưa.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "left",
+          "zh": "喂，李文，你什么时候能到饭店？你开车没开车？",
+          "pinyin": "Wèi, Lǐ Wén, nǐ shénme shíhou néng dào fàndiàn? Nǐ kāichē méi kāichē?",
+          "vi": "A lô Lý Văn, khi nào em đến nhà hàng? Em có lái xe không?"
+        },
+        {
+          "speaker": "Lý Văn",
+          "side": "right",
+          "zh": "还不知道，正在找呢。我没开车，坐车呢。",
+          "pinyin": "Hái bù zhīdào, zhèngzài zhǎo ne. Wǒ méi kāichē, zuò chē ne.",
+          "vi": "Em chưa biết ạ, đang tìm đây. Em không lái xe, đang ngồi xe đây."
+        }
+      ]
+    },
+    {
+      "id": "d30-11-2",
+      "title": "Bài khóa 2: Chuyện học đại học",
+      "context": "Vương Nhất Phi và Lý Văn trò chuyện tại nhà hàng.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Vương Nhất Phi",
+          "side": "left",
+          "zh": "你还在读大学吗？你们学习忙不忙？",
+          "pinyin": "Nǐ hái zài dú dàxué ma? Nǐmen xuéxí máng bu máng?",
+          "vi": "Em vẫn đang học đại học à? Các em học có bận không?"
+        },
+        {
+          "speaker": "Lý Văn",
+          "side": "right",
+          "zh": "对，我读大学呢，还是大学生。非常忙，我学医，我们的课很多。",
+          "pinyin": "Duì, wǒ dú dàxué ne, hái shì dàxuéshēng. Fēicháng máng, wǒ xué yī, wǒmen de kè hěn duō.",
+          "vi": "Vâng, em đang học đại học. Bận lắm ạ, em học y, môn học rất nhiều."
+        }
+      ]
+    },
+    {
+      "id": "d30-11-3",
+      "title": "Bài khóa 3: Em trai chưa dậy",
+      "context": "Sáng thứ Bảy, Lưu Minh trò chuyện với con gái Lưu Tiểu Tuyết trước khi đi làm.",
+      "audioFile": "",
+      "lines": [
+        {
+          "speaker": "Lưu Minh",
+          "side": "left",
+          "zh": "弟弟起床没起床呢？他今天去不去那里？",
+          "pinyin": "Dìdi qǐchuáng méi qǐchuáng ne? Tā jīntiān qù bu qù nàlǐ?",
+          "vi": "Em đã dậy chưa con? Hôm nay em có đi siêu thị không?"
+        },
+        {
+          "speaker": "Lưu Tiểu Tuyết",
+          "side": "right",
+          "zh": "没起床呢，还在睡觉。我昨天问他，他对我说，他不去，他今天要和小朋友玩。",
+          "pinyin": "Méi qǐchuáng ne, hái zài shuìjiào. Wǒ zuótiān wèn tā, tā duì wǒ shuō, tā bú qù, tā jīntiān yào hé xiǎopéngyǒu wán.",
+          "vi": "Chưa dậy ạ, vẫn đang ngủ. Hôm qua em bảo không đi, hôm nay em muốn chơi với các bạn nhỏ."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g30-11-1",
+      "title": "1. Câu hỏi chính phản (正反问)",
+      "formula": "Động từ / Tính từ + 不 / 没 + Động từ / Tính từ",
+      "usage": "Dùng 不/没 với động từ và 不 với tính từ. Không thêm 吗 vào cuối câu hỏi chính phản.",
+      "explanation": "Ví dụ: 它是不是在超市后边？/ 你去没去学校？/ 这件衣服好看不好看？",
+      "examples": [
+        {
+          "zh": "你们学习忙不忙？",
+          "pinyin": "Nǐmen xuéxí máng bu máng?",
+          "vi": "Các em học có bận không?"
+        },
+        {
+          "zh": "昨天你去没去书店？— 我没去。",
+          "pinyin": "Zuótiān nǐ qù méi qù shūdiàn? — Wǒ méi qù.",
+          "vi": "Hôm qua bạn có đi hiệu sách không? — Mình không đi."
+        }
+      ],
+      "commonMistake": "Thêm thừa 吗 cuối câu: '你忙不忙吗？' (SAI).",
+      "comparison": "Câu hỏi dùng 吗 ↔ Câu hỏi chính phản (忙不忙)."
+    },
+    {
+      "id": "g30-11-2",
+      "title": "2. Ba dạng tiếp diễn (在/正在……呢) & Động từ năng nguyện 要",
+      "formula": "(1) 在/正在 + V | (2) 在/正在 + V + 呢 | (3) V + 呢 | Chủ ngữ + 要 + V",
+      "usage": "Phủ định hành động đang diễn ra dùng 没(有). Động từ năng nguyện 要 đặt trước động từ biểu thị mong muốn/dự định.",
+      "explanation": "Ví dụ: 学生们在/正在上课呢。/ 我读大学呢。/ 妈妈要去超市。",
+      "examples": [
+        {
+          "zh": "我正在看电视。",
+          "pinyin": "Wǒ zhèngzài kàn diànshì.",
+          "vi": "Tôi đang xem tivi."
+        },
+        {
+          "zh": "他今天要和小朋友玩。",
+          "pinyin": "Tā jīntiān yào hé xiǎopéngyǒu wán.",
+          "vi": "Hôm nay cậu ấy muốn chơi với các bạn nhỏ."
+        }
+      ],
+      "commonMistake": "Phủ định đang làm dùng 不 thay vì 没 (SAI: 我不在买菜).",
+      "comparison": "要 (dự định, quyết tâm mạnh hơn 想)."
+    }
+  ],
+  "patterns": [
+    {
+      "zh": "你什么时候能到饭店？— 正在找呢。",
+      "pinyin": "Nǐ shénme shíhou néng dào fàndiàn? — Zhèngzài zhǎo ne.",
+      "vi": "Khi nào em đến nhà hàng? — Đang tìm đây ạ."
+    },
+    {
+      "zh": "你们学习忙不忙？— 非常忙。",
+      "pinyin": "Nǐmen xuéxí máng bu máng? — Fēicháng máng.",
+      "vi": "Các em học có bận không? — Bận lắm ạ."
+    },
+    {
+      "zh": "我读大学呢，我学医。",
+      "pinyin": "Wǒ dú dàxué ne, wǒ xué yī.",
+      "vi": "Em đang học đại học, em học ngành y."
+    },
+    {
+      "zh": "弟弟没起床呢，还在睡觉。",
+      "pinyin": "Dìdi méi qǐchuáng ne, hái zài shuìjiào.",
+      "vi": "Em trai chưa dậy, vẫn đang ngủ."
+    },
+    {
+      "zh": "妈妈要去超市。",
+      "pinyin": "Māma yào qù chāoshì.",
+      "vi": "Mẹ dự định đi siêu thị."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q30-11-p2h",
+      "section": "vocab",
+      "type": "pinyin_to_hanzi_write",
+      "points": 1,
+      "prompt": "Nhìn pinyin, viết chữ Hán vào ô trống (gõ bằng bàn phím tiếng Trung).",
+      "items": [
+        {
+          "pinyin": "shíhou",
+          "answer": "时候",
+          "meaning": "Lúc, khi"
+        },
+        {
+          "pinyin": "fàndiàn",
+          "answer": "饭店",
+          "meaning": "Nhà hàng, khách sạn"
+        },
+        {
+          "pinyin": "zhīdào",
+          "answer": "知道",
+          "meaning": "Biết, nhận ra"
+        },
+        {
+          "pinyin": "zhèngzài",
+          "answer": "正在",
+          "meaning": "Đang (làm gì)"
+        },
+        {
+          "pinyin": "zhǎo",
+          "answer": "找",
+          "meaning": "Tìm, kiếm"
+        },
+        {
+          "pinyin": "kāichē",
+          "answer": "开车",
+          "meaning": "Lái xe (ô tô)"
+        }
+      ],
+      "explanation": "Luyện ghi nhớ mặt chữ Hán của 6 từ vựng cốt lõi trong Bài 11.",
+      "relatedKnowledge": "Nhớ mặt chữ Hán Bài 11"
+    },
+    {
+      "id": "q30-11-mbs",
+      "section": "vocab",
+      "type": "meaning_bank_select",
+      "points": 1,
+      "prompt": "Chọn nghĩa tiếng Việt đúng cho từ (mỗi nghĩa dùng một lần).",
+      "bank": [
+        {
+          "key": "A",
+          "label": "Học, đọc"
+        },
+        {
+          "key": "B",
+          "label": "Học"
+        },
+        {
+          "key": "C",
+          "label": "Đại học"
+        },
+        {
+          "key": "D",
+          "label": "Em trai"
+        },
+        {
+          "key": "E",
+          "label": "Sinh viên"
+        },
+        {
+          "key": "F",
+          "label": "Xe"
+        }
+      ],
+      "items": [
+        {
+          "hanzi": "车",
+          "pinyin": "chē",
+          "answerKey": "F"
+        },
+        {
+          "hanzi": "读",
+          "pinyin": "dú",
+          "answerKey": "A"
+        },
+        {
+          "hanzi": "大学",
+          "pinyin": "dàxué",
+          "answerKey": "C"
+        },
+        {
+          "hanzi": "大学生",
+          "pinyin": "dàxuéshēng",
+          "answerKey": "E"
+        },
+        {
+          "hanzi": "学",
+          "pinyin": "xué",
+          "answerKey": "B"
+        },
+        {
+          "hanzi": "弟弟",
+          "pinyin": "dìdi",
+          "answerKey": "D"
+        }
+      ],
+      "explanation": "Khớp đúng mặt chữ Hán với nghĩa tiếng Việt theo bảng từ mới Bài 11.",
+      "relatedKnowledge": "Từ mới Bài 11"
+    },
+    {
+      "id": "q30-11-01",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.84] 你 ___ 超市？(那里 / 睡觉 / 去不去 / 要 / 正在)",
+      "placeholder": "Nhập 3 chữ Hán...",
+      "acceptedAnswers": [
+        "去不去"
+      ],
+      "explanation": "Câu hỏi chính phản 「去不去」.",
+      "relatedKnowledge": "Câu hỏi chính phản",
+      "section": "writing"
+    },
+    {
+      "id": "q30-11-02",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "[SGK tr.84] 她没在看电视，___ 学习呢。(那里 / 睡觉 / 去不去 / 要 / 正在)",
+      "placeholder": "Nhập 2 chữ Hán...",
+      "acceptedAnswers": [
+        "正在"
+      ],
+      "explanation": "Phó từ tiếp diễn 「正在 + Động từ + 呢」.",
+      "relatedKnowledge": "Phó từ 在/正在",
+      "section": "writing"
+    },
+    {
+      "id": "q30-11-03",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "[Sổ tay tr.83] 我姐姐今年20岁，正在读大学呢，她学医。★ 说话人的姐姐是：",
+      "options": [
+        "老师",
+        "医生",
+        "大学生"
+      ],
+      "answer": "大学生",
+      "explanation": "Chị gái đang học đại học ngành y nên hiện là 「大学生」.",
+      "relatedKnowledge": "Đọc hiểu HSK 3.0",
+      "section": "reading"
+    },
+    {
+      "id": "q30-11-04",
+      "type": "true_false",
+      "points": 1,
+      "prompt": "Trong câu hỏi chính phản 「你去不去超市吗？」, phải thêm 「吗」 ở cuối câu.",
+      "answer": false,
+      "explanation": "Sai. Câu hỏi chính phản tuyệt đối không thêm 「吗」.",
+      "relatedKnowledge": "Câu hỏi chính phản",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-11-05",
+      "type": "word_order",
+      "points": 1,
+      "prompt": "Sắp xếp thành câu đúng (Hôm nay em ấy muốn chơi với các bạn nhỏ):",
+      "tokens": [
+        "玩",
+        "和小朋友",
+        "要",
+        "他今天"
+      ],
+      "answer": [
+        "他今天",
+        "要",
+        "和小朋友",
+        "玩"
+      ],
+      "acceptedSequences": [
+        [
+          "他今天",
+          "要",
+          "和小朋友",
+          "玩"
+        ]
+      ],
+      "explanation": "他今天要和小朋友玩。",
+      "relatedKnowledge": "Động từ năng nguyện 要",
+      "section": "grammar"
+    },
+    {
+      "id": "q30-11-06",
+      "type": "matching",
+      "points": 1,
+      "prompt": "[Sổ tay tr.82] Nối câu hỏi với câu trả lời đúng:",
+      "pairs": [
+        {
+          "left": "你开车去吗？",
+          "right": "不，我坐出租车。"
+        },
+        {
+          "left": "你们学习忙不忙？",
+          "right": "非常忙。"
+        },
+        {
+          "left": "你在吃午饭吗？",
+          "right": "没有，我在开车呢。"
+        }
+      ],
+      "explanation": "Khớp Phần 2 Đọc hiểu Sổ tay Bài 11.",
+      "relatedKnowledge": "Nối câu HSK 3.0",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-11-07",
+      "type": "pinyin_for_hanzi",
+      "points": 1,
+      "prompt": "Chọn Pinyin đúng của 「起床」:",
+      "options": [
+        "qǐchuáng",
+        "qīchuáng",
+        "jǐchuáng",
+        "qǐzhuáng"
+      ],
+      "answer": "qǐchuáng",
+      "explanation": "起 thanh 3 (qǐ) + 床 thanh 2 (chuáng).",
+      "relatedKnowledge": "Phát âm Bài 11",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-11-08",
+      "type": "hanzi_for_pinyin",
+      "points": 1,
+      "prompt": "Chọn chữ Hán đúng cho 「zhīdào」:",
+      "options": [
+        "知道",
+        "正在",
+        "起床",
+        "睡觉"
+      ],
+      "answer": "知道",
+      "explanation": "知道 (zhīdào) = biết.",
+      "relatedKnowledge": "Mặt chữ Bài 11",
+      "section": "vocab"
+    },
+    {
+      "id": "q30-11-09",
+      "type": "listening_choice",
+      "points": 1,
+      "prompt": "Nghe và cho biết Lý Văn học ngành gì ở đại học:",
+      "audioText": "我读大学呢，还是大学生。我学医，我们的课很多。",
+      "options": [
+        "Học tiếng Pháp",
+        "Học ngành y (学医)",
+        "Học nấu ăn"
+      ],
+      "answer": "Học ngành y (学医)",
+      "explanation": "Lý Văn nói 「我学医」.",
+      "relatedKnowledge": "Nghe hiểu Bài 11",
+      "section": "listening"
+    },
+    {
+      "id": "q30-11-10",
+      "type": "translate_vi_zh",
+      "points": 1,
+      "prompt": "Dịch sang tiếng Trung: \"Em trai vẫn đang ngủ.\"",
+      "sampleAnswer": "弟弟还在睡觉。",
+      "acceptedAnswers": [
+        "弟弟还在睡觉",
+        "弟弟还在睡觉。",
+        "弟弟还在睡觉呢",
+        "弟弟还在睡觉呢。"
+      ],
+      "requiredKeywords": [
+        "弟弟",
+        "在",
+        "睡觉"
+      ],
+      "explanation": "弟弟还在睡觉。",
+      "relatedKnowledge": "Bài khóa 3",
+      "section": "writing"
+    },
+    {
+      "id": "q30-11-11",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Cụm từ 「起床 (qǐchuáng)」 và 「睡觉 (shuìjiào)」 có quan hệ nghĩa như thế nào?",
+      "options": [
+        "Đồng nghĩa (đều là đi ngủ)",
+        "Trái nghĩa (thức dậy ↔ đi ngủ)",
+        "Cùng chỉ việc lái xe",
+        "Cùng chỉ việc học đại học"
+      ],
+      "answer": "Trái nghĩa (thức dậy ↔ đi ngủ)",
+      "explanation": "「起床」 = thức dậy, rời giường; 「睡觉」 = đi ngủ.",
+      "relatedKnowledge": "Từ mới Bài 11"
+    },
+    {
+      "id": "q30-11-12",
+      "section": "vocab",
+      "type": "single_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 6 & 10",
+      "prompt": "[Ôn Bài 6, 10, 11] Chọn cặp tương đương giữa khẩu ngữ miền Bắc (âm cuốn lưỡi 儿) và cách nói phổ thông:",
+      "options": [
+        "哪儿 = 哪里; 那儿 = 那里",
+        "哪儿 = 那里; 这儿 = 哪里",
+        "谁 = 哪里; 多少 = 那里",
+        "哪儿 = 什么; 那儿 = 怎么"
+      ],
+      "answer": "哪儿 = 哪里; 那儿 = 那里",
+      "explanation": "「哪儿」 (Bài 6) = 「哪里」 (Bài 11, ở đâu); 「那儿」 (Bài 10) = 「那里」 (Bài 11, ở kia).",
+      "relatedKnowledge": "Hệ thống đại từ chỉ nơi chốn Bài 6, 10, 11"
+    },
+    {
+      "id": "q30-11-13",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Câu hỏi chính phản (正反问) nào dưới đây viết ĐÚNG ngữ pháp?",
+      "options": [
+        "你们学习忙不忙吗？",
+        "你们学习忙不忙？",
+        "你们学习很忙不忙？",
+        "你们学习不忙忙？"
+      ],
+      "answer": "你们学习忙不忙？",
+      "explanation": "Câu hỏi chính phản (A不A / A没A) KHÔNG được thêm 「吗」 ở cuối và KHÔNG thêm phó từ mức độ 「很」 phía trước.",
+      "relatedKnowledge": "Quy tắc câu hỏi chính phản (正反问)"
+    },
+    {
+      "id": "q30-11-14",
+      "section": "grammar",
+      "type": "single_choice",
+      "points": 1,
+      "prompt": "Cấu trúc nào biểu thị hành động ĐANG diễn ra ('Tôi đang tìm nhà hàng đây')?",
+      "options": [
+        "我正在找饭店呢。",
+        "我昨天找饭店。",
+        "我找不找饭店？",
+        "我明天要找饭店。"
+      ],
+      "answer": "我正在找饭店呢。",
+      "explanation": "Thể tiếp diễn dùng 「在 / 正在 + Động từ (+ 呢)」 hoặc 「Động từ + 呢」 (như 「我读大学呢」).",
+      "relatedKnowledge": "Thể tiếp diễn 在 / 正在……呢"
+    },
+    {
+      "id": "q30-11-15",
+      "section": "reading",
+      "type": "reading_comp",
+      "points": 1,
+      "passageZh": "刘明：弟弟起床没起床呢？他今天去不去那里？\n刘小雪：没起床呢，还在睡觉。我昨天问他，他对我说，他不去，他今天要和小朋友玩。",
+      "passagePinyin": "Liú Míng: Dìdi qǐchuáng méi qǐchuáng ne? Tā jīntiān qù bu qù nàlǐ? Liú Xiǎoxuě: Méi qǐchuáng ne, hái zài shuìjiào. Wǒ zuótiān wèn tā, tā duì wǒ shuō, tā bú qù, tā jīntiān yào hé xiǎopéngyǒu wán.",
+      "prompt": "Hôm nay em trai (Lưu Tiểu Minh) có kế hoạch làm gì?",
+      "options": [
+        "Đi cùng bố đến nhà hàng",
+        "Đi chơi với các bạn nhỏ",
+        "Ở nhà học tiếng Trung",
+        "Lái xe đi siêu thị"
+      ],
+      "answer": "Đi chơi với các bạn nhỏ",
+      "explanation": "Lưu Tiểu Tuyết nói 「他不去，他今天要和小朋友玩。」 (Em ấy không đi, hôm nay em ấy định chơi với các bạn nhỏ).",
+      "relatedKnowledge": "Bài khóa 3 – Động từ năng nguyện 要"
+    },
+    {
+      "id": "q30-11-16",
+      "section": "reading",
+      "type": "true_false",
+      "points": 1,
+      "reviewTag": "Ôn Bài 3 & 8",
+      "prompt": "[Ôn Bài 3, 8, 11] Lý Văn là sinh viên đại học ngành Y (「学医」), nên lịch học của bạn ấy rất bận và có nhiều tiết học (「我们的课很多」).",
+      "answer": true,
+      "explanation": "Đúng theo Bài khóa 2: 「对，我读大学呢，还是大学生。非常忙，我学医，我们的课很多。」.",
+      "relatedKnowledge": "Bài khóa 2 – Tổng hợp từ vựng học tập"
+    },
+    {
+      "id": "q30-11-17",
+      "section": "writing",
+      "type": "fill_blank",
+      "points": 1,
+      "prompt": "Điền 2 chữ Hán chỉ thời gian quá khứ: 我___问他了。(Hôm qua tôi đã hỏi em ấy.)",
+      "placeholder": "Nhập 2 chữ Hán...",
+      "acceptedAnswers": [
+        "昨天"
+      ],
+      "explanation": "Bộ 3 ngày liên tiếp đã học đủ: 「昨天」 (hôm qua – Bài 11), 「今天」 (hôm nay – Bài 5), 「明天」 (ngày mai – Bài 6).",
+      "relatedKnowledge": "Hệ thống từ thời gian 昨天/今天/明天"
+    },
+    {
+      "id": "q30-11-18",
+      "section": "writing",
+      "type": "word_order",
+      "points": 1,
+      "reviewTag": "Ôn Bài 8",
+      "prompt": "[Ôn Bài 8 + 11] Sắp xếp thành câu hỏi thời điểm có thể đến nhà hàng:",
+      "tokens": [
+        "能到",
+        "你",
+        "饭店",
+        "什么时候"
+      ],
+      "answer": [
+        "你",
+        "什么时候",
+        "能到",
+        "饭店"
+      ],
+      "acceptedSequences": [
+        [
+          "你",
+          "什么时候",
+          "能到",
+          "饭店"
+        ]
+      ],
+      "explanation": "Cụm hỏi thời gian 「什么时候」 đứng sau chủ ngữ, trước 「能到饭店」 (Bài 8 + Bài 11).",
+      "relatedKnowledge": "Ôn Bài 8 (能到) + Bài 11 (什么时候)"
+    },
+    {
+      "id": "q30-11-19",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "audioText": "喂，李文，你开车没开车？我没开车，坐车呢，正在找饭店。",
+      "prompt": "Nghe đoạn âm thanh và cho biết Lý Văn đang đến nhà hàng bằng cách nào?",
+      "options": [
+        "Tự lái xe ô tô",
+        "Không lái xe mà đang ngồi xe (đi xe) và tìm nhà hàng",
+        "Đang ngủ ở nhà",
+        "Đang ở trường học y"
+      ],
+      "answer": "Không lái xe mà đang ngồi xe (đi xe) và tìm nhà hàng",
+      "explanation": "Lời nghe: 「我没开车，坐车呢，正在找饭店。」.",
+      "relatedKnowledge": "Nghe hiểu Bài 11"
+    },
+    {
+      "id": "q30-11-20",
+      "section": "listening",
+      "type": "listening_choice",
+      "points": 1,
+      "reviewTag": "Ôn Bài 6 & 9",
+      "audioText": "A：你昨天去不去学校读书？ B：去了，我昨天上午在学校读书，晚上和朋友去饭店吃饭。",
+      "prompt": "[Ôn Bài 6, 9, 11] Nghe hội thoại và chọn thông tin ĐÚNG:",
+      "options": [
+        "Hôm qua B không đi học",
+        "Sáng hôm qua B đọc sách ở trường, tối đi nhà hàng ăn cơm cùng bạn",
+        "Hôm qua B đi xem phim một mình",
+        "Hôm qua B ở nhà ngủ cả ngày"
+      ],
+      "answer": "Sáng hôm qua B đọc sách ở trường, tối đi nhà hàng ăn cơm cùng bạn",
+      "explanation": "Kết hợp 「昨天」 (Bài 11), 「上午在学校读书 / 和朋友」 (Bài 9) và 「饭店」 (Bài 11).",
+      "relatedKnowledge": "Nghe tổng hợp Bài 6, 9, 11"
+    },
+    {
+      "id": "q30-11-trb",
+      "section": "writing",
+      "type": "translate_batch_vi_zh",
+      "points": 1,
+      "prompt": "翻译成中文。— Dịch các câu sau sang tiếng Trung (viết bằng chữ Hán).",
+      "items": [
+        {
+          "vi": "Khi nào bạn có thể đến nhà hàng?",
+          "sampleAnswer": "你什么时候能到饭店？",
+          "pinyin": "Nǐ shénme shíhou néng dào fàndiàn?",
+          "acceptedAnswers": [
+            "你什么时候能到饭店"
+          ],
+          "requiredKeywords": [
+            "什么时候",
+            "能到",
+            "饭店"
+          ]
+        },
+        {
+          "vi": "Tôi không lái xe, tôi đang ngồi xe.",
+          "sampleAnswer": "我没开车，坐车呢。",
+          "pinyin": "Wǒ méi kāichē, zuòchē ne.",
+          "acceptedAnswers": [
+            "我没开车坐车呢",
+            "我没有开车坐车呢"
+          ],
+          "requiredKeywords": [
+            "没开车",
+            "坐车"
+          ]
+        },
+        {
+          "vi": "Tôi đang học đại học, tôi học ngành Y.",
+          "sampleAnswer": "我读大学呢，我学医。",
+          "pinyin": "Wǒ dú dàxué ne, wǒ xué yī.",
+          "acceptedAnswers": [
+            "我读大学呢我学医",
+            "我在读大学我学医"
+          ],
+          "requiredKeywords": [
+            "大学",
+            "学医"
+          ]
+        },
+        {
+          "vi": "Em trai đã thức dậy chưa? — Chưa, vẫn đang ngủ.",
+          "sampleAnswer": "弟弟起床没起床呢？没起床呢，还在睡觉。",
+          "pinyin": "Dìdi qǐchuáng méi qǐchuáng ne? Méi qǐchuáng ne, hái zài shuìjiào.",
+          "acceptedAnswers": [
+            "弟弟起床没起床呢没起床呢还在睡觉",
+            "弟弟起床了吗没起床还在睡觉"
+          ],
+          "requiredKeywords": [
+            "弟弟",
+            "起床",
+            "睡觉"
+          ]
+        },
+        {
+          "vi": "[Ôn Bài 9] Hôm qua tôi hỏi em ấy, hôm nay em ấy muốn chơi với các bạn nhỏ.",
+          "sampleAnswer": "我昨天问他，他今天要和小朋友玩。",
+          "pinyin": "Wǒ zuótiān wèn tā, tā jīntiān yào hé xiǎopéngyǒu wán.",
+          "acceptedAnswers": [
+            "我昨天问他他今天要和小朋友玩"
+          ],
+          "requiredKeywords": [
+            "昨天",
+            "问",
+            "小朋友",
+            "玩"
+          ]
+        }
+      ],
+      "explanation": "Luyện dịch câu hoàn chỉnh Việt → Trung vận dụng từ mới và ngữ pháp Bài 11 kết hợp ôn bài cũ.",
+      "relatedKnowledge": "Viết câu & Dịch Việt → Trung Bài 11"
+    }
+  ]
+}
