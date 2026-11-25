@@ -15,31 +15,24 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout mã nguồn
-        uses: actions/checkout@v4
-      - name: Cài đặt Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - name: Cài đặt thư viện
-        run: npm install
-      - name: Đóng gói ứng dụng
-        run: npm run build
-      - name: Tải gói lên GitHub Pages
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist
-
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
     steps:
+      - name: Checkout mã nguồn
+        uses: actions/checkout@v4
+      - name: Chuẩn bị gói web tĩnh
+        run: |
+          mkdir -p dist
+          cp index.html dist/index.html
+          cp -r public/images dist/images
+          if [ -d public/audio ]; then cp -r public/audio dist/audio; fi
+      - name: Tải gói lên GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
       - name: Triển khai lên GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
