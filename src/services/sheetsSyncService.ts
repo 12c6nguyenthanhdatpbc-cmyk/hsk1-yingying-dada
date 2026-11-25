@@ -1,6 +1,6 @@
 // Cầu nối đồng bộ nội dung từ Google Sheets & gửi điểm học viên qua Google Apps Script
 // Dán link Web App Google Apps Script của bạn vào đây để áp dụng mặc định cho mọi học viên:
-export const DEFAULT_GAS_WEBAPP_URL = '';
+export const DEFAULT_GAS_WEBAPP_URL = 'https://script.google.com/macros/s/AKfycbxXpjdg_Nu7RUJC9zvJKaNzySMMc2Ts5uNxYkHbBu_-7pefDv5kPkQTMmAmw0EOt0cTLA/exec';
 
 const GAS_URL_STORAGE_KEY = 'yydd_gas_webapp_url';
 const STUDENT_INFO_KEY = 'yydd_student_info';
